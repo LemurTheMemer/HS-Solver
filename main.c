@@ -259,14 +259,14 @@ int makeLineups(int allLineups[][NUM_LINEUPS], int decksPerLU, char index[NUM_DE
             for (j = i + 1; j < numDecks - 1; j++)
             {
                 // Exclude duplicate classes
-                if (index[j][strlen(index[j] + 1)] == index[i][strlen(index[i] + 1)])
+                if (index[j][strlen(index[j]) + 1] == index[i][strlen(index[i]) + 1])
                 {
                     continue;
                 }
                 for (k = j + 1; k < numDecks; k++)
                 {
                     // Exclude duplicate classes
-                    if (index[k][strlen(index[k] + 1)] == index[i][strlen(index[i] + 1)] || index[k][strlen(index[k] + 1)] == index[j][strlen(index[j] + 1)])
+                    if (index[k][strlen(index[k]) + 1] == index[i][strlen(index[i]) + 1] || index[k][strlen(index[k]) + 1] == index[j][strlen(index[j]) + 1])
                     {
                         continue;
                     }
@@ -286,21 +286,21 @@ int makeLineups(int allLineups[][NUM_LINEUPS], int decksPerLU, char index[NUM_DE
             for (j = i + 1; j < numDecks - 2; j++)
             {
                 // Exclude duplicate classes
-                if (index[j][strlen(index[j] + 1)] == index[i][strlen(index[i] + 1)])
+                if (index[j][strlen(index[j]) + 1] == index[i][strlen(index[i]) + 1])
                 {
                     continue;
                 }
                 for (k = j + 1; k < numDecks - 1; k++)
                 {
                     // Exclude duplicate classes
-                    if (index[k][strlen(index[k] + 1)] == index[i][strlen(index[i] + 1)] || index[k][strlen(index[k] + 1)] == index[j][strlen(index[j] + 1)])
+                    if (index[k][strlen(index[k]) + 1] == index[i][strlen(index[i]) + 1] || index[k][strlen(index[k]) + 1] == index[j][strlen(index[j]) + 1])
                     {
                         continue;
                     }
                     for (l = k + 1; l < numDecks; l++)
                     {
                         // Exclude duplicate classes
-                        if (index[l][strlen(index[l] + 1)] == index[i][strlen(index[i] + 1)] || index[l][strlen(index[l] + 1)] == index[j][strlen(index[j] + 1)] || index[l][strlen(index[l] + 1)] == index[k][strlen(index[k] + 1)])
+                        if (index[l][strlen(index[l]) + 1] == index[i][strlen(index[i]) + 1] || index[l][strlen(index[l]) + 1] == index[j][strlen(index[j]) + 1] || index[l][strlen(index[l]) + 1] == index[k][strlen(index[k]) + 1])
                         {
                             continue;
                         }
