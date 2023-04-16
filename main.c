@@ -3,11 +3,11 @@
 #include <string.h>
 #include <math.h>
 #include <stdbool.h>
-#include <errno.h>
 
+#define NUM_EXCLUDE 17
 #define STR_SIZE 50
 #define NUM_DECKS 50
-#define NUM_LINEUPS 10000
+#define NUM_LINEUPS 20000
 #define FIELD_SIZE 200
 #define CLASSNAME_SIZE 3
 #define MATCHUPS_FILENAME "matchups.txt"
@@ -254,16 +254,16 @@ int makeLineups(int allLineups[][NUM_LINEUPS], int decksPerLU, char index[NUM_DE
     // Branch depending on lineup size
     if (decksPerLU == 3) // Bo3
     {
-        for (i = 0; i < numDecks - 2; i++)
+        for (i = 0; i < numDecks - 2 - NUM_EXCLUDE; i++)
         {
-            for (j = i + 1; j < numDecks - 1; j++)
+            for (j = i + 1; j < numDecks - 1 - NUM_EXCLUDE; j++)
             {
                 // Exclude duplicate classes
                 if (index[j][strlen(index[j]) + 1] == index[i][strlen(index[i]) + 1])
                 {
                     continue;
                 }
-                for (k = j + 1; k < numDecks; k++)
+                for (k = j + 1; k < numDecks - NUM_EXCLUDE; k++)
                 {
                     // Exclude duplicate classes
                     if (index[k][strlen(index[k]) + 1] == index[i][strlen(index[i]) + 1] || index[k][strlen(index[k]) + 1] == index[j][strlen(index[j]) + 1])
@@ -336,7 +336,8 @@ float calcEWR1x3(float matrix[1][3])
 }
 float calcEWR2x2(float matrix[2][2])
 {
-    return (((matrix[0][0] + matrix[0][1]) * (1 - (1 - matrix[1][0]) * (1 - matrix[1][1]))) + (1 - matrix[0][0]) * (matrix[0][1] * matrix[1][1]) + (1 - matrix[0][1]) * (matrix[0][0] * matrix[1][0])) / 2;
+    return ((2 * matrix[0][0] * matrix[1][0]) + (2 * matrix[0][1] * matrix[1][1]) + (matrix[0][1] * matrix[1][0]) + (matrix[0][0] * matrix[1][1])
+        - (matrix[0][0] * matrix[0][1] * matrix[1][0]) - (matrix[0][0] * matrix[0][1] * matrix[1][1]) - (matrix[0][0] * matrix[1][0] * matrix[1][1]) - (matrix[0][1] * matrix[1][0] * matrix[1][1])) / 2;
 }
 float calcEWR3x2(float matrix[3][2])
 {
@@ -499,44 +500,41 @@ void calcAllEWRs(float EWRs[], int numLineups, int allLineups[][NUM_LINEUPS], in
 // Quicksort implementation
 int partition(float EWRs[], int allLineups[][NUM_LINEUPS], int low, int high, int decksPerLU)
 {
-    int mid = (low + high) / 2;
-    float pivot = EWRs[mid], tempFloat;
-    int i, j = low - 1, k, tempInt;
+    float pivot = EWRs[low], tempFloat;
+    int i = low - 1, j = high + 1, k, tempInt;
 
-    for (i = low; i <= high; i++)
+    while (1)
     {
-        if (EWRs[i] > pivot)
+        do
         {
-            j++;
-            tempFloat = EWRs[i];
-            EWRs[i] = EWRs[j];
-            EWRs[j] = tempFloat;
-            for (k = 0; k < decksPerLU; k++)
-            {
-                tempInt = allLineups[k][i];
-                allLineups[k][i] = allLineups[k][j];
-                allLineups[k][j] = tempInt;
-            }
+            i++;
+        } while (EWRs[i] > pivot);
+        do 
+        {
+            j--;
+        } while (EWRs[j] < pivot);
+        
+        if (i >= j)
+        {
+            return j;
+        }
+        tempFloat = EWRs[i];
+        EWRs[i] = EWRs[j];
+        EWRs[j] = tempFloat;
+        for (k = 0; k < decksPerLU; k++)
+        {
+            tempInt = allLineups[k][i];
+            allLineups[k][i] = allLineups[k][j];
+            allLineups[k][j] = tempInt;
         }
     }
-    tempFloat = EWRs[mid];
-    EWRs[mid] = EWRs[j + 1];
-    EWRs[j + 1] = tempFloat;
-    for (k = 0; k < decksPerLU; k++)
-    {
-        tempInt = allLineups[k][mid];
-        allLineups[k][mid] = allLineups[k][j + 1];
-        allLineups[k][j + 1] = tempInt;
-    }
-
-    return j + 1;
 }
 void quickSort(float EWRs[], int allLineups[][NUM_LINEUPS], int low, int high, int decksPerLU)
 {
     if (low < high)
     {
         int pi = partition(EWRs, allLineups, low, high, decksPerLU);
-        quickSort(EWRs, allLineups, low, pi - 1, decksPerLU);
+        quickSort(EWRs, allLineups, low, pi, decksPerLU);
         quickSort(EWRs, allLineups, pi + 1, high, decksPerLU);
     }
 }
