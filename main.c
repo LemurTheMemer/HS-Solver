@@ -4,23 +4,26 @@
 #include <math.h>
 #include <stdbool.h>
 
-#define NUM_EXCLUDE 17
-#define STR_SIZE 50
-#define NUM_DECKS 50
-#define NUM_LINEUPS 20000
-#define FIELD_SIZE 200
-#define CLASSNAME_SIZE 3
+#define BESTOF 5
+#define NUM_EXCLUDE 18  // number of decks to exclude (for low sample size)
+#define MATCH_FORMAT 0  // 0 = conquest, 1 = lhs
+#define TOURNAMENT_FORMAT 0 // 0 = flat, 1 = single elim, 2 = double elim, 3 = swiss
+#define STR_SIZE 100     // input line size
+#define NUM_DECKS 100    // max number of decks
+#define NUM_LINEUPS 50000   // max number of possbile generated lineups
+#define FIELD_SIZE 200  // max number of lineups in field
+// names of i/o .txt files
 #define MATCHUPS_FILENAME "matchups.txt"
 #define FIELD_FILENAME "field.txt"
 #define OUTPUT_FILENAME "output.txt"
 
 // Function to determine deck class based on its name
-char determineClass(char *deckName) 
+char determineClass(char* deckName)
 {
     char arg1[STR_SIZE], arg2[STR_SIZE];
     char result;
     strcpy_s(arg2, STR_SIZE, deckName);
-    while (1) 
+    while (1)
     {
         sscanf_s(arg2, "%*s %[^\n]", arg1, (unsigned)_countof(arg1));
         if (!strcmp(arg1, "Death Knight"))
@@ -84,14 +87,14 @@ char determineClass(char *deckName)
 }
 
 // Function to read and store HSReplay matchup data as a 2-D matrix of winrates, returns number of decks in input file
-int readMatchups(const char *filename, float matrix[NUM_DECKS][NUM_DECKS], char index[NUM_DECKS][STR_SIZE]) 
+int readMatchups(const char* filename, float matrix[NUM_DECKS][NUM_DECKS], char index[NUM_DECKS][STR_SIZE])
 {
     char arg1[STR_SIZE], arg2[STR_SIZE], tempArg[STR_SIZE];
     int currHeroIdx = -1;
     int currVillainIdx = 0;
     int i;
 
-    FILE *fp;
+    FILE* fp;
     fopen_s(&fp, filename, "r");
     if (fp == NULL)
     {
@@ -108,7 +111,7 @@ int readMatchups(const char *filename, float matrix[NUM_DECKS][NUM_DECKS], char 
         // Scan for hero deck
         fscanf_s(fp, "%s ", arg1, (unsigned)_countof(arg1));
         // Check for "Not enough data"
-        if (!strcmp(arg1, "Not")) 
+        if (!strcmp(arg1, "Not"))
         {
             // Using 50.0% as a placeholder for insufficient data
             if (currVillainIdx > currHeroIdx)
@@ -124,7 +127,7 @@ int readMatchups(const char *filename, float matrix[NUM_DECKS][NUM_DECKS], char 
             }
             fscanf_s(fp, "\n");
         }
-        else 
+        else
         {
             // Check for mirror
             if (currHeroIdx == currVillainIdx)
@@ -141,6 +144,7 @@ int readMatchups(const char *filename, float matrix[NUM_DECKS][NUM_DECKS], char 
                     // Skip one more line
                     fscanf_s(fp, "\n%*[^\n]\n");
                 }
+                else if (feof(fp)) break;
                 else
                 {
                     fseek(fp, -1 * sizeof(char) * strlen(arg2), SEEK_CUR);
@@ -182,13 +186,12 @@ int readMatchups(const char *filename, float matrix[NUM_DECKS][NUM_DECKS], char 
             // Get winrate into matchup matrix
             sscanf_s(arg2, "%f", &(matrix[currHeroIdx][currVillainIdx]));
             matrix[currHeroIdx][currVillainIdx] /= 100;
-            matrix[currVillainIdx][currHeroIdx] = matrix[currHeroIdx][currVillainIdx];
 
             currVillainIdx++;
         }
     }
 
-    if (fclose(fp) != 0) 
+    if (fclose(fp) != 0)
     {
         perror("error closing matchups file");
         exit(EXIT_FAILURE);
@@ -197,13 +200,13 @@ int readMatchups(const char *filename, float matrix[NUM_DECKS][NUM_DECKS], char 
     return currHeroIdx + 1;
 }
 // Function to read and store field data as a 2-D matrix of indices, returns number of lineups in input file
-int readField(const char *filename, int fieldLineups[][FIELD_SIZE], int decksPerLU, char index[NUM_DECKS][STR_SIZE], int numDecks) 
+int readField(const char* filename, int fieldLineups[][FIELD_SIZE], int decksPerLU, char index[NUM_DECKS][STR_SIZE], int numDecks)
 {
     char arg1[STR_SIZE];
     int i, j, cnt = 0;
     bool exists;
 
-    FILE *fp;
+    FILE* fp;
     fopen_s(&fp, filename, "r");
     if (fp == NULL)
     {
@@ -236,7 +239,7 @@ int readField(const char *filename, int fieldLineups[][FIELD_SIZE], int decksPer
         cnt++;
     }
 
-    if (fclose(fp) != 0) 
+    if (fclose(fp) != 0)
     {
         perror("error closing field file");
         exit(EXIT_FAILURE);
@@ -250,7 +253,7 @@ int readField(const char *filename, int fieldLineups[][FIELD_SIZE], int decksPer
 // Function to populate allLineups with all possible lineups, returns number of lineups generated
 int makeLineups(int allLineups[][NUM_LINEUPS], int decksPerLU, char index[NUM_DECKS][STR_SIZE], int numDecks)
 {
-    int cnt = 0, i , j, k, l;
+    int cnt = 0, i, j, k, l;
     // Branch depending on lineup size
     if (decksPerLU == 3) // Bo3
     {
@@ -281,23 +284,23 @@ int makeLineups(int allLineups[][NUM_LINEUPS], int decksPerLU, char index[NUM_DE
     }
     else if (decksPerLU == 4) // Bo5
     {
-        for (i = 0; i < numDecks - 3; i++)
+        for (i = 0; i < numDecks - 3 - NUM_EXCLUDE; i++)
         {
-            for (j = i + 1; j < numDecks - 2; j++)
+            for (j = i + 1; j < numDecks - 2 - NUM_EXCLUDE; j++)
             {
                 // Exclude duplicate classes
                 if (index[j][strlen(index[j]) + 1] == index[i][strlen(index[i]) + 1])
                 {
                     continue;
                 }
-                for (k = j + 1; k < numDecks - 1; k++)
+                for (k = j + 1; k < numDecks - 1 - NUM_EXCLUDE; k++)
                 {
                     // Exclude duplicate classes
                     if (index[k][strlen(index[k]) + 1] == index[i][strlen(index[i]) + 1] || index[k][strlen(index[k]) + 1] == index[j][strlen(index[j]) + 1])
                     {
                         continue;
                     }
-                    for (l = k + 1; l < numDecks; l++)
+                    for (l = k + 1; l < numDecks - NUM_EXCLUDE; l++)
                     {
                         // Exclude duplicate classes
                         if (index[l][strlen(index[l]) + 1] == index[i][strlen(index[i]) + 1] || index[l][strlen(index[l]) + 1] == index[j][strlen(index[j]) + 1] || index[l][strlen(index[l]) + 1] == index[k][strlen(index[k]) + 1])
@@ -317,41 +320,47 @@ int makeLineups(int allLineups[][NUM_LINEUPS], int decksPerLU, char index[NUM_DE
     }
     return cnt;
 }
-// Functions to solve for EWR by reducing the matrix
-float calcEWR2x1(float matrix[2][1])
-{
-    return matrix[0][0] * matrix[1][0];
-}
-float calcEWR1x2(float matrix[1][2])
-{
-    return 1 - (1 - matrix[0][0]) * (1 - matrix[0][1]);
-}
-float calcEWR3x1(float matrix[3][1])
-{
-    return matrix[0][0] * matrix[1][0] * matrix[2][0];
-}
-float calcEWR1x3(float matrix[1][3])
-{
-    return 1 - (1 - matrix[0][0]) * (1 - matrix[0][1]) * (1 - matrix[0][2]);
-}
+// Functions to solve for EWR
+
 float calcEWR2x2(float matrix[2][2])
 {
-    return ((2 * matrix[0][0] * matrix[1][0]) + (2 * matrix[0][1] * matrix[1][1]) + (matrix[0][1] * matrix[1][0]) + (matrix[0][0] * matrix[1][1])
-        - (matrix[0][0] * matrix[0][1] * matrix[1][0]) - (matrix[0][0] * matrix[0][1] * matrix[1][1]) - (matrix[0][0] * matrix[1][0] * matrix[1][1]) - (matrix[0][1] * matrix[1][0] * matrix[1][1])) / 2;
+    float a = matrix[0][0], b = matrix[0][1], c = matrix[1][0], d = matrix[1][1];
+    return ((2 * a * c) + (2 * b * d) + (b * c) + (a * d) - (a * b * c) - (a * b * d) - (a * c * d) - (b * c * d)) / 2;
 }
-float calcEWR3x2(float matrix[3][2])
-{
-    return ((matrix[0][0] + matrix[0][1]) * calcEWR2x2(&(matrix[1])) + (1 - matrix[0][0]) * calcEWR3x1(matrix + 1) + (1 - matrix[0][1]) * calcEWR3x1(matrix)) / 2;
-}
-float calcEWR2x3(float matrix[2][3])
-{
-    return ((matrix[0][0] + matrix[0][1] + matrix[0][2]) * calcEWR1x3(&(matrix[1])) + (1 - matrix[0][0]) * calcEWR2x2(matrix + 1) + (1 - matrix[0][2]) * calcEWR2x2(matrix)
-            + (1 - matrix[0][1]) * (calcEWR2x1(matrix) + calcEWR2x1(matrix + 2)) / 2) / 3;
-}
+// float calcEWR3x2(float matrix[3][2])
+// {
+//     float a = matrix[0][0], b = matrix[0][1], c = matrix[1][0], d = matrix[1][1], e = matrix[2][0], f = matrix[2][1];
+//     return ((a + b) * ((2 * c * e) + (2 * d * f) + (c * f) + (d * e) - (c * d * e) - (c * d * f) - (c * e * f) - (d * e * f)) / 2 + (c + d) * ((2 * a * e) + (2 * b * f) + (a * f) + (b * e) - (a * b * e) - (a * b * f) - (a * e * f) - (b * e * f)) / 2 + (e + f) * ((2 * a * c) + (2 * b * d) + (a * d) + (b * c) - (a * b * d) - (a * c * d) - (a * b * c) - (b * c * d)) / 2 + (3 - a - c - e) * (b * d * f) + (3 - b - d - f) * (a * c * e)) / 6;
+// }
+// float calcEWR2x3(float matrix[2][3])
+// {
+//     float a = matrix[0][0], b = matrix[0][1], c = matrix[0][2], d = matrix[1][0], e = matrix[1][1], f = matrix[1][2];
+//     return ((a + b + c) * (1 - (1 - d) * (1 - e) * (1 - f)) + (d + e + f) * (1 - (1 - a) * (1 - b) * (1 - c)) + (2 - a - d) * ((2 * b * e) + (2 * c * f) + (b * f) + (c * e) - (b * c * e) - (b * c * f) - (b * e * f) - (c * e * f)) / 2 + (2 - b - e) * ((2 * a * d) + (2 * c * f) + (a * f) + (c * d) - (a * c * d) - (a * d * f) - (a * c * f) - (c * d * f)) / 2 + (2 - c - f) * ((2 * a * d) + (2 * b * e) + (a * e) + (b * d) - (a * b * d) - (a * b * e) - (a * d * e) - (b * d * e)) / 2) / 6;
+// }
 float calcEWR3x3(float matrix[3][3])
 {
-    return ((matrix[0][0] + matrix[0][1] + matrix[0][2]) * calcEWR2x3(&(matrix[1])) + (1 - matrix[0][0]) * calcEWR3x2(matrix + 1) + (1 - matrix[0][2]) * calcEWR3x2(matrix)
-            + (1 - matrix[0][1]) * (calcEWR3x1(matrix) + calcEWR3x1(matrix + 2)) / 2) / 3;
+    float a = matrix[0][0], b = matrix[0][1], c = matrix[0][2], d = matrix[1][0], e = matrix[1][1], f = matrix[1][2], g = matrix[2][0], h = matrix[2][1], i = matrix[2][2];
+    return ((a + b + c) * (((d + e + f) * (1 - (1 - g) * (1 - h) * (1 - i)) + (g + h + i) * (1 - (1 - d) * (1 - e) * (1 - f)) + (2 - d - g) * ((2 * e * h) + (2 * f * i) + (e * i) + (f * h) - (e * f * h) - (e * f * i) - (e * h * i) - (f * h * i)) / 2 + (2 - e - h) * ((2 * d * g) + (2 * f * i) + (d * i) + (f * g) - (d * f * g) - (d * g * i) - (d * f * i) - (f * g * i)) / 2 + (2 - f - i) * ((2 * d * g) + (2 * e * h) + (d * h) + (e * g) - (d * e * g) - (d * e * h) - (d * g * h) - (e * g * h)) / 2) / 6) + (d + e + f) * (((a + b + c) * (1 - (1 - g) * (1 - h) * (1 - i)) + (g + h + i) * (1 - (1 - a) * (1 - b) * (1 - c)) + (2 - a - g) * ((2 * b * h) + (2 * c * i) + (b * i) + (c * h) - (b * c * h) - (b * c * i) - (b * h * i) - (c * h * i)) / 2 + (2 - b - h) * ((2 * a * g) + (2 * c * i) + (a * i) + (c * g) - (a * c * g) - (a * g * i) - (a * c * i) - (c * g * i)) / 2 + (2 - c - i) * ((2 * a * g) + (2 * b * h) + (a * h) + (b * g) - (a * b * g) - (a * b * h) - (a * g * h) - (b * g * h)) / 2) / 6) + (g + h + i) * (((a + b + c) * (1 - (1 - d) * (1 - e) * (1 - f)) + (d + e + f) * (1 - (1 - a) * (1 - b) * (1 - c)) + (2 - a - d) * ((2 * b * e) + (2 * c * f) + (b * f) + (c * e) - (b * c * e) - (b * c * f) - (b * e * f) - (c * e * f)) / 2 + (2 - b - e) * ((2 * a * d) + (2 * c * f) + (a * f) + (c * d) - (a * c * d) - (a * d * f) - (a * c * f) - (c * d * f)) / 2 + (2 - c - f) * ((2 * a * d) + (2 * b * e) + (a * e) + (b * d) - (a * b * d) - (a * b * e) - (a * d * e) - (b * d * e)) / 2) / 6) + (3 - a - d - g) * (((b + c) * ((2 * e * h) + (2 * f * i) + (e * i) + (f * h) - (e * f * h) - (e * f * i) - (e * h * i) - (f * h * i)) / 2 + (e + f) * ((2 * b * h) + (2 * c * i) + (b * i) + (c * h) - (b * c * h) - (b * c * i) - (b * h * i) - (c * h * i)) / 2 + (h + i) * ((2 * b * e) + (2 * c * f) + (b * f) + (c * e) - (b * c * f) - (b * e * f) - (b * c * e) - (c * e * f)) / 2 + (3 - b - e - h) * (c * f * i) + (3 - c - f - i) * (b * e * h)) / 6) + (3 - b - e - h) * (((a + c) * ((2 * d * g) + (2 * f * i) + (d * i) + (f * g) - (d * f * g) - (d * f * i) - (d * g * i) - (f * g * i)) / 2 + (d + f) * ((2 * a * g) + (2 * c * i) + (a * i) + (c * g) - (a * c * g) - (a * c * i) - (a * g * i) - (c * g * i)) / 2 + (g + i) * ((2 * a * d) + (2 * c * f) + (a * f) + (c * d) - (a * c * f) - (a * d * f) - (a * c * d) - (c * d * f)) / 2 + (3 - a - d - g) * (c * f * i) + (3 - c - f - i) * (a * d * g)) / 6) + (3 - c - f - i) * (((a + b) * ((2 * d * g) + (2 * e * h) + (d * h) + (e * g) - (d * e * g) - (d * e * h) - (d * g * h) - (e * g * h)) / 2 + (d + e) * ((2 * a * g) + (2 * b * h) + (a * h) + (b * g) - (a * b * g) - (a * b * h) - (a * g * h) - (b * g * h)) / 2 + (g + h) * ((2 * a * d) + (2 * b * e) + (a * e) + (b * d) - (a * b * e) - (a * d * e) - (a * b * d) - (b * d * e)) / 2 + (3 - a - d - g) * (b * e * h) + (3 - b - e - h) * (a * d * g)) / 6)) / 9;
+}
+float calcEWR2x2LHS(float matrix[2][2])
+{
+    float a = matrix[0][0], b = matrix[0][1], c = matrix[1][0], d = matrix[1][1];
+    return ((2 * a * b) + (2 * c * d) + (b * c) + (a * d) - (a * b * c) - (a * b * d) - (a * c * d) - (b * c * d)) / 2;
+}
+// float calcEWR2x3LHS(float matrix[2][3])
+// {
+//     float a = matrix[0][0], b = matrix[0][1], c = matrix[0][2], d = matrix[1][0], e = matrix[1][1], f = matrix[1][2];
+//     return ((a + d) * ((2 * b * c) + (2 * e * f) + (b * f) + (c * e) - (b * c * e) - (b * c * f) - (b * e * f) - (c * e * f)) / 2 + (b + e) * ((2 * a * c) + (2 * d * f) + (a * f) + (c * d) - (a * c * d) - (a * c * f) - (a * d * f) - (c * d * f)) / 2 + (c + f) * ((2 * a * b) + (2 * d * e) + (a * e) + (b * d) - (a * b * d) - (a * b * e) - (a * d * e) - (b * d * e)) / 2 + (3 - a - b - c) * (d * e * f) + (3 - d - e - f) * (a * b * c)) / 6;
+// }
+// float calcEWR3x2LHS(float matrix[3][2]) 
+// {
+//     float a = matrix[0][0], b = matrix[0][1], c = matrix[1][0], d = matrix[1][1], e = matrix[2][0], f = matrix[2][1];
+//     return ((a + c + e) * (1 - (1 - b) * (1 - d) * (1 - f)) + (b + d + f) * (1 - (1 - a) * (1 - c) * (1 - e)) + (2 - a - b) * ((2 * c * d) + (2 * e * f) + (c * f) + (d * e) - (c * d * e) - (c * d * f) - (c * e * f) - (d * e * f)) / 2 + (2 - c - d) * ((2 * a * b) + (2 * e * f) + (a * f) + (b * e) - (a * b * e) - (a * e * f) - (a * b * f) - (e * b * f)) / 2 + (2 - e - f) * ((2 * a * b) + (2 * c * d) + (a * d) + (b * c) - (a * b * c) - (a * b * d) - (a * c * d) - (b * c * d)) / 2) / 6;
+// }
+float calcEWR3x3LHS(float matrix[3][3])
+{
+    float a = matrix[0][0], b = matrix[0][1], c = matrix[0][2], d = matrix[1][0], e = matrix[1][1], f = matrix[1][2], g = matrix[2][0], h = matrix[2][1], i = matrix[2][2];
+    return ((a + d + g) * (((b + e + h) * (1 - (1 - c) * (1 - f) * (1 - i)) + (c + f + i) * (1 - (1 - b) * (1 - e) * (1 - h)) + (2 - b - c) * ((2 * e * f) + (2 * h * i) + (e * i) + (f * h) - (e * f * h) - (e * f * i) - (e * h * i) - (f * h * i)) / 2 + (2 - e - f) * ((2 * b * c) + (2 * h * i) + (b * i) + (c * h) - (b * c * h) - (b * h * i) - (b * c * i) - (h * c * i)) / 2 + (2 - h - i) * ((2 * b * c) + (2 * e * f) + (b * f) + (c * e) - (b * c * e) - (b * c * f) - (b * e * f) - (c * e * f)) / 2) / 6) + (b + e + h) * (((a + d + g) * (1 - (1 - c) * (1 - f) * (1 - i)) + (c + f + i) * (1 - (1 - a) * (1 - d) * (1 - g)) + (2 - a - c) * ((2 * d * f) + (2 * g * i) + (d * i) + (f * g) - (d * f * g) - (d * f * i) - (d * g * i) - (f * g * i)) / 2 + (2 - d - f) * ((2 * a * c) + (2 * g * i) + (a * i) + (c * g) - (a * c * g) - (a * g * i) - (a * c * i) - (g * c * i)) / 2 + (2 - g - i) * ((2 * a * c) + (2 * d * f) + (a * f) + (c * d) - (a * c * d) - (a * c * f) - (a * d * f) - (c * d * f)) / 2) / 6) + (c + f + i) * (((a + d + g) * (1 - (1 - b) * (1 - e) * (1 - h)) + (b + e + h) * (1 - (1 - a) * (1 - d) * (1 - g)) + (2 - a - b) * ((2 * d * e) + (2 * g * h) + (d * h) + (e * g) - (d * e * g) - (d * e * h) - (d * g * h) - (e * g * h)) / 2 + (2 - d - e) * ((2 * a * b) + (2 * g * h) + (a * h) + (b * g) - (a * b * g) - (a * g * h) - (a * b * h) - (g * b * h)) / 2 + (2 - g - h) * ((2 * a * b) + (2 * d * e) + (a * e) + (b * d) - (a * b * d) - (a * b * e) - (a * d * e) - (b * d * e)) / 2) / 6) + (3 - a - b - c) * (((d + g) * ((2 * e * f) + (2 * h * i) + (e * i) + (f * h) - (e * f * h) - (e * f * i) - (e * h * i) - (f * h * i)) / 2 + (e + h) * ((2 * d * f) + (2 * g * i) + (d * i) + (f * g) - (d * f * g) - (d * f * i) - (d * g * i) - (f * g * i)) / 2 + (f + i) * ((2 * d * e) + (2 * g * h) + (d * h) + (e * g) - (d * e * g) - (d * e * h) - (d * g * h) - (e * g * h)) / 2 + (3 - d - e - f) * (g * h * i) + (3 - g - h - i) * (d * e * f)) / 6) + (3 - d - e - f) * (((a + g) * ((2 * b * c) + (2 * h * i) + (b * i) + (c * h) - (b * c * h) - (b * c * i) - (b * h * i) - (c * h * i)) / 2 + (b + h) * ((2 * a * c) + (2 * g * i) + (a * i) + (c * g) - (a * c * g) - (a * c * i) - (a * g * i) - (c * g * i)) / 2 + (c + i) * ((2 * a * b) + (2 * g * h) + (a * h) + (b * g) - (a * b * g) - (a * b * h) - (a * g * h) - (b * g * h)) / 2 + (3 - a - b - c) * (g * h * i) + (3 - g - h - i) * (a * b * c)) / 6) + (3 - g - h - i) * (((a + d) * ((2 * b * c) + (2 * e * f) + (b * f) + (c * e) - (b * c * e) - (b * c * f) - (b * e * f) - (c * e * f)) / 2 + (b + e) * ((2 * a * c) + (2 * d * f) + (a * f) + (c * d) - (a * c * d) - (a * c * f) - (a * d * f) - (c * d * f)) / 2 + (c + f) * ((2 * a * b) + (2 * d * e) + (a * e) + (b * d) - (a * b * d) - (a * b * e) - (a * d * e) - (b * d * e)) / 2 + (3 - a - b - c) * (d * e * f) + (3 - d - e - f) * (a * b * c)) / 6)) / 9;
 }
 
 // Function using the above functions to calculate EWRs for all lineups in allLineups
@@ -359,7 +368,7 @@ void calcAllEWRs(float EWRs[], int numLineups, int allLineups[][NUM_LINEUPS], in
 {
     int i, j, k, l, heroBan, villainBan;
     float wrSum, banSum, banSumMax;
-    bool pastBan1, pastBan2;
+    bool pastVillainBan, pastHeroBan;
     // Branch depending on lineup size
     if (decksPerLU == 3) // Bo3
     {
@@ -370,7 +379,7 @@ void calcAllEWRs(float EWRs[], int numLineups, int allLineups[][NUM_LINEUPS], in
             for (j = 0; j < fieldSize; j++)
             {
                 heroBan = 0;
-                villainBan = 0; 
+                villainBan = 0;
                 // Find best villain deck (hero ban)
                 banSumMax = 0;
                 for (k = 0; k < 3; k++)
@@ -402,27 +411,35 @@ void calcAllEWRs(float EWRs[], int numLineups, int allLineups[][NUM_LINEUPS], in
                     }
                 }
                 // Populate winrate matrix, excluding banned decks
-                pastBan1 = false;
+                pastVillainBan = false;
                 for (k = 0; k < 3; k++)
                 {
                     if (k == villainBan)
                     {
-                        pastBan1 = true;
+                        pastVillainBan = true;
                         continue;
                     }
-                    pastBan2 = false;
+                    pastHeroBan = false;
                     for (l = 0; l < 3; l++)
                     {
                         if (l == heroBan)
                         {
-                            pastBan2 = true;
+                            pastHeroBan = true;
                             continue;
                         }
-                        matrix[k - pastBan1][l - pastBan2] = matchupMatrix[allLineups[k][i]][fieldLineups[l][j]];
+                        matrix[k - pastVillainBan][l - pastHeroBan] = matchupMatrix[allLineups[k][i]][fieldLineups[l][j]];
                     }
                 }
                 // Calculate EWR for matchup, add to sum
-                wrSum += calcEWR2x2(matrix);
+                switch (MATCH_FORMAT)
+                {
+                case 0:
+                    wrSum += calcEWR2x2(matrix);
+                    break;
+                case 1:
+                    wrSum += calcEWR2x2LHS(matrix);
+                    break;
+                }
             }
             // Populate result array
             EWRs[i] = wrSum / fieldSize;
@@ -437,7 +454,7 @@ void calcAllEWRs(float EWRs[], int numLineups, int allLineups[][NUM_LINEUPS], in
             for (j = 0; j < fieldSize; j++)
             {
                 heroBan = 0;
-                villainBan = 0; 
+                villainBan = 0;
                 // Find best villain deck (hero ban)
                 banSumMax = 0;
                 for (k = 0; k < 4; k++)
@@ -469,27 +486,34 @@ void calcAllEWRs(float EWRs[], int numLineups, int allLineups[][NUM_LINEUPS], in
                     }
                 }
                 // Populate winrate matrix, excluding banned decks
-                pastBan1 = false;
+                pastVillainBan = false;
                 for (k = 0; k < 4; k++)
                 {
                     if (k == villainBan)
                     {
-                        pastBan1 = true;
+                        pastVillainBan = true;
                         continue;
                     }
-                    pastBan2 = false;
+                    pastHeroBan = false;
                     for (l = 0; l < 4; l++)
                     {
                         if (l == heroBan)
                         {
-                            pastBan2 = true;
+                            pastHeroBan = true;
                             continue;
                         }
-                        matrix[k - pastBan1][l - pastBan2] = matchupMatrix[allLineups[k][i]][fieldLineups[l][j]];
+                        matrix[k - pastVillainBan][l - pastHeroBan] = matchupMatrix[allLineups[k][i]][fieldLineups[l][j]];
                     }
                 }
                 // Calculate EWR for matchup, add to sum
-                wrSum += calcEWR3x3(matrix);
+                switch (MATCH_FORMAT) {
+                case 0:
+                    wrSum += calcEWR3x3(matrix);
+                    break;
+                case 1:
+                    wrSum += calcEWR3x3LHS(matrix);
+                    break;
+                }
             }
             // Populate result array
             EWRs[i] = wrSum / fieldSize;
@@ -509,11 +533,11 @@ int partition(float EWRs[], int allLineups[][NUM_LINEUPS], int low, int high, in
         {
             i++;
         } while (EWRs[i] > pivot);
-        do 
+        do
         {
             j--;
         } while (EWRs[j] < pivot);
-        
+
         if (i >= j)
         {
             return j;
@@ -540,9 +564,9 @@ void quickSort(float EWRs[], int allLineups[][NUM_LINEUPS], int low, int high, i
 }
 
 // Function to output the sorted array of lineups and their respective EWRs
-void printResults(const char *filename, float EWRs[], int allLineups[][NUM_LINEUPS], int numLineups, char index[STR_SIZE][NUM_DECKS], int decksPerLU)
+void printResults(const char* filename, float EWRs[], int allLineups[][NUM_LINEUPS], int numLineups, char index[STR_SIZE][NUM_DECKS], int decksPerLU)
 {
-    FILE *fp;
+    FILE* fp;
     int i, j;
 
     fopen_s(&fp, filename, "w");
@@ -564,7 +588,7 @@ void printResults(const char *filename, float EWRs[], int allLineups[][NUM_LINEU
         fprintf(fp, "\t%f\n", EWRs[i]);
     }
 
-    if (fclose(fp) != 0) 
+    if (fclose(fp) != 0)
     {
         perror("error closing output file");
         exit(EXIT_FAILURE);
@@ -574,17 +598,14 @@ void printResults(const char *filename, float EWRs[], int allLineups[][NUM_LINEU
 // TODO: populate allLineups (no duplicate classes), EWRs (with ban), sort both & output
 //       functionality for both bo3 and bo5 (bo7 later), conquest (lhs later), flat (single-elim, swiss, double-elim later)
 //       other ideas for later: closed-list before/after class showdown
-int main() 
+int main()
 {
     int bestOf, decksPerLU;
     int numDecksActual, fieldSizeActual, numLineupsActual;
     float matchupMatrix[NUM_DECKS][NUM_DECKS];
     char matrixIndex[NUM_DECKS][STR_SIZE];
 
-    scanf_s("%d", &bestOf);
-
-
-    decksPerLU = (bestOf + 3) / 2;
+    decksPerLU = (BESTOF + 3) / 2;
 
     int(*allLineups)[NUM_LINEUPS] = malloc(decksPerLU * sizeof(int* [NUM_LINEUPS]));
     int(*fieldLineups)[FIELD_SIZE] = malloc(decksPerLU * sizeof(int* [FIELD_SIZE]));

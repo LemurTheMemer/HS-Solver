@@ -1,1440 +1,1287 @@
-﻿Undead Priest
+﻿Blood Death Knight
 Mirror matchup
 TwitchTwitch VODs available!
-Undead Priest
+Blood Death Knight
+Versus:	Spell Demon Hunter
+Winrate:	57.73%
+Games:	2,257
+Twitch VODs available!
+57.73%
+Blood Death Knight
 Versus:	Miracle Rogue
-Winrate:	48.43%
-Games:	5,306
+Winrate:	47.78%
+Games:	1,758
 Twitch VODs available!
-48.43%
-Undead Priest
-Versus:	Thief Rogue
-Winrate:	50.19%
-Games:	5,116
+47.78%
+Blood Death Knight
+Versus:	Tony Druid
+Winrate:	39.55%
+Games:	1,838
 Twitch VODs available!
-50.19%
-Undead Priest
-Versus:	Quest Druid
-Winrate:	53.21%
-Games:	4,288
-Twitch VODs available!
-53.21%
-Undead Priest
-Versus:	Fel Demon Hunter
-Winrate:	55.98%
-Games:	3,565
-Twitch VODs available!
-55.98%
-Undead Priest
-Versus:	Pure Paladin
-Winrate:	61.36%
-Games:	2,521
-Twitch VODs available!
-61.36%
-Undead Priest
-Versus:	Frost Aggro Death Knight
-Winrate:	52.60%
-Games:	2,150
-Twitch VODs available!
-52.60%
-Undead Priest
-Versus:	Aggro Mage
-Winrate:	38.86%
-Games:	2,025
-Twitch VODs available!
-38.86%
-Undead Priest
-Versus:	Blood Death Knight
-Winrate:	55.05%
-Games:	1,502
-Twitch VODs available!
-55.05%
-Undead Priest
+39.55%
+Blood Death Knight
 Versus:	Unholy Death Knight
-Winrate:	46.80%
-Games:	1,329
+Winrate:	61.70%
+Games:	1,337
 Twitch VODs available!
-46.80%
-Undead Priest
-Versus:	Control Priest
-Winrate:	47.77%
-Games:	990
-Twitch VODs available!
-47.77%
-Undead Priest
-Versus:	Big Spell Mage
-Winrate:	54.66%
-Games:	750
-Twitch VODs available!
-54.66%
-Undead Priest
-Versus:	Other Priest
-Winrate:	57.27%
-Games:	948
-57.27%
-Undead Priest
-Versus:	Svalna Priest
-Winrate:	44.48%
+61.70%
+Blood Death Knight
+Versus:	Other Druid
+Winrate:	46.99%
 Games:	915
+46.99%
+Blood Death Knight
+Versus:	Outcast Demon Hunter
+Winrate:	58.11%
+Games:	924
 Twitch VODs available!
-44.48%
-Undead Priest
-Versus:	Phylactery Warlock
-Winrate:	60.97%
-Games:	802
-Twitch VODs available!
-60.97%
-Undead Priest
-Versus:	Ramp Druid
-Winrate:	57.31%
-Games:	588
-Twitch VODs available!
-57.31%
-Undead Priest
-Versus:	Ping Mage
-Winrate:	53.66%
-Games:	600
-Twitch VODs available!
-53.66%
-Undead Priest
-Versus:	Deathrattle Rogue
-Winrate:	52.18%
-Games:	596
-Twitch VODs available!
-52.18%
-Undead Priest
-Versus:	Imp Warlock
-Winrate:	60.07%
-Games:	506
-Twitch VODs available!
-60.07%
-Undead Priest
-Versus:	Spell Demon Hunter
-Winrate:	53.31%
-Games:	452
-Twitch VODs available!
-53.31%
-Undead Priest
-Versus:	Aggro Demon Hunter
-Winrate:	53.08%
-Games:	373
-Twitch VODs available!
-53.08%
-Undead Priest
-Versus:	Thaddius Warlock
-Winrate:	64.61%
-Games:	308
-Twitch VODs available!
-64.61%
-Undead Priest
-Versus:	Quest Priest
-Winrate:	49.26%
-Games:	272
-Twitch VODs available!
-49.26%
-Undead Priest
-Versus:	Shockspitter Hunter
-Winrate:	54.57%
-Games:	295
-Twitch VODs available!
-54.57%
-Undead Priest
-Versus:	Curse Imp Warlock
-Winrate:	66.38%
-Games:	235
-Twitch VODs available!
-66.38%
-Undead Priest
-Versus:	Thaddius Rogue
-Winrate:	57.36%
-Games:	258
-57.36%
-Undead Priest
-Versus:	Beast Hunter
-Winrate:	61.29%
-Games:	186
-Twitch VODs available!
-61.29%
-Undead Priest
-Versus:	Enrage Warrior
-Winrate:	50.69%
-Games:	215
-Twitch VODs available!
-50.69%
-Undead Priest
-Versus:	Other Shaman
-Winrate:	45.54%
-Games:	202
-45.54%
-Undead Priest
-Versus:	Other Rogue
-Winrate:	59.41%
-Games:	170
-59.41%
-Undead Priest
-Versus:	Control Warrior
-Winrate:	50.42%
-Games:	119
-Twitch VODs available!
-50.42%
-Undead Priest
-Versus:	Frost Death Knight
-Winrate:	44.44%
-Games:	99
-Twitch VODs available!
-44.44%
-Undead Priest
-Versus:	Quest Hunter
-Winrate:	52.68%
-Games:	93
-Twitch VODs available!
-52.68%
-Undead Priest
-Versus:	Evolve Shaman
-Winrate:	45.88%
-Games:	85
-Twitch VODs available!
-45.88%
-Undead Priest
-Versus:	Dragon Paladin
-Winrate:	47.36%
-Games:	76
-Twitch VODs available!
-47.36%
-Undead Priest
-Versus:	Aggro Druid
-Winrate:	70.00%
-Games:	70
-Twitch VODs available!
-70.00%
-Undead Priest
-Versus:	Murloc Shaman
-Winrate:	54.41%
-Games:	68
-Twitch VODs available!
-54.41%
-Undead Priest
-Versus:	Casino Mage
-Winrate:	63.33%
-Games:	60
-Twitch VODs available!
-63.33%
-Undead Priest
-Versus:	Other Warlock
-Winrate:	60.37%
-Games:	53
-60.37%
-Undead Priest
-Versus:	Quest Warlock
-Winrate:	38.29%
-Games:	47
-38.29%
-Undead Priest
-Versus:	Charge Warrior
-Winrate:	46.15%
-Games:	65
-Twitch VODs available!
-46.15%
-Undead Priest
-Versus:	Murloc Warlock
-Winrate:	60.71%
-Games:	56
-Twitch VODs available!
-60.71%
-Undead Priest
-Versus:	Other Paladin
-Winrate:	68.18%
-Games:	44
-68.18%
-Not enough games
-
-⁓
-Miracle Rogue
+58.11%
+Blood Death Knight
 Versus:	Undead Priest
-Winrate:	51.56%
-Games:	5,306
+Winrate:	46.54%
+Games:	840
 Twitch VODs available!
-51.56%
-Miracle Rogue
-Mirror matchup
-TwitchTwitch VODs available!
-Miracle Rogue
-Versus:	Thief Rogue
-Winrate:	52.71%
-Games:	4,644
-Twitch VODs available!
-52.71%
-Miracle Rogue
-Versus:	Quest Druid
-Winrate:	65.59%
-Games:	4,264
-Twitch VODs available!
-65.59%
-Miracle Rogue
-Versus:	Fel Demon Hunter
-Winrate:	63.17%
-Games:	2,311
-Twitch VODs available!
-63.17%
-Miracle Rogue
-Versus:	Pure Paladin
-Winrate:	49.33%
-Games:	1,721
-Twitch VODs available!
-49.33%
-Miracle Rogue
-Versus:	Frost Aggro Death Knight
-Winrate:	45.31%
-Games:	1,452
-Twitch VODs available!
-45.31%
-Miracle Rogue
-Versus:	Aggro Mage
-Winrate:	40.84%
-Games:	2,059
-Twitch VODs available!
-40.84%
-Miracle Rogue
-Versus:	Blood Death Knight
-Winrate:	55.91%
-Games:	946
-Twitch VODs available!
-55.91%
-Miracle Rogue
-Versus:	Unholy Death Knight
-Winrate:	42.30%
-Games:	955
-Twitch VODs available!
-42.30%
-Miracle Rogue
-Versus:	Control Priest
-Winrate:	45.04%
-Games:	837
-Twitch VODs available!
-45.04%
-Miracle Rogue
-Versus:	Big Spell Mage
-Winrate:	46.66%
-Games:	645
-Twitch VODs available!
-46.66%
-Miracle Rogue
-Versus:	Other Priest
-Winrate:	52.50%
-Games:	800
-52.50%
-Miracle Rogue
-Versus:	Svalna Priest
-Winrate:	43.88%
-Games:	818
-Twitch VODs available!
-43.88%
-Miracle Rogue
-Versus:	Phylactery Warlock
-Winrate:	70.36%
-Games:	722
-Twitch VODs available!
-70.36%
-Miracle Rogue
-Versus:	Ramp Druid
-Winrate:	65.19%
-Games:	385
-Twitch VODs available!
-65.19%
-Miracle Rogue
-Versus:	Ping Mage
-Winrate:	46.40%
-Games:	375
-Twitch VODs available!
-46.40%
-Miracle Rogue
-Versus:	Deathrattle Rogue
-Winrate:	39.05%
-Games:	443
-Twitch VODs available!
-39.05%
-Miracle Rogue
-Versus:	Imp Warlock
-Winrate:	50.35%
-Games:	278
-Twitch VODs available!
-50.35%
-Miracle Rogue
-Versus:	Spell Demon Hunter
-Winrate:	62.98%
-Games:	281
-Twitch VODs available!
-62.98%
-Miracle Rogue
-Versus:	Aggro Demon Hunter
-Winrate:	47.05%
-Games:	221
-Twitch VODs available!
-47.05%
-Miracle Rogue
-Versus:	Thaddius Warlock
-Winrate:	62.56%
-Games:	179
-Twitch VODs available!
-62.56%
-Miracle Rogue
-Versus:	Quest Priest
-Winrate:	42.46%
-Games:	292
-Twitch VODs available!
-42.46%
-Miracle Rogue
-Versus:	Shockspitter Hunter
-Winrate:	51.89%
-Games:	237
-Twitch VODs available!
-51.89%
-Miracle Rogue
-Versus:	Curse Imp Warlock
-Winrate:	63.07%
-Games:	130
-Twitch VODs available!
-63.07%
-Miracle Rogue
-Versus:	Thaddius Rogue
-Winrate:	60.16%
-Games:	123
-Twitch VODs available!
-60.16%
-Miracle Rogue
-Versus:	Beast Hunter
-Winrate:	48.14%
-Games:	135
-Twitch VODs available!
-48.14%
-Miracle Rogue
-Versus:	Enrage Warrior
-Winrate:	67.85%
-Games:	140
-Twitch VODs available!
-67.85%
-Miracle Rogue
-Versus:	Other Shaman
-Winrate:	65.32%
-Games:	124
-65.32%
-Miracle Rogue
-Versus:	Other Rogue
-Winrate:	60.34%
-Games:	116
-60.34%
-Miracle Rogue
-Versus:	Control Warrior
-Winrate:	50.00%
-Games:	120
-Twitch VODs available!
-50.00%
-Miracle Rogue
+46.54%
+Blood Death Knight
 Versus:	Frost Death Knight
-Winrate:	42.64%
-Games:	68
+Winrate:	55.84%
+Games:	779
 Twitch VODs available!
-42.64%
-Miracle Rogue
-Versus:	Quest Hunter
-Winrate:	62.68%
-Games:	67
+55.84%
+Blood Death Knight
+Versus:	Big Demon Hunter
+Winrate:	41.12%
+Games:	710
 Twitch VODs available!
-62.68%
-Miracle Rogue
-Versus:	Evolve Shaman
-Winrate:	50.48%
-Games:	103
-Twitch VODs available!
-50.48%
-Miracle Rogue
-Versus:	Dragon Paladin
-Winrate:	48.27%
-Games:	58
-Twitch VODs available!
-48.27%
-Miracle Rogue
-Versus:	Aggro Druid
-Winrate:	51.02%
-Games:	49
-51.02%
-Miracle Rogue
-Versus:	Murloc Shaman
-Winrate:	41.93%
-Games:	31
-41.93%
-Not enough games
-
-⁓
-Miracle Rogue
-Versus:	Other Warlock
-Winrate:	81.81%
-Games:	44
-81.81%
-Miracle Rogue
-Versus:	Quest Warlock
-Winrate:	83.33%
-Games:	30
-83.33%
-Miracle Rogue
-Versus:	Charge Warrior
-Winrate:	54.68%
-Games:	64
-54.68%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Miracle Rogue
-Versus:	Quest Warrior
-Winrate:	70.00%
-Games:	30
-70.00%
-Thief Rogue
-Versus:	Undead Priest
-Winrate:	49.76%
-Games:	5,116
-Twitch VODs available!
-49.76%
-Thief Rogue
-Versus:	Miracle Rogue
-Winrate:	47.28%
-Games:	4,644
-Twitch VODs available!
-47.28%
-Thief Rogue
-Mirror matchup
-TwitchTwitch VODs available!
-Thief Rogue
-Versus:	Quest Druid
-Winrate:	40.43%
-Games:	3,640
-Twitch VODs available!
-40.43%
-Thief Rogue
-Versus:	Fel Demon Hunter
-Winrate:	40.62%
-Games:	2,639
-Twitch VODs available!
-40.62%
-Thief Rogue
-Versus:	Pure Paladin
-Winrate:	45.91%
-Games:	1,932
-Twitch VODs available!
-45.91%
-Thief Rogue
-Versus:	Frost Aggro Death Knight
-Winrate:	46.87%
-Games:	1,662
-Twitch VODs available!
-46.87%
-Thief Rogue
-Versus:	Aggro Mage
-Winrate:	45.20%
-Games:	1,670
-Twitch VODs available!
-45.20%
-Thief Rogue
-Versus:	Blood Death Knight
-Winrate:	62.56%
-Games:	1,218
-Twitch VODs available!
-62.56%
-Thief Rogue
-Versus:	Unholy Death Knight
-Winrate:	53.80%
-Games:	998
-Twitch VODs available!
-53.80%
-Thief Rogue
+41.12%
+Blood Death Knight
 Versus:	Control Priest
-Winrate:	60.13%
-Games:	715
+Winrate:	38.28%
+Games:	538
 Twitch VODs available!
-60.13%
-Thief Rogue
-Versus:	Big Spell Mage
-Winrate:	49.00%
-Games:	655
+38.28%
+Blood Death Knight
+Versus:	Pure Paladin
+Winrate:	51.76%
+Games:	396
 Twitch VODs available!
-49.00%
-Thief Rogue
-Versus:	Other Priest
-Winrate:	60.22%
-Games:	719
-60.22%
-Thief Rogue
-Versus:	Svalna Priest
-Winrate:	53.38%
-Games:	738
+51.76%
+Blood Death Knight
+Versus:	Spooky Mage
+Winrate:	51.83%
+Games:	409
 Twitch VODs available!
-53.38%
-Thief Rogue
-Versus:	Phylactery Warlock
-Winrate:	41.28%
-Games:	671
+51.83%
+Blood Death Knight
+Versus:	Relic Demon Hunter
+Winrate:	34.75%
+Games:	328
 Twitch VODs available!
-41.28%
-Thief Rogue
-Versus:	Ramp Druid
-Winrate:	45.19%
-Games:	520
+34.75%
+Blood Death Knight
+Versus:	Face Hunter
+Winrate:	57.53%
+Games:	332
 Twitch VODs available!
-45.19%
-Thief Rogue
-Versus:	Ping Mage
-Winrate:	40.92%
-Games:	391
+57.53%
+Blood Death Knight
+Versus:	Naga Mage
+Winrate:	54.92%
+Games:	335
 Twitch VODs available!
-40.92%
-Thief Rogue
-Versus:	Deathrattle Rogue
+54.92%
+Blood Death Knight
+Versus:	Totem Shaman
+Winrate:	53.90%
+Games:	256
+Twitch VODs available!
+53.90%
+Blood Death Knight
+Versus:	Thief Priest
+Winrate:	32.52%
+Games:	206
+Twitch VODs available!
+32.52%
+Blood Death Knight
+Versus:	Big Druid
+Winrate:	34.48%
+Games:	203
+Twitch VODs available!
+34.48%
+Blood Death Knight
+Versus:	Burn Mage
+Winrate:	52.90%
+Games:	155
+Twitch VODs available!
+52.90%
+Blood Death Knight
+Versus:	Riff 'n' Roll Warrior
+Winrate:	47.30%
+Games:	167
+Twitch VODs available!
+47.30%
+Blood Death Knight
+Versus:	Secret Rogue
+Winrate:	39.43%
+Games:	142
+Twitch VODs available!
+39.43%
+Blood Death Knight
+Versus:	Fatigue Imp Warlock
 Winrate:	50.00%
-Games:	380
+Games:	118
 Twitch VODs available!
 50.00%
-Thief Rogue
-Versus:	Imp Warlock
-Winrate:	44.72%
-Games:	398
-Twitch VODs available!
-44.72%
-Thief Rogue
-Versus:	Spell Demon Hunter
-Winrate:	40.84%
-Games:	333
-Twitch VODs available!
-40.84%
-Thief Rogue
-Versus:	Aggro Demon Hunter
-Winrate:	48.98%
-Games:	296
-Twitch VODs available!
-48.98%
-Thief Rogue
+Blood Death Knight
 Versus:	Thaddius Warlock
-Winrate:	55.25%
-Games:	257
-Twitch VODs available!
-55.25%
-Thief Rogue
-Versus:	Quest Priest
-Winrate:	63.40%
-Games:	194
-Twitch VODs available!
-63.40%
-Thief Rogue
-Versus:	Shockspitter Hunter
-Winrate:	43.64%
-Games:	236
-Twitch VODs available!
-43.64%
-Thief Rogue
-Versus:	Curse Imp Warlock
-Winrate:	43.83%
-Games:	219
-Twitch VODs available!
-43.83%
-Thief Rogue
-Versus:	Thaddius Rogue
-Winrate:	48.98%
-Games:	247
-Twitch VODs available!
-48.98%
-Thief Rogue
-Versus:	Beast Hunter
-Winrate:	50.00%
-Games:	148
-Twitch VODs available!
-50.00%
-Thief Rogue
-Versus:	Enrage Warrior
-Winrate:	49.52%
+Winrate:	47.61%
 Games:	105
 Twitch VODs available!
-49.52%
-Thief Rogue
-Versus:	Other Shaman
-Winrate:	59.00%
-Games:	161
-59.00%
-Thief Rogue
-Versus:	Other Rogue
-Winrate:	50.00%
-Games:	130
-50.00%
-Thief Rogue
-Versus:	Control Warrior
-Winrate:	60.41%
-Games:	96
+47.61%
+Blood Death Knight
+Versus:	Menagerie Warrior
+Winrate:	51.48%
+Games:	101
 Twitch VODs available!
-60.41%
-Thief Rogue
-Versus:	Frost Death Knight
-Winrate:	55.38%
-Games:	65
-55.38%
-Thief Rogue
-Versus:	Quest Hunter
-Winrate:	44.30%
-Games:	79
+51.48%
+Blood Death Knight
+Versus:	Mech Paladin
+Winrate:	48.54%
+Games:	103
 Twitch VODs available!
-44.30%
-Thief Rogue
-Versus:	Evolve Shaman
-Winrate:	58.18%
+48.54%
+Blood Death Knight
+Versus:	Drum Druid
+Winrate:	51.40%
+Games:	107
+Twitch VODs available!
+51.40%
+Blood Death Knight
+Versus:	Enrage Warrior
+Winrate:	38.94%
+Games:	95
+Twitch VODs available!
+38.94%
+Blood Death Knight
+Versus:	Naga Lightshow Mage
+Winrate:	51.61%
+Games:	62
+Twitch VODs available!
+51.61%
+Blood Death Knight
+Versus:	Dagger Rogue
+Winrate:	61.53%
+Games:	52
+Twitch VODs available!
+61.53%
+Blood Death Knight
+Versus:	Arcane Hunter
+Winrate:	60.00%
 Games:	55
 Twitch VODs available!
-58.18%
-Thief Rogue
-Versus:	Dragon Paladin
-Winrate:	62.26%
-Games:	53
+60.00%
+Blood Death Knight
+Versus:	Dancing Paladin
+Winrate:	47.22%
+Games:	36
 Twitch VODs available!
-62.26%
-Thief Rogue
-Versus:	Aggro Druid
-Winrate:	54.23%
-Games:	59
+47.22%
+Blood Death Knight
+Versus:	Hybrid Hunter
+Winrate:	53.33%
+Games:	30
 Twitch VODs available!
-54.23%
-Thief Rogue
-Versus:	Murloc Shaman
-Winrate:	60.78%
-Games:	51
-60.78%
-Thief Rogue
-Versus:	Casino Mage
-Winrate:	59.57%
+53.33%
+Blood Death Knight
+Versus:	Other Priest
+Winrate:	40.74%
+Games:	54
+40.74%
+Not enough games
+
+⁓
+Spell Demon Hunter
+Versus:	Blood Death Knight
+Winrate:	42.22%
+Games:	2,257
+Twitch VODs available!
+42.22%
+Spell Demon Hunter
+Mirror matchup
+TwitchTwitch VODs available!
+Spell Demon Hunter
+Versus:	Miracle Rogue
+Winrate:	61.20%
+Games:	1,776
+Twitch VODs available!
+61.20%
+Spell Demon Hunter
+Versus:	Tony Druid
+Winrate:	36.97%
+Games:	1,566
+Twitch VODs available!
+36.97%
+Spell Demon Hunter
+Versus:	Unholy Death Knight
+Winrate:	46.28%
+Games:	1,210
+Twitch VODs available!
+46.28%
+Spell Demon Hunter
+Versus:	Other Druid
+Winrate:	42.00%
+Games:	976
+42.00%
+Spell Demon Hunter
+Versus:	Outcast Demon Hunter
+Winrate:	61.92%
+Games:	914
+Twitch VODs available!
+61.92%
+Spell Demon Hunter
+Versus:	Undead Priest
+Winrate:	63.15%
+Games:	806
+Twitch VODs available!
+63.15%
+Spell Demon Hunter
+Versus:	Frost Death Knight
+Winrate:	64.81%
+Games:	756
+Twitch VODs available!
+64.81%
+Spell Demon Hunter
+Versus:	Big Demon Hunter
+Winrate:	58.03%
+Games:	734
+Twitch VODs available!
+58.03%
+Spell Demon Hunter
+Versus:	Control Priest
+Winrate:	64.12%
+Games:	577
+Twitch VODs available!
+64.12%
+Spell Demon Hunter
+Versus:	Pure Paladin
+Winrate:	66.48%
+Games:	358
+Twitch VODs available!
+66.48%
+Spell Demon Hunter
+Versus:	Spooky Mage
+Winrate:	42.27%
+Games:	414
+Twitch VODs available!
+42.27%
+Spell Demon Hunter
+Versus:	Relic Demon Hunter
+Winrate:	77.94%
+Games:	331
+Twitch VODs available!
+77.94%
+Spell Demon Hunter
+Versus:	Face Hunter
+Winrate:	51.57%
+Games:	285
+Twitch VODs available!
+51.57%
+Spell Demon Hunter
+Versus:	Naga Mage
+Winrate:	51.83%
+Games:	299
+Twitch VODs available!
+51.83%
+Spell Demon Hunter
+Versus:	Totem Shaman
+Winrate:	51.83%
+Games:	218
+Twitch VODs available!
+51.83%
+Spell Demon Hunter
+Versus:	Thief Priest
+Winrate:	63.30%
+Games:	218
+Twitch VODs available!
+63.30%
+Spell Demon Hunter
+Versus:	Big Druid
+Winrate:	56.98%
+Games:	186
+Twitch VODs available!
+56.98%
+Spell Demon Hunter
+Versus:	Burn Mage
+Winrate:	40.44%
+Games:	136
+Twitch VODs available!
+40.44%
+Spell Demon Hunter
+Versus:	Riff 'n' Roll Warrior
+Winrate:	46.25%
+Games:	147
+Twitch VODs available!
+46.25%
+Spell Demon Hunter
+Versus:	Secret Rogue
+Winrate:	57.62%
+Games:	118
+Twitch VODs available!
+57.62%
+Spell Demon Hunter
+Versus:	Fatigue Imp Warlock
+Winrate:	73.52%
+Games:	102
+Twitch VODs available!
+73.52%
+Spell Demon Hunter
+Versus:	Thaddius Warlock
+Winrate:	50.00%
+Games:	122
+Twitch VODs available!
+50.00%
+Spell Demon Hunter
+Versus:	Menagerie Warrior
+Winrate:	49.13%
+Games:	116
+Twitch VODs available!
+49.13%
+Spell Demon Hunter
+Versus:	Mech Paladin
+Winrate:	43.00%
+Games:	100
+Twitch VODs available!
+43.00%
+Spell Demon Hunter
+Versus:	Drum Druid
+Winrate:	58.33%
+Games:	108
+58.33%
+Spell Demon Hunter
+Versus:	Enrage Warrior
+Winrate:	57.30%
+Games:	89
+Twitch VODs available!
+57.30%
+Spell Demon Hunter
+Versus:	Naga Lightshow Mage
+Winrate:	64.70%
+Games:	68
+Twitch VODs available!
+64.70%
+Spell Demon Hunter
+Versus:	Dagger Rogue
+Winrate:	46.80%
 Games:	47
 Twitch VODs available!
-59.57%
-Thief Rogue
-Versus:	Other Warlock
-Winrate:	60.00%
-Games:	35
-60.00%
-Thief Rogue
-Versus:	Quest Warlock
+46.80%
+Spell Demon Hunter
+Versus:	Arcane Hunter
+Winrate:	58.49%
+Games:	53
+Twitch VODs available!
+58.49%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Spell Demon Hunter
+Versus:	Combo Rogue
+Winrate:	54.83%
+Games:	31
+Twitch VODs available!
+54.83%
+Miracle Rogue
+Versus:	Blood Death Knight
+Winrate:	52.21%
+Games:	1,758
+Twitch VODs available!
+52.21%
+Miracle Rogue
+Versus:	Spell Demon Hunter
+Winrate:	38.73%
+Games:	1,776
+Twitch VODs available!
+38.73%
+Miracle Rogue
+Mirror matchup
+TwitchTwitch VODs available!
+Miracle Rogue
+Versus:	Tony Druid
+Winrate:	58.24%
+Games:	1,183
+Twitch VODs available!
+58.24%
+Miracle Rogue
+Versus:	Unholy Death Knight
+Winrate:	43.22%
+Games:	937
+Twitch VODs available!
+43.22%
+Miracle Rogue
+Versus:	Other Druid
+Winrate:	57.16%
+Games:	824
+57.16%
+Miracle Rogue
+Versus:	Outcast Demon Hunter
+Winrate:	49.18%
+Games:	738
+Twitch VODs available!
+49.18%
+Miracle Rogue
+Versus:	Undead Priest
+Winrate:	47.49%
+Games:	558
+Twitch VODs available!
+47.49%
+Miracle Rogue
+Versus:	Frost Death Knight
+Winrate:	43.57%
+Games:	599
+Twitch VODs available!
+43.57%
+Miracle Rogue
+Versus:	Big Demon Hunter
+Winrate:	54.79%
+Games:	438
+Twitch VODs available!
+54.79%
+Miracle Rogue
+Versus:	Control Priest
+Winrate:	39.86%
+Games:	429
+Twitch VODs available!
+39.86%
+Miracle Rogue
+Versus:	Pure Paladin
+Winrate:	52.07%
+Games:	265
+Twitch VODs available!
+52.07%
+Miracle Rogue
+Versus:	Spooky Mage
+Winrate:	58.84%
+Games:	311
+Twitch VODs available!
+58.84%
+Miracle Rogue
+Versus:	Relic Demon Hunter
+Winrate:	59.60%
+Games:	250
+Twitch VODs available!
+59.60%
+Miracle Rogue
+Versus:	Face Hunter
+Winrate:	60.40%
+Games:	197
+Twitch VODs available!
+60.40%
+Miracle Rogue
+Versus:	Naga Mage
+Winrate:	59.77%
+Games:	266
+Twitch VODs available!
+59.77%
+Miracle Rogue
+Versus:	Totem Shaman
+Winrate:	59.81%
+Games:	214
+Twitch VODs available!
+59.81%
+Miracle Rogue
+Versus:	Thief Priest
+Winrate:	38.29%
+Games:	188
+Twitch VODs available!
+38.29%
+Miracle Rogue
+Versus:	Big Druid
+Winrate:	46.01%
+Games:	163
+Twitch VODs available!
+46.01%
+Miracle Rogue
+Versus:	Burn Mage
+Winrate:	57.81%
+Games:	128
+Twitch VODs available!
+57.81%
+Miracle Rogue
+Versus:	Riff 'n' Roll Warrior
+Winrate:	58.92%
+Games:	112
+Twitch VODs available!
+58.92%
+Miracle Rogue
+Versus:	Secret Rogue
+Winrate:	54.54%
+Games:	99
+Twitch VODs available!
+54.54%
+Miracle Rogue
+Versus:	Fatigue Imp Warlock
+Winrate:	65.76%
+Games:	111
+Twitch VODs available!
+65.76%
+Miracle Rogue
+Versus:	Thaddius Warlock
+Winrate:	58.33%
+Games:	84
+Twitch VODs available!
+58.33%
+Miracle Rogue
+Versus:	Menagerie Warrior
+Winrate:	74.02%
+Games:	77
+Twitch VODs available!
+74.02%
+Miracle Rogue
+Versus:	Mech Paladin
+Winrate:	61.01%
+Games:	59
+Twitch VODs available!
+61.01%
+Miracle Rogue
+Versus:	Drum Druid
+Winrate:	53.33%
+Games:	75
+Twitch VODs available!
+53.33%
+Miracle Rogue
+Versus:	Enrage Warrior
+Winrate:	59.42%
+Games:	69
+Twitch VODs available!
+59.42%
+Miracle Rogue
+Versus:	Naga Lightshow Mage
+Winrate:	78.72%
+Games:	47
+78.72%
+Miracle Rogue
+Versus:	Dagger Rogue
 Winrate:	44.11%
 Games:	34
 Twitch VODs available!
 44.11%
-Thief Rogue
-Versus:	Charge Warrior
-Winrate:	52.38%
-Games:	42
-52.38%
 Not enough games
 
 ⁓
-Thief Rogue
-Versus:	Other Paladin
-Winrate:	67.64%
-Games:	34
-67.64%
 Not enough games
 
 ⁓
-Quest Druid
-Versus:	Undead Priest
-Winrate:	46.75%
-Games:	4,288
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Tony Druid
+Versus:	Blood Death Knight
+Winrate:	60.44%
+Games:	1,838
 Twitch VODs available!
-46.75%
-Quest Druid
+60.44%
+Tony Druid
+Versus:	Spell Demon Hunter
+Winrate:	63.02%
+Games:	1,566
+Twitch VODs available!
+63.02%
+Tony Druid
 Versus:	Miracle Rogue
-Winrate:	34.40%
-Games:	4,264
+Winrate:	41.75%
+Games:	1,183
 Twitch VODs available!
-34.40%
-Quest Druid
-Versus:	Thief Rogue
-Winrate:	59.56%
-Games:	3,640
-Twitch VODs available!
-59.56%
-Quest Druid
+41.75%
+Tony Druid
 Mirror matchup
 TwitchTwitch VODs available!
-Quest Druid
-Versus:	Fel Demon Hunter
-Winrate:	62.13%
-Games:	2,192
-Twitch VODs available!
-62.13%
-Quest Druid
-Versus:	Pure Paladin
-Winrate:	33.08%
-Games:	1,714
-Twitch VODs available!
-33.08%
-Quest Druid
-Versus:	Frost Aggro Death Knight
-Winrate:	60.16%
-Games:	1,539
-Twitch VODs available!
-60.16%
-Quest Druid
-Versus:	Aggro Mage
-Winrate:	58.15%
-Games:	1,546
-Twitch VODs available!
-58.15%
-Quest Druid
-Versus:	Blood Death Knight
-Winrate:	64.07%
-Games:	1,119
-Twitch VODs available!
-64.07%
-Quest Druid
+Tony Druid
 Versus:	Unholy Death Knight
-Winrate:	55.52%
-Games:	969
+Winrate:	31.60%
+Games:	1,117
 Twitch VODs available!
-55.52%
-Quest Druid
+31.60%
+Tony Druid
+Versus:	Other Druid
+Winrate:	55.08%
+Games:	619
+55.08%
+Tony Druid
+Versus:	Outcast Demon Hunter
+Winrate:	37.53%
+Games:	642
+Twitch VODs available!
+37.53%
+Tony Druid
+Versus:	Undead Priest
+Winrate:	44.93%
+Games:	572
+Twitch VODs available!
+44.93%
+Tony Druid
+Versus:	Frost Death Knight
+Winrate:	57.11%
+Games:	471
+Twitch VODs available!
+57.11%
+Tony Druid
+Versus:	Big Demon Hunter
+Winrate:	59.15%
+Games:	568
+Twitch VODs available!
+59.15%
+Tony Druid
 Versus:	Control Priest
-Winrate:	63.70%
-Games:	686
+Winrate:	61.76%
+Games:	476
 Twitch VODs available!
-63.70%
-Quest Druid
-Versus:	Big Spell Mage
-Winrate:	53.23%
-Games:	603
+61.76%
+Tony Druid
+Versus:	Pure Paladin
+Winrate:	22.18%
+Games:	320
 Twitch VODs available!
-53.23%
-Quest Druid
-Versus:	Other Priest
-Winrate:	37.43%
-Games:	561
-37.43%
-Quest Druid
-Versus:	Svalna Priest
-Winrate:	76.18%
-Games:	634
+22.18%
+Tony Druid
+Versus:	Spooky Mage
+Winrate:	66.57%
+Games:	350
 Twitch VODs available!
-76.18%
-Quest Druid
-Versus:	Phylactery Warlock
-Winrate:	50.00%
-Games:	596
+66.57%
+Tony Druid
+Versus:	Relic Demon Hunter
+Winrate:	63.96%
+Games:	247
 Twitch VODs available!
-50.00%
-Quest Druid
-Versus:	Ramp Druid
-Winrate:	48.64%
-Games:	444
-Twitch VODs available!
-48.64%
-Quest Druid
-Versus:	Ping Mage
-Winrate:	81.72%
-Games:	383
-Twitch VODs available!
-81.72%
-Quest Druid
-Versus:	Deathrattle Rogue
-Winrate:	56.05%
-Games:	355
-Twitch VODs available!
-56.05%
-Quest Druid
-Versus:	Imp Warlock
-Winrate:	37.91%
-Games:	335
-Twitch VODs available!
-37.91%
-Quest Druid
-Versus:	Spell Demon Hunter
-Winrate:	66.80%
+63.96%
+Tony Druid
+Versus:	Face Hunter
+Winrate:	40.00%
 Games:	250
 Twitch VODs available!
-66.80%
-Quest Druid
-Versus:	Aggro Demon Hunter
-Winrate:	56.84%
-Games:	241
+40.00%
+Tony Druid
+Versus:	Naga Mage
+Winrate:	52.43%
+Games:	185
 Twitch VODs available!
-56.84%
-Quest Druid
+52.43%
+Tony Druid
+Versus:	Totem Shaman
+Winrate:	20.72%
+Games:	193
+Twitch VODs available!
+20.72%
+Tony Druid
+Versus:	Thief Priest
+Winrate:	61.70%
+Games:	188
+Twitch VODs available!
+61.70%
+Tony Druid
+Versus:	Big Druid
+Winrate:	51.88%
+Games:	106
+Twitch VODs available!
+51.88%
+Tony Druid
+Versus:	Burn Mage
+Winrate:	52.13%
+Games:	117
+Twitch VODs available!
+52.13%
+Tony Druid
+Versus:	Riff 'n' Roll Warrior
+Winrate:	68.18%
+Games:	110
+68.18%
+Tony Druid
+Versus:	Secret Rogue
+Winrate:	51.64%
+Games:	91
+Twitch VODs available!
+51.64%
+Tony Druid
+Versus:	Fatigue Imp Warlock
+Winrate:	32.39%
+Games:	71
+Twitch VODs available!
+32.39%
+Tony Druid
 Versus:	Thaddius Warlock
-Winrate:	59.63%
-Games:	218
-Twitch VODs available!
-59.63%
-Quest Druid
-Versus:	Quest Priest
-Winrate:	65.00%
-Games:	220
-Twitch VODs available!
-65.00%
-Quest Druid
-Versus:	Shockspitter Hunter
-Winrate:	56.74%
-Games:	215
-Twitch VODs available!
-56.74%
-Quest Druid
-Versus:	Curse Imp Warlock
-Winrate:	42.59%
-Games:	162
-Twitch VODs available!
-42.59%
-Quest Druid
-Versus:	Thaddius Rogue
-Winrate:	45.50%
-Games:	167
-Twitch VODs available!
-45.50%
-Quest Druid
-Versus:	Beast Hunter
-Winrate:	55.97%
-Games:	134
-Twitch VODs available!
-55.97%
-Quest Druid
-Versus:	Enrage Warrior
-Winrate:	47.93%
-Games:	121
-Twitch VODs available!
-47.93%
-Quest Druid
-Versus:	Other Shaman
-Winrate:	45.45%
-Games:	121
-45.45%
-Quest Druid
-Versus:	Other Rogue
-Winrate:	52.58%
-Games:	116
-52.58%
-Quest Druid
-Versus:	Control Warrior
-Winrate:	69.23%
-Games:	78
-Twitch VODs available!
-69.23%
-Quest Druid
-Versus:	Frost Death Knight
-Winrate:	73.13%
+Winrate:	56.71%
 Games:	67
 Twitch VODs available!
-73.13%
-Quest Druid
-Versus:	Quest Hunter
-Winrate:	80.35%
-Games:	56
+56.71%
+Tony Druid
+Versus:	Menagerie Warrior
+Winrate:	47.61%
+Games:	84
 Twitch VODs available!
-80.35%
-Quest Druid
-Versus:	Evolve Shaman
-Winrate:	48.78%
-Games:	82
+47.61%
+Tony Druid
+Versus:	Mech Paladin
+Winrate:	33.33%
+Games:	87
 Twitch VODs available!
-48.78%
-Quest Druid
-Versus:	Dragon Paladin
-Winrate:	66.66%
-Games:	48
-Twitch VODs available!
-66.66%
-Quest Druid
-Versus:	Aggro Druid
-Winrate:	38.00%
-Games:	50
-38.00%
-Quest Druid
-Versus:	Murloc Shaman
-Winrate:	50.00%
-Games:	56
-Twitch VODs available!
-50.00%
-Quest Druid
-Versus:	Casino Mage
-Winrate:	80.00%
-Games:	50
-Twitch VODs available!
-80.00%
-Quest Druid
-Versus:	Other Warlock
-Winrate:	90.90%
-Games:	33
-90.90%
-Quest Druid
-Versus:	Quest Warlock
-Winrate:	63.33%
-Games:	30
-63.33%
-Quest Druid
-Versus:	Charge Warrior
-Winrate:	77.41%
-Games:	31
-77.41%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Fel Demon Hunter
-Versus:	Undead Priest
-Winrate:	43.98%
-Games:	3,565
-Twitch VODs available!
-43.98%
-Fel Demon Hunter
-Versus:	Miracle Rogue
-Winrate:	36.82%
-Games:	2,311
-Twitch VODs available!
-36.82%
-Fel Demon Hunter
-Versus:	Thief Rogue
-Winrate:	59.37%
-Games:	2,639
-Twitch VODs available!
-59.37%
-Fel Demon Hunter
-Versus:	Quest Druid
-Winrate:	37.86%
-Games:	2,192
-Twitch VODs available!
-37.86%
-Fel Demon Hunter
-Mirror matchup
-TwitchTwitch VODs available!
-Fel Demon Hunter
-Versus:	Pure Paladin
-Winrate:	49.06%
-Games:	1,331
-Twitch VODs available!
-49.06%
-Fel Demon Hunter
-Versus:	Frost Aggro Death Knight
-Winrate:	52.93%
-Games:	1,194
-Twitch VODs available!
-52.93%
-Fel Demon Hunter
-Versus:	Aggro Mage
-Winrate:	58.22%
-Games:	1,106
-Twitch VODs available!
-58.22%
-Fel Demon Hunter
-Versus:	Blood Death Knight
-Winrate:	73.27%
-Games:	842
-Twitch VODs available!
-73.27%
-Fel Demon Hunter
-Versus:	Unholy Death Knight
-Winrate:	48.76%
-Games:	689
-Twitch VODs available!
-48.76%
-Fel Demon Hunter
-Versus:	Control Priest
-Winrate:	69.11%
-Games:	531
-Twitch VODs available!
-69.11%
-Fel Demon Hunter
-Versus:	Big Spell Mage
-Winrate:	57.46%
-Games:	442
-Twitch VODs available!
-57.46%
-Fel Demon Hunter
-Versus:	Other Priest
-Winrate:	34.66%
-Games:	401
-34.66%
-Fel Demon Hunter
-Versus:	Svalna Priest
-Winrate:	48.92%
-Games:	372
-Twitch VODs available!
-48.92%
-Fel Demon Hunter
-Versus:	Phylactery Warlock
-Winrate:	34.35%
-Games:	393
-Twitch VODs available!
-34.35%
-Fel Demon Hunter
-Versus:	Ramp Druid
-Winrate:	48.63%
-Games:	366
-Twitch VODs available!
-48.63%
-Fel Demon Hunter
-Versus:	Ping Mage
-Winrate:	66.43%
-Games:	283
-Twitch VODs available!
-66.43%
-Fel Demon Hunter
-Versus:	Deathrattle Rogue
-Winrate:	39.65%
-Games:	290
-Twitch VODs available!
-39.65%
-Fel Demon Hunter
-Versus:	Imp Warlock
-Winrate:	50.40%
-Games:	248
-Twitch VODs available!
-50.40%
-Fel Demon Hunter
-Versus:	Spell Demon Hunter
-Winrate:	53.30%
-Games:	257
-Twitch VODs available!
-53.30%
-Fel Demon Hunter
-Versus:	Aggro Demon Hunter
-Winrate:	37.63%
-Games:	186
-Twitch VODs available!
-37.63%
-Fel Demon Hunter
-Versus:	Thaddius Warlock
-Winrate:	53.79%
-Games:	145
-Twitch VODs available!
-53.79%
-Fel Demon Hunter
-Versus:	Quest Priest
-Winrate:	79.50%
-Games:	122
-Twitch VODs available!
-79.50%
-Fel Demon Hunter
-Versus:	Shockspitter Hunter
-Winrate:	45.00%
-Games:	140
-Twitch VODs available!
-45.00%
-Fel Demon Hunter
-Versus:	Curse Imp Warlock
-Winrate:	54.38%
-Games:	114
-Twitch VODs available!
-54.38%
-Fel Demon Hunter
-Versus:	Thaddius Rogue
-Winrate:	36.06%
-Games:	122
-36.06%
-Fel Demon Hunter
-Versus:	Beast Hunter
-Winrate:	53.57%
-Games:	112
-Twitch VODs available!
-53.57%
-Fel Demon Hunter
-Versus:	Enrage Warrior
-Winrate:	43.16%
-Games:	139
-Twitch VODs available!
-43.16%
-Fel Demon Hunter
-Versus:	Other Shaman
-Winrate:	61.40%
-Games:	114
-61.40%
-Fel Demon Hunter
-Versus:	Other Rogue
-Winrate:	48.75%
-Games:	80
-48.75%
-Fel Demon Hunter
-Versus:	Control Warrior
-Winrate:	82.35%
-Games:	68
-82.35%
-Fel Demon Hunter
-Versus:	Frost Death Knight
-Winrate:	57.89%
-Games:	38
-Twitch VODs available!
-57.89%
-Fel Demon Hunter
-Versus:	Quest Hunter
-Winrate:	52.77%
-Games:	36
-Twitch VODs available!
-52.77%
-Fel Demon Hunter
-Versus:	Evolve Shaman
-Winrate:	60.00%
-Games:	50
-Twitch VODs available!
-60.00%
-Fel Demon Hunter
-Versus:	Dragon Paladin
-Winrate:	62.50%
-Games:	32
-Twitch VODs available!
-62.50%
-Fel Demon Hunter
-Versus:	Aggro Druid
-Winrate:	55.88%
-Games:	34
-Twitch VODs available!
-55.88%
-Fel Demon Hunter
-Versus:	Murloc Shaman
-Winrate:	56.09%
-Games:	41
-Twitch VODs available!
-56.09%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Pure Paladin
-Versus:	Undead Priest
-Winrate:	38.63%
-Games:	2,521
-Twitch VODs available!
-38.63%
-Pure Paladin
-Versus:	Miracle Rogue
-Winrate:	50.66%
-Games:	1,721
-Twitch VODs available!
-50.66%
-Pure Paladin
-Versus:	Thief Rogue
-Winrate:	54.08%
-Games:	1,932
-Twitch VODs available!
-54.08%
-Pure Paladin
-Versus:	Quest Druid
-Winrate:	66.91%
-Games:	1,714
-Twitch VODs available!
-66.91%
-Pure Paladin
-Versus:	Fel Demon Hunter
-Winrate:	50.93%
-Games:	1,331
-Twitch VODs available!
-50.93%
-Pure Paladin
-Mirror matchup
-TwitchTwitch VODs available!
-Pure Paladin
-Versus:	Frost Aggro Death Knight
-Winrate:	44.26%
-Games:	1,012
-Twitch VODs available!
-44.26%
-Pure Paladin
-Versus:	Aggro Mage
-Winrate:	37.74%
-Games:	673
-Twitch VODs available!
-37.74%
-Pure Paladin
-Versus:	Blood Death Knight
-Winrate:	51.06%
-Games:	707
-Twitch VODs available!
-51.06%
-Pure Paladin
-Versus:	Unholy Death Knight
-Winrate:	38.95%
-Games:	557
-Twitch VODs available!
-38.95%
-Pure Paladin
-Versus:	Control Priest
-Winrate:	48.94%
-Games:	333
-Twitch VODs available!
-48.94%
-Pure Paladin
-Versus:	Big Spell Mage
-Winrate:	51.74%
-Games:	344
-Twitch VODs available!
-51.74%
-Pure Paladin
-Versus:	Other Priest
-Winrate:	50.43%
-Games:	341
-50.43%
-Pure Paladin
-Versus:	Svalna Priest
-Winrate:	44.40%
-Games:	313
-Twitch VODs available!
-44.40%
-Pure Paladin
-Versus:	Phylactery Warlock
-Winrate:	58.59%
-Games:	384
-Twitch VODs available!
-58.59%
-Pure Paladin
-Versus:	Ramp Druid
-Winrate:	69.57%
-Games:	309
-Twitch VODs available!
-69.57%
-Pure Paladin
-Versus:	Ping Mage
-Winrate:	43.68%
-Games:	293
-Twitch VODs available!
-43.68%
-Pure Paladin
-Versus:	Deathrattle Rogue
-Winrate:	36.27%
-Games:	215
-Twitch VODs available!
-36.27%
-Pure Paladin
-Versus:	Imp Warlock
-Winrate:	46.42%
-Games:	196
-Twitch VODs available!
-46.42%
-Pure Paladin
-Versus:	Spell Demon Hunter
-Winrate:	47.70%
-Games:	218
-Twitch VODs available!
-47.70%
-Pure Paladin
-Versus:	Aggro Demon Hunter
-Winrate:	56.72%
-Games:	171
-56.72%
-Pure Paladin
-Versus:	Thaddius Warlock
-Winrate:	61.25%
-Games:	160
-Twitch VODs available!
-61.25%
-Pure Paladin
-Versus:	Quest Priest
-Winrate:	37.12%
-Games:	132
-Twitch VODs available!
-37.12%
-Pure Paladin
-Versus:	Shockspitter Hunter
-Winrate:	38.46%
-Games:	78
-Twitch VODs available!
-38.46%
-Pure Paladin
-Versus:	Curse Imp Warlock
-Winrate:	46.78%
-Games:	109
-Twitch VODs available!
-46.78%
-Pure Paladin
-Versus:	Thaddius Rogue
-Winrate:	65.11%
-Games:	129
-65.11%
-Pure Paladin
-Versus:	Beast Hunter
-Winrate:	73.61%
+33.33%
+Tony Druid
+Versus:	Drum Druid
+Winrate:	45.83%
 Games:	72
 Twitch VODs available!
-73.61%
-Pure Paladin
+45.83%
+Tony Druid
 Versus:	Enrage Warrior
-Winrate:	55.88%
-Games:	68
+Winrate:	61.40%
+Games:	57
 Twitch VODs available!
-55.88%
-Pure Paladin
-Versus:	Other Shaman
-Winrate:	57.14%
-Games:	91
-57.14%
-Pure Paladin
-Versus:	Other Rogue
-Winrate:	58.73%
+61.40%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Tony Druid
+Versus:	Arcane Hunter
+Winrate:	43.24%
+Games:	37
+Twitch VODs available!
+43.24%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Tony Druid
+Versus:	Other Priest
+Winrate:	54.54%
+Games:	33
+54.54%
+Not enough games
+
+⁓
+Unholy Death Knight
+Versus:	Blood Death Knight
+Winrate:	38.29%
+Games:	1,337
+Twitch VODs available!
+38.29%
+Unholy Death Knight
+Versus:	Spell Demon Hunter
+Winrate:	53.71%
+Games:	1,210
+Twitch VODs available!
+53.71%
+Unholy Death Knight
+Versus:	Miracle Rogue
+Winrate:	56.77%
+Games:	937
+Twitch VODs available!
+56.77%
+Unholy Death Knight
+Versus:	Tony Druid
+Winrate:	68.39%
+Games:	1,117
+Twitch VODs available!
+68.39%
+Unholy Death Knight
+Mirror matchup
+TwitchTwitch VODs available!
+Unholy Death Knight
+Versus:	Other Druid
+Winrate:	63.21%
+Games:	386
+63.21%
+Unholy Death Knight
+Versus:	Outcast Demon Hunter
+Winrate:	50.34%
+Games:	441
+Twitch VODs available!
+50.34%
+Unholy Death Knight
+Versus:	Undead Priest
+Winrate:	59.60%
+Games:	458
+Twitch VODs available!
+59.60%
+Unholy Death Knight
+Versus:	Frost Death Knight
+Winrate:	53.60%
+Games:	347
+Twitch VODs available!
+53.60%
+Unholy Death Knight
+Versus:	Big Demon Hunter
+Winrate:	60.31%
+Games:	504
+Twitch VODs available!
+60.31%
+Unholy Death Knight
+Versus:	Control Priest
+Winrate:	39.36%
+Games:	409
+Twitch VODs available!
+39.36%
+Unholy Death Knight
+Versus:	Pure Paladin
+Winrate:	62.77%
+Games:	274
+Twitch VODs available!
+62.77%
+Unholy Death Knight
+Versus:	Spooky Mage
+Winrate:	47.67%
+Games:	279
+Twitch VODs available!
+47.67%
+Unholy Death Knight
+Versus:	Relic Demon Hunter
+Winrate:	50.28%
+Games:	175
+Twitch VODs available!
+50.28%
+Unholy Death Knight
+Versus:	Face Hunter
+Winrate:	65.74%
+Games:	216
+Twitch VODs available!
+65.74%
+Unholy Death Knight
+Versus:	Naga Mage
+Winrate:	58.62%
+Games:	116
+Twitch VODs available!
+58.62%
+Unholy Death Knight
+Versus:	Totem Shaman
+Winrate:	60.00%
+Games:	115
+Twitch VODs available!
+60.00%
+Unholy Death Knight
+Versus:	Thief Priest
+Winrate:	50.42%
+Games:	117
+Twitch VODs available!
+50.42%
+Unholy Death Knight
+Versus:	Big Druid
+Winrate:	63.95%
+Games:	86
+Twitch VODs available!
+63.95%
+Unholy Death Knight
+Versus:	Burn Mage
+Winrate:	63.00%
+Games:	100
+Twitch VODs available!
+63.00%
+Unholy Death Knight
+Versus:	Riff 'n' Roll Warrior
+Winrate:	79.48%
+Games:	78
+Twitch VODs available!
+79.48%
+Unholy Death Knight
+Versus:	Secret Rogue
+Winrate:	60.67%
+Games:	89
+Twitch VODs available!
+60.67%
+Unholy Death Knight
+Versus:	Fatigue Imp Warlock
+Winrate:	73.01%
 Games:	63
-58.73%
-Pure Paladin
-Versus:	Control Warrior
-Winrate:	74.50%
+Twitch VODs available!
+73.01%
+Unholy Death Knight
+Versus:	Thaddius Warlock
+Winrate:	58.33%
+Games:	60
+Twitch VODs available!
+58.33%
+Unholy Death Knight
+Versus:	Menagerie Warrior
+Winrate:	71.62%
+Games:	74
+Twitch VODs available!
+71.62%
+Unholy Death Knight
+Versus:	Mech Paladin
+Winrate:	72.82%
+Games:	92
+Twitch VODs available!
+72.82%
+Unholy Death Knight
+Versus:	Drum Druid
+Winrate:	68.51%
+Games:	54
+Twitch VODs available!
+68.51%
+Unholy Death Knight
+Versus:	Enrage Warrior
+Winrate:	63.26%
+Games:	49
+Twitch VODs available!
+63.26%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Other Druid
+Versus:	Blood Death Knight
+Winrate:	52.89%
+Games:	915
+52.89%
+Other Druid
+Versus:	Spell Demon Hunter
+Winrate:	57.78%
+Games:	976
+57.78%
+Other Druid
+Versus:	Miracle Rogue
+Winrate:	42.83%
+Games:	824
+42.83%
+Other Druid
+Versus:	Tony Druid
+Winrate:	44.91%
+Games:	619
+44.91%
+Other Druid
+Versus:	Unholy Death Knight
+Winrate:	36.52%
+Games:	386
+36.52%
+Other Druid
+Mirror matchup
+Other Druid
+Versus:	Outcast Demon Hunter
+Winrate:	33.81%
+Games:	482
+33.81%
+Other Druid
+Versus:	Undead Priest
+Winrate:	42.19%
+Games:	365
+42.19%
+Other Druid
+Versus:	Frost Death Knight
+Winrate:	56.93%
+Games:	339
+56.93%
+Other Druid
+Versus:	Big Demon Hunter
+Winrate:	51.82%
+Games:	274
+51.82%
+Other Druid
+Versus:	Control Priest
+Winrate:	53.46%
+Games:	202
+53.46%
+Other Druid
+Versus:	Pure Paladin
+Winrate:	30.68%
+Games:	189
+30.68%
+Other Druid
+Versus:	Spooky Mage
+Winrate:	65.18%
+Games:	158
+65.18%
+Other Druid
+Versus:	Relic Demon Hunter
+Winrate:	70.25%
+Games:	158
+70.25%
+Other Druid
+Versus:	Face Hunter
+Winrate:	40.62%
+Games:	96
+40.62%
+Other Druid
+Versus:	Naga Mage
+Winrate:	52.46%
+Games:	162
+52.46%
+Other Druid
+Versus:	Totem Shaman
+Winrate:	38.01%
+Games:	121
+38.01%
+Other Druid
+Versus:	Thief Priest
+Winrate:	46.91%
+Games:	81
+46.91%
+Other Druid
+Versus:	Big Druid
+Winrate:	50.96%
+Games:	104
+50.96%
+Other Druid
+Versus:	Burn Mage
+Winrate:	58.33%
+Games:	60
+58.33%
+Other Druid
+Versus:	Riff 'n' Roll Warrior
+Winrate:	67.27%
+Games:	55
+67.27%
+Other Druid
+Versus:	Secret Rogue
+Winrate:	46.42%
+Games:	56
+46.42%
+Other Druid
+Versus:	Fatigue Imp Warlock
+Winrate:	30.15%
+Games:	63
+30.15%
+Other Druid
+Versus:	Thaddius Warlock
+Winrate:	50.00%
+Games:	56
+50.00%
+Other Druid
+Versus:	Menagerie Warrior
+Winrate:	40.00%
+Games:	35
+40.00%
+Other Druid
+Versus:	Mech Paladin
+Winrate:	35.29%
+Games:	51
+35.29%
+Other Druid
+Versus:	Drum Druid
+Winrate:	39.58%
+Games:	48
+39.58%
+Other Druid
+Versus:	Enrage Warrior
+Winrate:	46.34%
+Games:	41
+46.34%
+Other Druid
+Versus:	Naga Lightshow Mage
+Winrate:	60.00%
+Games:	30
+60.00%
+Other Druid
+Versus:	Dagger Rogue
+Winrate:	37.83%
+Games:	37
+37.83%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Outcast Demon Hunter
+Versus:	Blood Death Knight
+Winrate:	41.77%
+Games:	924
+Twitch VODs available!
+41.77%
+Outcast Demon Hunter
+Versus:	Spell Demon Hunter
+Winrate:	38.07%
+Games:	914
+Twitch VODs available!
+38.07%
+Outcast Demon Hunter
+Versus:	Miracle Rogue
+Winrate:	50.81%
+Games:	738
+Twitch VODs available!
+50.81%
+Outcast Demon Hunter
+Versus:	Tony Druid
+Winrate:	62.30%
+Games:	642
+Twitch VODs available!
+62.30%
+Outcast Demon Hunter
+Versus:	Unholy Death Knight
+Winrate:	49.65%
+Games:	441
+Twitch VODs available!
+49.65%
+Outcast Demon Hunter
+Versus:	Other Druid
+Winrate:	66.18%
+Games:	482
+66.18%
+Outcast Demon Hunter
+Mirror matchup
+TwitchTwitch VODs available!
+Outcast Demon Hunter
+Versus:	Undead Priest
+Winrate:	62.97%
+Games:	316
+Twitch VODs available!
+62.97%
+Outcast Demon Hunter
+Versus:	Frost Death Knight
+Winrate:	53.77%
+Games:	344
+Twitch VODs available!
+53.77%
+Outcast Demon Hunter
+Versus:	Big Demon Hunter
+Winrate:	52.24%
+Games:	245
+Twitch VODs available!
+52.24%
+Outcast Demon Hunter
+Versus:	Control Priest
+Winrate:	61.42%
+Games:	197
+Twitch VODs available!
+61.42%
+Outcast Demon Hunter
+Versus:	Pure Paladin
+Winrate:	67.76%
+Games:	152
+Twitch VODs available!
+67.76%
+Outcast Demon Hunter
+Versus:	Spooky Mage
+Winrate:	50.99%
+Games:	151
+Twitch VODs available!
+50.99%
+Outcast Demon Hunter
+Versus:	Relic Demon Hunter
+Winrate:	48.27%
+Games:	145
+Twitch VODs available!
+48.27%
+Outcast Demon Hunter
+Versus:	Face Hunter
+Winrate:	61.53%
+Games:	104
+Twitch VODs available!
+61.53%
+Outcast Demon Hunter
+Versus:	Naga Mage
+Winrate:	60.56%
+Games:	142
+Twitch VODs available!
+60.56%
+Outcast Demon Hunter
+Versus:	Totem Shaman
+Winrate:	70.33%
+Games:	118
+Twitch VODs available!
+70.33%
+Outcast Demon Hunter
+Versus:	Thief Priest
+Winrate:	63.44%
+Games:	93
+Twitch VODs available!
+63.44%
+Outcast Demon Hunter
+Versus:	Big Druid
+Winrate:	68.75%
+Games:	80
+Twitch VODs available!
+68.75%
+Outcast Demon Hunter
+Versus:	Burn Mage
+Winrate:	45.28%
+Games:	53
+Twitch VODs available!
+45.28%
+Outcast Demon Hunter
+Versus:	Riff 'n' Roll Warrior
+Winrate:	78.68%
+Games:	61
+Twitch VODs available!
+78.68%
+Outcast Demon Hunter
+Versus:	Secret Rogue
+Winrate:	68.57%
+Games:	35
+Twitch VODs available!
+68.57%
+Outcast Demon Hunter
+Versus:	Fatigue Imp Warlock
+Winrate:	64.70%
 Games:	51
 Twitch VODs available!
-74.50%
-Pure Paladin
-Versus:	Frost Death Knight
-Winrate:	39.53%
+64.70%
+Outcast Demon Hunter
+Versus:	Thaddius Warlock
+Winrate:	31.57%
+Games:	38
+Twitch VODs available!
+31.57%
+Outcast Demon Hunter
+Versus:	Menagerie Warrior
+Winrate:	53.33%
+Games:	45
+Twitch VODs available!
+53.33%
+Not enough games
+
+⁓
+Outcast Demon Hunter
+Versus:	Drum Druid
+Winrate:	53.48%
 Games:	43
 Twitch VODs available!
-39.53%
-Pure Paladin
-Versus:	Quest Hunter
-Winrate:	56.41%
-Games:	39
-Twitch VODs available!
-56.41%
-Pure Paladin
-Versus:	Evolve Shaman
-Winrate:	64.70%
-Games:	34
-Twitch VODs available!
-64.70%
-Pure Paladin
-Versus:	Dragon Paladin
-Winrate:	50.00%
-Games:	34
-50.00%
-Not enough games
-
-⁓
-Pure Paladin
-Versus:	Murloc Shaman
-Winrate:	36.36%
-Games:	33
-36.36%
-Not enough games
-
-⁓
-Pure Paladin
-Versus:	Other Warlock
+53.48%
+Outcast Demon Hunter
+Versus:	Enrage Warrior
 Winrate:	63.15%
 Games:	38
+Twitch VODs available!
 63.15%
 Not enough games
 
@@ -1451,1805 +1298,852 @@ Not enough games
 Not enough games
 
 ⁓
-Frost Aggro Death Knight
-Versus:	Undead Priest
-Winrate:	47.11%
-Games:	2,150
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Undead Priest
+Versus:	Blood Death Knight
+Winrate:	53.45%
+Games:	840
 Twitch VODs available!
-47.11%
-Frost Aggro Death Knight
+53.45%
+Undead Priest
+Versus:	Spell Demon Hunter
+Winrate:	36.84%
+Games:	806
+Twitch VODs available!
+36.84%
+Undead Priest
 Versus:	Miracle Rogue
-Winrate:	54.68%
-Games:	1,452
+Winrate:	52.50%
+Games:	558
 Twitch VODs available!
-54.68%
-Frost Aggro Death Knight
-Versus:	Thief Rogue
-Winrate:	53.12%
-Games:	1,662
+52.50%
+Undead Priest
+Versus:	Tony Druid
+Winrate:	55.06%
+Games:	572
 Twitch VODs available!
-53.12%
-Frost Aggro Death Knight
-Versus:	Quest Druid
-Winrate:	39.83%
-Games:	1,539
+55.06%
+Undead Priest
+Versus:	Unholy Death Knight
+Winrate:	40.39%
+Games:	458
 Twitch VODs available!
-39.83%
-Frost Aggro Death Knight
-Versus:	Fel Demon Hunter
-Winrate:	47.06%
-Games:	1,194
+40.39%
+Undead Priest
+Versus:	Other Druid
+Winrate:	57.80%
+Games:	365
+57.80%
+Undead Priest
+Versus:	Outcast Demon Hunter
+Winrate:	37.02%
+Games:	316
 Twitch VODs available!
-47.06%
-Frost Aggro Death Knight
-Versus:	Pure Paladin
-Winrate:	55.73%
-Games:	1,012
-Twitch VODs available!
-55.73%
-Frost Aggro Death Knight
+37.02%
+Undead Priest
 Mirror matchup
 TwitchTwitch VODs available!
-Frost Aggro Death Knight
-Versus:	Aggro Mage
-Winrate:	54.84%
-Games:	640
-Twitch VODs available!
-54.84%
-Frost Aggro Death Knight
-Versus:	Blood Death Knight
-Winrate:	45.90%
-Games:	586
-Twitch VODs available!
-45.90%
-Frost Aggro Death Knight
-Versus:	Unholy Death Knight
-Winrate:	59.18%
-Games:	468
-Twitch VODs available!
-59.18%
-Frost Aggro Death Knight
-Versus:	Control Priest
-Winrate:	35.23%
-Games:	315
-Twitch VODs available!
-35.23%
-Frost Aggro Death Knight
-Versus:	Big Spell Mage
-Winrate:	58.66%
-Games:	300
-Twitch VODs available!
-58.66%
-Frost Aggro Death Knight
-Versus:	Other Priest
-Winrate:	43.42%
-Games:	304
-43.42%
-Frost Aggro Death Knight
-Versus:	Svalna Priest
-Winrate:	32.97%
-Games:	279
-Twitch VODs available!
-32.97%
-Frost Aggro Death Knight
-Versus:	Phylactery Warlock
-Winrate:	53.07%
-Games:	309
-Twitch VODs available!
-53.07%
-Frost Aggro Death Knight
-Versus:	Ramp Druid
-Winrate:	47.41%
-Games:	232
-Twitch VODs available!
-47.41%
-Frost Aggro Death Knight
-Versus:	Ping Mage
-Winrate:	51.53%
-Games:	196
-Twitch VODs available!
-51.53%
-Frost Aggro Death Knight
-Versus:	Deathrattle Rogue
-Winrate:	46.78%
-Games:	171
-Twitch VODs available!
-46.78%
-Frost Aggro Death Knight
-Versus:	Imp Warlock
-Winrate:	63.44%
-Games:	238
-Twitch VODs available!
-63.44%
-Frost Aggro Death Knight
-Versus:	Spell Demon Hunter
-Winrate:	41.86%
-Games:	172
-Twitch VODs available!
-41.86%
-Frost Aggro Death Knight
-Versus:	Aggro Demon Hunter
-Winrate:	45.80%
-Games:	155
-Twitch VODs available!
-45.80%
-Frost Aggro Death Knight
-Versus:	Thaddius Warlock
-Winrate:	36.55%
-Games:	145
-Twitch VODs available!
-36.55%
-Frost Aggro Death Knight
-Versus:	Quest Priest
-Winrate:	55.14%
-Games:	107
-Twitch VODs available!
-55.14%
-Frost Aggro Death Knight
-Versus:	Shockspitter Hunter
-Winrate:	55.14%
-Games:	107
-Twitch VODs available!
-55.14%
-Frost Aggro Death Knight
-Versus:	Curse Imp Warlock
-Winrate:	56.32%
-Games:	87
-Twitch VODs available!
-56.32%
-Frost Aggro Death Knight
-Versus:	Thaddius Rogue
-Winrate:	50.90%
-Games:	110
-50.90%
-Frost Aggro Death Knight
-Versus:	Beast Hunter
-Winrate:	42.02%
-Games:	69
-Twitch VODs available!
-42.02%
-Frost Aggro Death Knight
-Versus:	Enrage Warrior
-Winrate:	58.75%
-Games:	80
-Twitch VODs available!
-58.75%
-Frost Aggro Death Knight
-Versus:	Other Shaman
-Winrate:	72.00%
-Games:	75
-72.00%
-Frost Aggro Death Knight
-Versus:	Other Rogue
-Winrate:	64.15%
-Games:	53
-64.15%
-Frost Aggro Death Knight
-Versus:	Control Warrior
-Winrate:	55.55%
-Games:	36
-Twitch VODs available!
-55.55%
-Frost Aggro Death Knight
+Undead Priest
 Versus:	Frost Death Knight
-Winrate:	52.94%
+Winrate:	52.43%
+Games:	288
+Twitch VODs available!
+52.43%
+Undead Priest
+Versus:	Big Demon Hunter
+Winrate:	46.62%
+Games:	326
+Twitch VODs available!
+46.62%
+Undead Priest
+Versus:	Control Priest
+Winrate:	47.85%
+Games:	257
+Twitch VODs available!
+47.85%
+Undead Priest
+Versus:	Pure Paladin
+Winrate:	53.00%
+Games:	183
+Twitch VODs available!
+53.00%
+Undead Priest
+Versus:	Spooky Mage
+Winrate:	56.46%
+Games:	147
+Twitch VODs available!
+56.46%
+Undead Priest
+Versus:	Relic Demon Hunter
+Winrate:	48.09%
+Games:	131
+Twitch VODs available!
+48.09%
+Undead Priest
+Versus:	Face Hunter
+Winrate:	49.19%
+Games:	124
+Twitch VODs available!
+49.19%
+Undead Priest
+Versus:	Naga Mage
+Winrate:	63.80%
+Games:	105
+Twitch VODs available!
+63.80%
+Undead Priest
+Versus:	Totem Shaman
+Winrate:	45.16%
+Games:	93
+Twitch VODs available!
+45.16%
+Undead Priest
+Versus:	Thief Priest
+Winrate:	57.33%
+Games:	75
+Twitch VODs available!
+57.33%
+Undead Priest
+Versus:	Big Druid
+Winrate:	68.18%
+Games:	66
+Twitch VODs available!
+68.18%
+Undead Priest
+Versus:	Burn Mage
+Winrate:	72.13%
+Games:	61
+Twitch VODs available!
+72.13%
+Undead Priest
+Versus:	Riff 'n' Roll Warrior
+Winrate:	67.30%
+Games:	52
+Twitch VODs available!
+67.30%
+Undead Priest
+Versus:	Secret Rogue
+Winrate:	47.16%
+Games:	53
+Twitch VODs available!
+47.16%
+Undead Priest
+Versus:	Fatigue Imp Warlock
+Winrate:	47.72%
+Games:	44
+Twitch VODs available!
+47.72%
+Undead Priest
+Versus:	Thaddius Warlock
+Winrate:	63.82%
+Games:	47
+Twitch VODs available!
+63.82%
+Undead Priest
+Versus:	Menagerie Warrior
+Winrate:	45.45%
+Games:	44
+Twitch VODs available!
+45.45%
+Undead Priest
+Versus:	Mech Paladin
+Winrate:	43.18%
+Games:	44
+Twitch VODs available!
+43.18%
+Undead Priest
+Versus:	Drum Druid
+Winrate:	65.90%
+Games:	44
+Twitch VODs available!
+65.90%
+Undead Priest
+Versus:	Enrage Warrior
+Winrate:	64.51%
+Games:	31
+Twitch VODs available!
+64.51%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Frost Death Knight
+Versus:	Blood Death Knight
+Winrate:	44.15%
+Games:	779
+Twitch VODs available!
+44.15%
+Frost Death Knight
+Versus:	Spell Demon Hunter
+Winrate:	35.18%
+Games:	756
+Twitch VODs available!
+35.18%
+Frost Death Knight
+Versus:	Miracle Rogue
+Winrate:	56.42%
+Games:	599
+Twitch VODs available!
+56.42%
+Frost Death Knight
+Versus:	Tony Druid
+Winrate:	42.88%
+Games:	471
+Twitch VODs available!
+42.88%
+Frost Death Knight
+Versus:	Unholy Death Knight
+Winrate:	46.39%
+Games:	347
+Twitch VODs available!
+46.39%
+Frost Death Knight
+Versus:	Other Druid
+Winrate:	43.06%
+Games:	339
+43.06%
+Frost Death Knight
+Versus:	Outcast Demon Hunter
+Winrate:	46.22%
+Games:	344
+Twitch VODs available!
+46.22%
+Frost Death Knight
+Versus:	Undead Priest
+Winrate:	47.56%
+Games:	288
+Twitch VODs available!
+47.56%
+Frost Death Knight
+Mirror matchup
+TwitchTwitch VODs available!
+Frost Death Knight
+Versus:	Big Demon Hunter
+Winrate:	47.94%
+Games:	219
+Twitch VODs available!
+47.94%
+Frost Death Knight
+Versus:	Control Priest
+Winrate:	58.16%
+Games:	153
+Twitch VODs available!
+58.16%
+Frost Death Knight
+Versus:	Pure Paladin
+Winrate:	61.90%
+Games:	168
+Twitch VODs available!
+61.90%
+Frost Death Knight
+Versus:	Spooky Mage
+Winrate:	54.54%
+Games:	121
+Twitch VODs available!
+54.54%
+Frost Death Knight
+Versus:	Relic Demon Hunter
+Winrate:	50.00%
+Games:	112
+Twitch VODs available!
+50.00%
+Frost Death Knight
+Versus:	Face Hunter
+Winrate:	49.51%
+Games:	103
+Twitch VODs available!
+49.51%
+Frost Death Knight
+Versus:	Naga Mage
+Winrate:	55.00%
+Games:	140
+Twitch VODs available!
+55.00%
+Frost Death Knight
+Versus:	Totem Shaman
+Winrate:	62.50%
+Games:	104
+Twitch VODs available!
+62.50%
+Frost Death Knight
+Versus:	Thief Priest
+Winrate:	53.65%
+Games:	82
+Twitch VODs available!
+53.65%
+Frost Death Knight
+Versus:	Big Druid
+Winrate:	52.68%
+Games:	93
+Twitch VODs available!
+52.68%
+Frost Death Knight
+Versus:	Burn Mage
+Winrate:	58.82%
 Games:	51
 Twitch VODs available!
-52.94%
-Frost Aggro Death Knight
-Versus:	Quest Hunter
-Winrate:	60.00%
+58.82%
+Frost Death Knight
+Versus:	Riff 'n' Roll Warrior
+Winrate:	49.27%
+Games:	69
+Twitch VODs available!
+49.27%
+Frost Death Knight
+Versus:	Secret Rogue
+Winrate:	65.00%
 Games:	40
+Twitch VODs available!
+65.00%
+Frost Death Knight
+Versus:	Fatigue Imp Warlock
+Winrate:	71.73%
+Games:	46
+Twitch VODs available!
+71.73%
+Frost Death Knight
+Versus:	Thaddius Warlock
+Winrate:	35.71%
+Games:	42
+Twitch VODs available!
+35.71%
+Frost Death Knight
+Versus:	Menagerie Warrior
+Winrate:	39.53%
+Games:	43
+Twitch VODs available!
+39.53%
+Not enough games
+
+⁓
+Frost Death Knight
+Versus:	Drum Druid
+Winrate:	41.66%
+Games:	36
+Twitch VODs available!
+41.66%
+Frost Death Knight
+Versus:	Enrage Warrior
+Winrate:	50.00%
+Games:	42
+Twitch VODs available!
+50.00%
+Not enough games
+
+⁓
+Frost Death Knight
+Versus:	Dagger Rogue
+Winrate:	60.00%
+Games:	30
 Twitch VODs available!
 60.00%
 Not enough games
 
 ⁓
-Frost Aggro Death Knight
-Versus:	Dragon Paladin
-Winrate:	33.33%
-Games:	33
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Big Demon Hunter
+Versus:	Blood Death Knight
+Winrate:	58.87%
+Games:	710
 Twitch VODs available!
-33.33%
-Frost Aggro Death Knight
-Versus:	Aggro Druid
-Winrate:	69.44%
-Games:	36
+58.87%
+Big Demon Hunter
+Versus:	Spell Demon Hunter
+Winrate:	41.68%
+Games:	734
 Twitch VODs available!
-69.44%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Aggro Mage
-Versus:	Undead Priest
-Winrate:	61.08%
-Games:	2,025
-Twitch VODs available!
-61.08%
-Aggro Mage
+41.68%
+Big Demon Hunter
 Versus:	Miracle Rogue
-Winrate:	59.15%
-Games:	2,059
+Winrate:	45.20%
+Games:	438
 Twitch VODs available!
-59.15%
-Aggro Mage
-Versus:	Thief Rogue
-Winrate:	54.79%
-Games:	1,670
+45.20%
+Big Demon Hunter
+Versus:	Tony Druid
+Winrate:	40.84%
+Games:	568
 Twitch VODs available!
-54.79%
-Aggro Mage
-Versus:	Quest Druid
-Winrate:	41.84%
-Games:	1,546
+40.84%
+Big Demon Hunter
+Versus:	Unholy Death Knight
+Winrate:	39.68%
+Games:	504
 Twitch VODs available!
-41.84%
-Aggro Mage
-Versus:	Fel Demon Hunter
-Winrate:	41.77%
-Games:	1,106
+39.68%
+Big Demon Hunter
+Versus:	Other Druid
+Winrate:	48.17%
+Games:	274
+48.17%
+Big Demon Hunter
+Versus:	Outcast Demon Hunter
+Winrate:	47.75%
+Games:	245
 Twitch VODs available!
-41.77%
-Aggro Mage
-Versus:	Pure Paladin
-Winrate:	62.25%
-Games:	673
+47.75%
+Big Demon Hunter
+Versus:	Undead Priest
+Winrate:	53.37%
+Games:	326
 Twitch VODs available!
-62.25%
-Aggro Mage
-Versus:	Frost Aggro Death Knight
-Winrate:	45.15%
-Games:	640
+53.37%
+Big Demon Hunter
+Versus:	Frost Death Knight
+Winrate:	52.05%
+Games:	219
 Twitch VODs available!
-45.15%
-Aggro Mage
+52.05%
+Big Demon Hunter
 Mirror matchup
 TwitchTwitch VODs available!
-Aggro Mage
-Versus:	Blood Death Knight
-Winrate:	40.93%
-Games:	408
-Twitch VODs available!
-40.93%
-Aggro Mage
-Versus:	Unholy Death Knight
-Winrate:	41.41%
-Games:	367
-Twitch VODs available!
-41.41%
-Aggro Mage
+Big Demon Hunter
 Versus:	Control Priest
-Winrate:	30.32%
-Games:	310
+Winrate:	62.18%
+Games:	238
 Twitch VODs available!
-30.32%
-Aggro Mage
-Versus:	Big Spell Mage
-Winrate:	44.31%
-Games:	264
+62.18%
+Big Demon Hunter
+Versus:	Pure Paladin
+Winrate:	44.26%
+Games:	183
 Twitch VODs available!
-44.31%
-Aggro Mage
-Versus:	Other Priest
-Winrate:	40.39%
-Games:	255
-40.39%
-Aggro Mage
-Versus:	Svalna Priest
-Winrate:	28.03%
-Games:	321
+44.26%
+Big Demon Hunter
+Versus:	Spooky Mage
+Winrate:	63.87%
+Games:	191
 Twitch VODs available!
-28.03%
-Aggro Mage
-Versus:	Phylactery Warlock
-Winrate:	35.05%
-Games:	194
+63.87%
+Big Demon Hunter
+Versus:	Relic Demon Hunter
+Winrate:	53.77%
+Games:	106
 Twitch VODs available!
-35.05%
-Aggro Mage
-Versus:	Ramp Druid
-Winrate:	47.73%
-Games:	199
+53.77%
+Big Demon Hunter
+Versus:	Face Hunter
+Winrate:	52.30%
+Games:	130
 Twitch VODs available!
-47.73%
-Aggro Mage
-Versus:	Ping Mage
-Winrate:	64.62%
-Games:	147
-Twitch VODs available!
-64.62%
-Aggro Mage
-Versus:	Deathrattle Rogue
-Winrate:	78.75%
-Games:	160
-Twitch VODs available!
-78.75%
-Aggro Mage
-Versus:	Imp Warlock
-Winrate:	53.48%
-Games:	129
-Twitch VODs available!
-53.48%
-Aggro Mage
-Versus:	Spell Demon Hunter
+52.30%
+Big Demon Hunter
+Versus:	Naga Mage
 Winrate:	50.00%
-Games:	100
-Twitch VODs available!
-50.00%
-Aggro Mage
-Versus:	Aggro Demon Hunter
-Winrate:	64.44%
-Games:	90
-Twitch VODs available!
-64.44%
-Aggro Mage
-Versus:	Thaddius Warlock
-Winrate:	40.00%
-Games:	70
-Twitch VODs available!
-40.00%
-Aggro Mage
-Versus:	Quest Priest
-Winrate:	30.30%
-Games:	66
-Twitch VODs available!
-30.30%
-Aggro Mage
-Versus:	Shockspitter Hunter
-Winrate:	64.55%
-Games:	79
-Twitch VODs available!
-64.55%
-Aggro Mage
-Versus:	Curse Imp Warlock
-Winrate:	57.14%
 Games:	56
 Twitch VODs available!
-57.14%
-Aggro Mage
-Versus:	Thaddius Rogue
-Winrate:	60.49%
-Games:	81
-60.49%
-Aggro Mage
-Versus:	Beast Hunter
-Winrate:	70.14%
+50.00%
+Big Demon Hunter
+Versus:	Totem Shaman
+Winrate:	47.52%
+Games:	101
+Twitch VODs available!
+47.52%
+Big Demon Hunter
+Versus:	Thief Priest
+Winrate:	68.65%
 Games:	67
 Twitch VODs available!
-70.14%
-Aggro Mage
-Versus:	Enrage Warrior
-Winrate:	40.74%
-Games:	54
+68.65%
+Big Demon Hunter
+Versus:	Big Druid
+Winrate:	41.17%
+Games:	51
 Twitch VODs available!
-40.74%
-Aggro Mage
-Versus:	Other Shaman
-Winrate:	62.50%
-Games:	48
-62.50%
-Aggro Mage
-Versus:	Other Rogue
-Winrate:	65.67%
-Games:	67
-65.67%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Blood Death Knight
-Versus:	Undead Priest
-Winrate:	44.80%
-Games:	1,502
+41.17%
+Big Demon Hunter
+Versus:	Burn Mage
+Winrate:	51.42%
+Games:	70
 Twitch VODs available!
-44.80%
-Blood Death Knight
-Versus:	Miracle Rogue
-Winrate:	44.08%
-Games:	946
-Twitch VODs available!
-44.08%
-Blood Death Knight
-Versus:	Thief Rogue
-Winrate:	37.43%
-Games:	1,218
-Twitch VODs available!
-37.43%
-Blood Death Knight
-Versus:	Quest Druid
-Winrate:	35.92%
-Games:	1,119
-Twitch VODs available!
-35.92%
-Blood Death Knight
-Versus:	Fel Demon Hunter
-Winrate:	26.72%
-Games:	842
-Twitch VODs available!
-26.72%
-Blood Death Knight
-Versus:	Pure Paladin
-Winrate:	48.93%
-Games:	707
-Twitch VODs available!
-48.93%
-Blood Death Knight
-Versus:	Frost Aggro Death Knight
-Winrate:	54.09%
-Games:	586
-Twitch VODs available!
-54.09%
-Blood Death Knight
-Versus:	Aggro Mage
-Winrate:	59.06%
-Games:	408
-Twitch VODs available!
-59.06%
-Blood Death Knight
-Mirror matchup
-TwitchTwitch VODs available!
-Blood Death Knight
-Versus:	Unholy Death Knight
-Winrate:	54.70%
-Games:	340
-Twitch VODs available!
-54.70%
-Blood Death Knight
-Versus:	Control Priest
-Winrate:	50.93%
-Games:	214
-Twitch VODs available!
-50.93%
-Blood Death Knight
-Versus:	Big Spell Mage
-Winrate:	33.03%
-Games:	224
-Twitch VODs available!
-33.03%
-Blood Death Knight
-Versus:	Other Priest
-Winrate:	56.25%
-Games:	192
-56.25%
-Blood Death Knight
-Versus:	Svalna Priest
-Winrate:	57.35%
-Games:	204
-Twitch VODs available!
-57.35%
-Blood Death Knight
-Versus:	Phylactery Warlock
-Winrate:	31.44%
-Games:	194
-Twitch VODs available!
-31.44%
-Blood Death Knight
-Versus:	Ramp Druid
-Winrate:	44.23%
-Games:	208
-Twitch VODs available!
-44.23%
-Blood Death Knight
-Versus:	Ping Mage
-Winrate:	50.00%
-Games:	148
-Twitch VODs available!
-50.00%
-Blood Death Knight
-Versus:	Deathrattle Rogue
-Winrate:	40.90%
-Games:	110
-Twitch VODs available!
-40.90%
-Blood Death Knight
-Versus:	Imp Warlock
-Winrate:	36.99%
-Games:	173
-Twitch VODs available!
-36.99%
-Blood Death Knight
-Versus:	Spell Demon Hunter
-Winrate:	36.09%
-Games:	133
-Twitch VODs available!
-36.09%
-Blood Death Knight
-Versus:	Aggro Demon Hunter
-Winrate:	54.23%
-Games:	118
-Twitch VODs available!
-54.23%
-Blood Death Knight
-Versus:	Thaddius Warlock
-Winrate:	44.44%
-Games:	117
-Twitch VODs available!
-44.44%
-Blood Death Knight
-Versus:	Quest Priest
-Winrate:	35.63%
-Games:	87
-Twitch VODs available!
-35.63%
-Blood Death Knight
-Versus:	Shockspitter Hunter
-Winrate:	46.77%
-Games:	62
-Twitch VODs available!
-46.77%
-Blood Death Knight
-Versus:	Curse Imp Warlock
-Winrate:	25.64%
-Games:	78
-Twitch VODs available!
-25.64%
-Blood Death Knight
-Versus:	Thaddius Rogue
-Winrate:	53.93%
-Games:	89
-Twitch VODs available!
-53.93%
-Blood Death Knight
-Versus:	Beast Hunter
-Winrate:	27.11%
-Games:	59
-Twitch VODs available!
-27.11%
-Blood Death Knight
-Versus:	Enrage Warrior
-Winrate:	40.81%
-Games:	49
-Twitch VODs available!
-40.81%
-Blood Death Knight
-Versus:	Other Shaman
-Winrate:	52.08%
-Games:	48
-52.08%
-Blood Death Knight
-Versus:	Other Rogue
-Winrate:	50.00%
-Games:	50
-50.00%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Unholy Death Knight
-Versus:	Undead Priest
-Winrate:	53.19%
-Games:	1,329
-Twitch VODs available!
-53.19%
-Unholy Death Knight
-Versus:	Miracle Rogue
-Winrate:	57.69%
-Games:	955
-Twitch VODs available!
-57.69%
-Unholy Death Knight
-Versus:	Thief Rogue
-Winrate:	46.19%
-Games:	998
-Twitch VODs available!
-46.19%
-Unholy Death Knight
-Versus:	Quest Druid
-Winrate:	44.47%
-Games:	969
-Twitch VODs available!
-44.47%
-Unholy Death Knight
-Versus:	Fel Demon Hunter
-Winrate:	51.23%
-Games:	689
-Twitch VODs available!
-51.23%
-Unholy Death Knight
-Versus:	Pure Paladin
-Winrate:	61.04%
-Games:	557
-Twitch VODs available!
-61.04%
-Unholy Death Knight
-Versus:	Frost Aggro Death Knight
-Winrate:	40.81%
-Games:	468
-Twitch VODs available!
-40.81%
-Unholy Death Knight
-Versus:	Aggro Mage
-Winrate:	58.58%
-Games:	367
-Twitch VODs available!
-58.58%
-Unholy Death Knight
-Versus:	Blood Death Knight
-Winrate:	45.29%
-Games:	340
-Twitch VODs available!
-45.29%
-Unholy Death Knight
-Mirror matchup
-TwitchTwitch VODs available!
-Unholy Death Knight
-Versus:	Control Priest
-Winrate:	34.69%
-Games:	196
-Twitch VODs available!
-34.69%
-Unholy Death Knight
-Versus:	Big Spell Mage
-Winrate:	70.23%
-Games:	168
-Twitch VODs available!
-70.23%
-Unholy Death Knight
-Versus:	Other Priest
-Winrate:	43.79%
-Games:	153
-43.79%
-Unholy Death Knight
-Versus:	Svalna Priest
-Winrate:	48.40%
-Games:	157
-Twitch VODs available!
-48.40%
-Unholy Death Knight
-Versus:	Phylactery Warlock
-Winrate:	44.44%
-Games:	171
-Twitch VODs available!
-44.44%
-Unholy Death Knight
-Versus:	Ramp Druid
-Winrate:	52.59%
-Games:	135
-Twitch VODs available!
-52.59%
-Unholy Death Knight
-Versus:	Ping Mage
-Winrate:	52.94%
-Games:	119
-Twitch VODs available!
-52.94%
-Unholy Death Knight
-Versus:	Deathrattle Rogue
-Winrate:	50.87%
-Games:	114
-Twitch VODs available!
-50.87%
-Unholy Death Knight
-Versus:	Imp Warlock
-Winrate:	56.63%
-Games:	113
-Twitch VODs available!
-56.63%
-Unholy Death Knight
-Versus:	Spell Demon Hunter
-Winrate:	48.93%
-Games:	94
-Twitch VODs available!
-48.93%
-Unholy Death Knight
-Versus:	Aggro Demon Hunter
-Winrate:	68.00%
-Games:	75
-Twitch VODs available!
-68.00%
-Unholy Death Knight
-Versus:	Thaddius Warlock
-Winrate:	48.52%
-Games:	68
-Twitch VODs available!
-48.52%
-Unholy Death Knight
-Versus:	Quest Priest
-Winrate:	25.80%
-Games:	62
-Twitch VODs available!
-25.80%
-Unholy Death Knight
-Versus:	Shockspitter Hunter
+51.42%
+Big Demon Hunter
+Versus:	Riff 'n' Roll Warrior
 Winrate:	57.50%
 Games:	40
 Twitch VODs available!
 57.50%
-Unholy Death Knight
-Versus:	Curse Imp Warlock
-Winrate:	60.60%
-Games:	66
-Twitch VODs available!
-60.60%
-Unholy Death Knight
-Versus:	Thaddius Rogue
-Winrate:	64.40%
-Games:	59
-Twitch VODs available!
-64.40%
-Unholy Death Knight
-Versus:	Beast Hunter
-Winrate:	58.97%
-Games:	39
-Twitch VODs available!
-58.97%
-Unholy Death Knight
-Versus:	Enrage Warrior
-Winrate:	54.90%
-Games:	51
-Twitch VODs available!
-54.90%
-Unholy Death Knight
-Versus:	Other Shaman
-Winrate:	53.65%
-Games:	41
-53.65%
-Unholy Death Knight
-Versus:	Other Rogue
-Winrate:	61.70%
-Games:	47
-61.70%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Control Priest
-Versus:	Undead Priest
-Winrate:	52.22%
-Games:	990
-Twitch VODs available!
-52.22%
-Control Priest
-Versus:	Miracle Rogue
-Winrate:	54.95%
-Games:	837
-Twitch VODs available!
-54.95%
-Control Priest
-Versus:	Thief Rogue
-Winrate:	39.86%
-Games:	715
-Twitch VODs available!
-39.86%
-Control Priest
-Versus:	Quest Druid
-Winrate:	36.29%
-Games:	686
-Twitch VODs available!
-36.29%
-Control Priest
-Versus:	Fel Demon Hunter
-Winrate:	30.88%
-Games:	531
-Twitch VODs available!
-30.88%
-Control Priest
-Versus:	Pure Paladin
-Winrate:	51.05%
-Games:	333
-Twitch VODs available!
-51.05%
-Control Priest
-Versus:	Frost Aggro Death Knight
-Winrate:	64.76%
-Games:	315
-Twitch VODs available!
-64.76%
-Control Priest
-Versus:	Aggro Mage
-Winrate:	69.67%
-Games:	310
-Twitch VODs available!
-69.67%
-Control Priest
-Versus:	Blood Death Knight
-Winrate:	49.06%
-Games:	214
-Twitch VODs available!
-49.06%
-Control Priest
-Versus:	Unholy Death Knight
-Winrate:	65.30%
-Games:	196
-Twitch VODs available!
-65.30%
-Control Priest
-Mirror matchup
-TwitchTwitch VODs available!
-Control Priest
-Versus:	Big Spell Mage
-Winrate:	31.49%
-Games:	127
-Twitch VODs available!
-31.49%
-Control Priest
-Versus:	Other Priest
-Winrate:	62.14%
-Games:	140
-62.14%
-Control Priest
-Versus:	Svalna Priest
-Winrate:	35.39%
-Games:	113
-Twitch VODs available!
-35.39%
-Control Priest
-Versus:	Phylactery Warlock
-Winrate:	22.30%
-Games:	130
-Twitch VODs available!
-22.30%
-Control Priest
-Versus:	Ramp Druid
-Winrate:	36.00%
-Games:	100
-Twitch VODs available!
-36.00%
-Control Priest
-Versus:	Ping Mage
-Winrate:	31.94%
-Games:	72
-Twitch VODs available!
-31.94%
-Control Priest
-Versus:	Deathrattle Rogue
-Winrate:	53.12%
-Games:	64
-Twitch VODs available!
-53.12%
-Control Priest
-Versus:	Imp Warlock
-Winrate:	41.77%
-Games:	79
-Twitch VODs available!
-41.77%
-Control Priest
-Versus:	Spell Demon Hunter
-Winrate:	37.80%
-Games:	82
-37.80%
-Control Priest
-Versus:	Aggro Demon Hunter
-Winrate:	73.46%
-Games:	49
-Twitch VODs available!
-73.46%
-Control Priest
-Versus:	Thaddius Warlock
-Winrate:	51.16%
-Games:	43
-Twitch VODs available!
-51.16%
-Control Priest
-Versus:	Quest Priest
-Winrate:	32.35%
-Games:	34
-Twitch VODs available!
-32.35%
-Control Priest
-Versus:	Shockspitter Hunter
-Winrate:	57.14%
-Games:	42
-Twitch VODs available!
-57.14%
-Control Priest
-Versus:	Curse Imp Warlock
-Winrate:	30.95%
-Games:	42
-Twitch VODs available!
-30.95%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Control Priest
-Versus:	Enrage Warrior
-Winrate:	76.47%
-Games:	34
-Twitch VODs available!
-76.47%
-Control Priest
-Versus:	Other Shaman
-Winrate:	59.52%
-Games:	42
-59.52%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Big Spell Mage
-Versus:	Undead Priest
-Winrate:	44.93%
-Games:	750
-Twitch VODs available!
-44.93%
-Big Spell Mage
-Versus:	Miracle Rogue
-Winrate:	53.33%
-Games:	645
-Twitch VODs available!
-53.33%
-Big Spell Mage
-Versus:	Thief Rogue
-Winrate:	50.99%
-Games:	655
-Twitch VODs available!
-50.99%
-Big Spell Mage
-Versus:	Quest Druid
-Winrate:	46.76%
-Games:	603
-Twitch VODs available!
-46.76%
-Big Spell Mage
-Versus:	Fel Demon Hunter
-Winrate:	42.53%
-Games:	442
-Twitch VODs available!
-42.53%
-Big Spell Mage
-Versus:	Pure Paladin
-Winrate:	48.25%
-Games:	344
-Twitch VODs available!
-48.25%
-Big Spell Mage
-Versus:	Frost Aggro Death Knight
-Winrate:	41.33%
-Games:	300
-Twitch VODs available!
-41.33%
-Big Spell Mage
-Versus:	Aggro Mage
-Winrate:	55.30%
-Games:	264
-Twitch VODs available!
-55.30%
-Big Spell Mage
-Versus:	Blood Death Knight
-Winrate:	66.96%
-Games:	224
-Twitch VODs available!
-66.96%
-Big Spell Mage
-Versus:	Unholy Death Knight
-Winrate:	29.76%
-Games:	168
-Twitch VODs available!
-29.76%
-Big Spell Mage
-Versus:	Control Priest
-Winrate:	68.50%
-Games:	127
-Twitch VODs available!
-68.50%
-Big Spell Mage
-Mirror matchup
-TwitchTwitch VODs available!
-Big Spell Mage
-Versus:	Other Priest
-Winrate:	59.00%
-Games:	100
-59.00%
-Big Spell Mage
-Versus:	Svalna Priest
-Winrate:	68.51%
-Games:	108
-68.51%
-Big Spell Mage
-Versus:	Phylactery Warlock
-Winrate:	42.55%
-Games:	94
-Twitch VODs available!
-42.55%
-Big Spell Mage
-Versus:	Ramp Druid
-Winrate:	45.23%
-Games:	84
-Twitch VODs available!
-45.23%
-Big Spell Mage
-Versus:	Ping Mage
-Winrate:	45.20%
-Games:	73
-Twitch VODs available!
-45.20%
-Big Spell Mage
-Versus:	Deathrattle Rogue
-Winrate:	60.60%
-Games:	66
-Twitch VODs available!
-60.60%
-Big Spell Mage
-Versus:	Imp Warlock
-Winrate:	47.05%
-Games:	68
-Twitch VODs available!
-47.05%
-Big Spell Mage
-Versus:	Spell Demon Hunter
-Winrate:	56.66%
-Games:	60
-56.66%
-Big Spell Mage
-Versus:	Aggro Demon Hunter
-Winrate:	50.90%
-Games:	55
-Twitch VODs available!
-50.90%
-Big Spell Mage
-Versus:	Thaddius Warlock
-Winrate:	55.00%
-Games:	60
-Twitch VODs available!
-55.00%
-Big Spell Mage
-Versus:	Quest Priest
-Winrate:	52.08%
-Games:	48
-Twitch VODs available!
-52.08%
-Big Spell Mage
-Versus:	Shockspitter Hunter
-Winrate:	42.85%
-Games:	35
-Twitch VODs available!
-42.85%
-Big Spell Mage
-Versus:	Curse Imp Warlock
-Winrate:	52.63%
-Games:	38
-Twitch VODs available!
-52.63%
-Big Spell Mage
-Versus:	Thaddius Rogue
-Winrate:	54.76%
-Games:	42
-Twitch VODs available!
-54.76%
-Not enough games
-
-⁓
-Big Spell Mage
-Versus:	Enrage Warrior
-Winrate:	38.88%
-Games:	36
-Twitch VODs available!
-38.88%
-Big Spell Mage
-Versus:	Other Shaman
-Winrate:	43.58%
-Games:	39
-43.58%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Priest
-Versus:	Undead Priest
-Winrate:	42.72%
-Games:	948
-42.72%
-Other Priest
-Versus:	Miracle Rogue
-Winrate:	47.50%
-Games:	800
-47.50%
-Other Priest
-Versus:	Thief Rogue
-Winrate:	39.77%
-Games:	719
-39.77%
-Other Priest
-Versus:	Quest Druid
-Winrate:	62.38%
-Games:	561
-62.38%
-Other Priest
-Versus:	Fel Demon Hunter
-Winrate:	65.33%
-Games:	401
-65.33%
-Other Priest
-Versus:	Pure Paladin
-Winrate:	49.26%
-Games:	341
-49.26%
-Other Priest
-Versus:	Frost Aggro Death Knight
-Winrate:	55.59%
-Games:	304
-55.59%
-Other Priest
-Versus:	Aggro Mage
-Winrate:	59.21%
-Games:	255
-59.21%
-Other Priest
-Versus:	Blood Death Knight
-Winrate:	43.75%
-Games:	192
-43.75%
-Other Priest
-Versus:	Unholy Death Knight
-Winrate:	56.20%
-Games:	153
-56.20%
-Other Priest
-Versus:	Control Priest
-Winrate:	37.85%
-Games:	140
-37.85%
-Other Priest
-Versus:	Big Spell Mage
-Winrate:	41.00%
-Games:	100
-41.00%
-Other Priest
-Mirror matchup
-Other Priest
-Versus:	Svalna Priest
-Winrate:	42.74%
-Games:	131
-42.74%
-Other Priest
-Versus:	Phylactery Warlock
-Winrate:	75.18%
-Games:	133
-75.18%
-Other Priest
-Versus:	Ramp Druid
-Winrate:	64.78%
-Games:	71
-64.78%
-Other Priest
-Versus:	Ping Mage
-Winrate:	55.17%
-Games:	87
-55.17%
-Other Priest
-Versus:	Deathrattle Rogue
-Winrate:	70.65%
-Games:	92
-70.65%
-Other Priest
-Versus:	Imp Warlock
-Winrate:	52.54%
-Games:	59
-52.54%
-Other Priest
-Versus:	Spell Demon Hunter
-Winrate:	60.00%
-Games:	50
-60.00%
-Other Priest
-Versus:	Aggro Demon Hunter
-Winrate:	66.66%
-Games:	63
-66.66%
-Other Priest
-Versus:	Thaddius Warlock
-Winrate:	68.18%
-Games:	44
-68.18%
-Other Priest
-Versus:	Quest Priest
-Winrate:	22.50%
-Games:	40
-22.50%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Priest
-Versus:	Other Shaman
-Winrate:	46.87%
-Games:	32
-46.87%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Svalna Priest
-Versus:	Undead Priest
-Winrate:	54.97%
-Games:	915
-Twitch VODs available!
-54.97%
-Svalna Priest
-Versus:	Miracle Rogue
-Winrate:	56.11%
-Games:	818
-Twitch VODs available!
-56.11%
-Svalna Priest
-Versus:	Thief Rogue
-Winrate:	46.20%
-Games:	738
-Twitch VODs available!
-46.20%
-Svalna Priest
-Versus:	Quest Druid
-Winrate:	23.02%
-Games:	634
-Twitch VODs available!
-23.02%
-Svalna Priest
-Versus:	Fel Demon Hunter
-Winrate:	50.80%
-Games:	372
-Twitch VODs available!
-50.80%
-Svalna Priest
-Versus:	Pure Paladin
-Winrate:	55.27%
-Games:	313
-Twitch VODs available!
-55.27%
-Svalna Priest
-Versus:	Frost Aggro Death Knight
-Winrate:	66.66%
-Games:	279
-Twitch VODs available!
-66.66%
-Svalna Priest
-Versus:	Aggro Mage
-Winrate:	71.96%
-Games:	321
-Twitch VODs available!
-71.96%
-Svalna Priest
-Versus:	Blood Death Knight
-Winrate:	40.19%
-Games:	204
-Twitch VODs available!
-40.19%
-Svalna Priest
-Versus:	Unholy Death Knight
-Winrate:	51.59%
-Games:	157
-Twitch VODs available!
-51.59%
-Svalna Priest
-Versus:	Control Priest
-Winrate:	64.60%
-Games:	113
-Twitch VODs available!
-64.60%
-Svalna Priest
-Versus:	Big Spell Mage
-Winrate:	31.48%
-Games:	108
-Twitch VODs available!
-31.48%
-Svalna Priest
-Versus:	Other Priest
-Winrate:	57.25%
-Games:	131
-57.25%
-Svalna Priest
-Mirror matchup
-TwitchTwitch VODs available!
-Svalna Priest
-Versus:	Phylactery Warlock
-Winrate:	27.58%
-Games:	87
-Twitch VODs available!
-27.58%
-Svalna Priest
-Versus:	Ramp Druid
-Winrate:	39.70%
-Games:	68
-39.70%
-Svalna Priest
-Versus:	Ping Mage
-Winrate:	54.54%
-Games:	88
-Twitch VODs available!
-54.54%
-Svalna Priest
-Versus:	Deathrattle Rogue
-Winrate:	62.50%
-Games:	80
-Twitch VODs available!
-62.50%
-Svalna Priest
-Versus:	Imp Warlock
-Winrate:	36.36%
-Games:	77
-36.36%
-Svalna Priest
-Versus:	Spell Demon Hunter
-Winrate:	52.83%
-Games:	53
-Twitch VODs available!
-52.83%
-Svalna Priest
-Versus:	Aggro Demon Hunter
-Winrate:	62.50%
-Games:	56
-Twitch VODs available!
-62.50%
-Svalna Priest
-Versus:	Thaddius Warlock
-Winrate:	68.57%
-Games:	35
-Twitch VODs available!
-68.57%
-Svalna Priest
-Versus:	Quest Priest
-Winrate:	54.54%
-Games:	33
-Twitch VODs available!
-54.54%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Svalna Priest
-Versus:	Thaddius Rogue
-Winrate:	26.47%
-Games:	34
-26.47%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Phylactery Warlock
-Versus:	Undead Priest
-Winrate:	38.40%
-Games:	802
-Twitch VODs available!
-38.40%
-Phylactery Warlock
-Versus:	Miracle Rogue
-Winrate:	29.50%
-Games:	722
-Twitch VODs available!
-29.50%
-Phylactery Warlock
-Versus:	Thief Rogue
-Winrate:	58.42%
-Games:	671
-Twitch VODs available!
-58.42%
-Phylactery Warlock
-Versus:	Quest Druid
+Big Demon Hunter
+Versus:	Secret Rogue
 Winrate:	50.00%
-Games:	596
+Games:	44
 Twitch VODs available!
 50.00%
-Phylactery Warlock
-Versus:	Fel Demon Hunter
-Winrate:	65.64%
-Games:	393
+Big Demon Hunter
+Versus:	Fatigue Imp Warlock
+Winrate:	56.41%
+Games:	39
 Twitch VODs available!
-65.64%
-Phylactery Warlock
-Versus:	Pure Paladin
-Winrate:	41.40%
-Games:	384
+56.41%
+Big Demon Hunter
+Versus:	Thaddius Warlock
+Winrate:	54.54%
+Games:	44
 Twitch VODs available!
-41.40%
-Phylactery Warlock
-Versus:	Frost Aggro Death Knight
-Winrate:	46.92%
-Games:	309
+54.54%
+Big Demon Hunter
+Versus:	Menagerie Warrior
+Winrate:	33.33%
+Games:	39
 Twitch VODs available!
-46.92%
-Phylactery Warlock
-Versus:	Aggro Mage
-Winrate:	64.94%
-Games:	194
+33.33%
+Big Demon Hunter
+Versus:	Mech Paladin
+Winrate:	30.61%
+Games:	49
 Twitch VODs available!
-64.94%
-Phylactery Warlock
+30.61%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Control Priest
 Versus:	Blood Death Knight
-Winrate:	68.55%
-Games:	194
+Winrate:	61.71%
+Games:	538
 Twitch VODs available!
-68.55%
-Phylactery Warlock
+61.71%
+Control Priest
+Versus:	Spell Demon Hunter
+Winrate:	35.87%
+Games:	577
+Twitch VODs available!
+35.87%
+Control Priest
+Versus:	Miracle Rogue
+Winrate:	60.13%
+Games:	429
+Twitch VODs available!
+60.13%
+Control Priest
+Versus:	Tony Druid
+Winrate:	38.23%
+Games:	476
+Twitch VODs available!
+38.23%
+Control Priest
 Versus:	Unholy Death Knight
-Winrate:	55.55%
-Games:	171
+Winrate:	60.63%
+Games:	409
 Twitch VODs available!
-55.55%
-Phylactery Warlock
-Versus:	Control Priest
-Winrate:	77.69%
-Games:	130
+60.63%
+Control Priest
+Versus:	Other Druid
+Winrate:	46.53%
+Games:	202
+46.53%
+Control Priest
+Versus:	Outcast Demon Hunter
+Winrate:	38.57%
+Games:	197
 Twitch VODs available!
-77.69%
-Phylactery Warlock
-Versus:	Big Spell Mage
-Winrate:	57.44%
-Games:	94
+38.57%
+Control Priest
+Versus:	Undead Priest
+Winrate:	52.14%
+Games:	257
 Twitch VODs available!
-57.44%
-Phylactery Warlock
-Versus:	Other Priest
-Winrate:	24.81%
-Games:	133
-24.81%
-Phylactery Warlock
-Versus:	Svalna Priest
-Winrate:	71.26%
-Games:	87
+52.14%
+Control Priest
+Versus:	Frost Death Knight
+Winrate:	41.83%
+Games:	153
 Twitch VODs available!
-71.26%
-Phylactery Warlock
+41.83%
+Control Priest
+Versus:	Big Demon Hunter
+Winrate:	37.81%
+Games:	238
+Twitch VODs available!
+37.81%
+Control Priest
 Mirror matchup
 TwitchTwitch VODs available!
-Phylactery Warlock
-Versus:	Ramp Druid
-Winrate:	59.75%
-Games:	82
+Control Priest
+Versus:	Pure Paladin
+Winrate:	48.46%
+Games:	130
 Twitch VODs available!
-59.75%
-Phylactery Warlock
-Versus:	Ping Mage
-Winrate:	57.79%
-Games:	109
+48.46%
+Control Priest
+Versus:	Spooky Mage
+Winrate:	46.96%
+Games:	132
 Twitch VODs available!
-57.79%
-Phylactery Warlock
-Versus:	Deathrattle Rogue
-Winrate:	53.24%
-Games:	77
-53.24%
-Phylactery Warlock
-Versus:	Imp Warlock
-Winrate:	42.18%
-Games:	64
-42.18%
-Phylactery Warlock
-Versus:	Spell Demon Hunter
-Winrate:	48.07%
-Games:	52
+46.96%
+Control Priest
+Versus:	Relic Demon Hunter
+Winrate:	32.14%
+Games:	84
 Twitch VODs available!
-48.07%
-Phylactery Warlock
-Versus:	Aggro Demon Hunter
-Winrate:	41.37%
-Games:	58
-41.37%
-Phylactery Warlock
-Versus:	Thaddius Warlock
-Winrate:	53.19%
+32.14%
+Control Priest
+Versus:	Face Hunter
+Winrate:	54.00%
+Games:	100
+Twitch VODs available!
+54.00%
+Control Priest
+Versus:	Naga Mage
+Winrate:	64.00%
+Games:	50
+Twitch VODs available!
+64.00%
+Control Priest
+Versus:	Totem Shaman
+Winrate:	64.00%
+Games:	75
+Twitch VODs available!
+64.00%
+Control Priest
+Versus:	Thief Priest
+Winrate:	42.55%
 Games:	47
-53.19%
-Phylactery Warlock
-Versus:	Quest Priest
-Winrate:	78.94%
+Twitch VODs available!
+42.55%
+Control Priest
+Versus:	Big Druid
+Winrate:	47.36%
+Games:	38
+Twitch VODs available!
+47.36%
+Control Priest
+Versus:	Burn Mage
+Winrate:	44.68%
+Games:	47
+Twitch VODs available!
+44.68%
+Control Priest
+Versus:	Riff 'n' Roll Warrior
+Winrate:	46.51%
+Games:	43
+Twitch VODs available!
+46.51%
+Control Priest
+Versus:	Secret Rogue
+Winrate:	44.89%
+Games:	49
+Twitch VODs available!
+44.89%
+Not enough games
+
+⁓
+Control Priest
+Versus:	Thaddius Warlock
+Winrate:	62.50%
+Games:	40
+Twitch VODs available!
+62.50%
+Control Priest
+Versus:	Menagerie Warrior
+Winrate:	55.88%
+Games:	34
+Twitch VODs available!
+55.88%
+Control Priest
+Versus:	Mech Paladin
+Winrate:	64.70%
+Games:	34
+Twitch VODs available!
+64.70%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Pure Paladin
+Versus:	Blood Death Knight
+Winrate:	48.23%
+Games:	396
+Twitch VODs available!
+48.23%
+Pure Paladin
+Versus:	Spell Demon Hunter
+Winrate:	33.24%
+Games:	358
+Twitch VODs available!
+33.24%
+Pure Paladin
+Versus:	Miracle Rogue
+Winrate:	47.92%
+Games:	265
+Twitch VODs available!
+47.92%
+Pure Paladin
+Versus:	Tony Druid
+Winrate:	77.81%
+Games:	320
+Twitch VODs available!
+77.81%
+Pure Paladin
+Versus:	Unholy Death Knight
+Winrate:	37.22%
+Games:	274
+Twitch VODs available!
+37.22%
+Pure Paladin
+Versus:	Other Druid
+Winrate:	69.31%
+Games:	189
+69.31%
+Pure Paladin
+Versus:	Outcast Demon Hunter
+Winrate:	32.23%
+Games:	152
+Twitch VODs available!
+32.23%
+Pure Paladin
+Versus:	Undead Priest
+Winrate:	46.99%
+Games:	183
+Twitch VODs available!
+46.99%
+Pure Paladin
+Versus:	Frost Death Knight
+Winrate:	38.09%
+Games:	168
+Twitch VODs available!
+38.09%
+Pure Paladin
+Versus:	Big Demon Hunter
+Winrate:	55.73%
+Games:	183
+Twitch VODs available!
+55.73%
+Pure Paladin
+Versus:	Control Priest
+Winrate:	51.53%
+Games:	130
+Twitch VODs available!
+51.53%
+Pure Paladin
+Mirror matchup
+TwitchTwitch VODs available!
+Pure Paladin
+Versus:	Spooky Mage
+Winrate:	43.18%
+Games:	88
+Twitch VODs available!
+43.18%
+Pure Paladin
+Versus:	Relic Demon Hunter
+Winrate:	42.52%
+Games:	87
+Twitch VODs available!
+42.52%
+Pure Paladin
+Versus:	Face Hunter
+Winrate:	52.94%
+Games:	68
+Twitch VODs available!
+52.94%
+Pure Paladin
+Versus:	Naga Mage
+Winrate:	49.05%
+Games:	53
+Twitch VODs available!
+49.05%
+Pure Paladin
+Versus:	Totem Shaman
+Winrate:	49.12%
 Games:	57
 Twitch VODs available!
-78.94%
-Phylactery Warlock
-Versus:	Shockspitter Hunter
+49.12%
+Pure Paladin
+Versus:	Thief Priest
+Winrate:	45.00%
+Games:	40
+Twitch VODs available!
+45.00%
+Not enough games
+
+⁓
+Pure Paladin
+Versus:	Burn Mage
+Winrate:	46.34%
+Games:	41
+Twitch VODs available!
+46.34%
+Pure Paladin
+Versus:	Riff 'n' Roll Warrior
 Winrate:	68.75%
 Games:	32
 Twitch VODs available!
@@ -3257,213 +2151,18 @@ Twitch VODs available!
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Phylactery Warlock
-Versus:	Beast Hunter
-Winrate:	47.22%
-Games:	36
+Pure Paladin
+Versus:	Fatigue Imp Warlock
+Winrate:	63.33%
+Games:	30
 Twitch VODs available!
-47.22%
-Not enough games
-
-⁓
-Phylactery Warlock
-Versus:	Other Shaman
-Winrate:	57.57%
-Games:	33
-57.57%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Ramp Druid
-Versus:	Undead Priest
-Winrate:	42.68%
-Games:	588
-Twitch VODs available!
-42.68%
-Ramp Druid
-Versus:	Miracle Rogue
-Winrate:	34.80%
-Games:	385
-Twitch VODs available!
-34.80%
-Ramp Druid
-Versus:	Thief Rogue
-Winrate:	54.80%
-Games:	520
-Twitch VODs available!
-54.80%
-Ramp Druid
-Versus:	Quest Druid
-Winrate:	51.35%
-Games:	444
-Twitch VODs available!
-51.35%
-Ramp Druid
-Versus:	Fel Demon Hunter
-Winrate:	51.36%
-Games:	366
-Twitch VODs available!
-51.36%
-Ramp Druid
-Versus:	Pure Paladin
-Winrate:	30.42%
-Games:	309
-Twitch VODs available!
-30.42%
-Ramp Druid
-Versus:	Frost Aggro Death Knight
-Winrate:	52.58%
-Games:	232
-Twitch VODs available!
-52.58%
-Ramp Druid
-Versus:	Aggro Mage
-Winrate:	52.26%
-Games:	199
-Twitch VODs available!
-52.26%
-Ramp Druid
-Versus:	Blood Death Knight
-Winrate:	55.76%
-Games:	208
-Twitch VODs available!
-55.76%
-Ramp Druid
-Versus:	Unholy Death Knight
-Winrate:	47.40%
-Games:	135
-Twitch VODs available!
-47.40%
-Ramp Druid
-Versus:	Control Priest
-Winrate:	64.00%
-Games:	100
-Twitch VODs available!
-64.00%
-Ramp Druid
-Versus:	Big Spell Mage
-Winrate:	54.76%
-Games:	84
-Twitch VODs available!
-54.76%
-Ramp Druid
-Versus:	Other Priest
-Winrate:	35.21%
-Games:	71
-35.21%
-Ramp Druid
-Versus:	Svalna Priest
-Winrate:	60.29%
-Games:	68
-Twitch VODs available!
-60.29%
-Ramp Druid
-Versus:	Phylactery Warlock
-Winrate:	39.02%
-Games:	82
-Twitch VODs available!
-39.02%
-Ramp Druid
-Mirror matchup
-TwitchTwitch VODs available!
-Ramp Druid
-Versus:	Ping Mage
-Winrate:	72.30%
-Games:	65
-Twitch VODs available!
-72.30%
-Ramp Druid
-Versus:	Deathrattle Rogue
-Winrate:	38.98%
-Games:	59
-38.98%
-Ramp Druid
-Versus:	Imp Warlock
-Winrate:	29.62%
-Games:	54
-Twitch VODs available!
-29.62%
-Ramp Druid
-Versus:	Spell Demon Hunter
-Winrate:	44.23%
-Games:	52
-Twitch VODs available!
-44.23%
-Ramp Druid
-Versus:	Aggro Demon Hunter
-Winrate:	48.71%
-Games:	39
-Twitch VODs available!
-48.71%
-Ramp Druid
+63.33%
+Pure Paladin
 Versus:	Thaddius Warlock
-Winrate:	52.17%
-Games:	46
-Twitch VODs available!
-52.17%
-Ramp Druid
-Versus:	Quest Priest
-Winrate:	58.82%
-Games:	34
-Twitch VODs available!
-58.82%
-Ramp Druid
-Versus:	Shockspitter Hunter
-Winrate:	62.50%
-Games:	32
-Twitch VODs available!
-62.50%
-Ramp Druid
-Versus:	Curse Imp Warlock
-Winrate:	61.29%
+Winrate:	77.41%
 Games:	31
 Twitch VODs available!
-61.29%
+77.41%
 Not enough games
 
 ⁓
@@ -3497,165 +2196,287 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Ping Mage
-Versus:	Undead Priest
-Winrate:	45.00%
-Games:	600
+Spooky Mage
+Versus:	Blood Death Knight
+Winrate:	47.92%
+Games:	409
 Twitch VODs available!
-45.00%
-Ping Mage
+47.92%
+Spooky Mage
+Versus:	Spell Demon Hunter
+Winrate:	57.72%
+Games:	414
+Twitch VODs available!
+57.72%
+Spooky Mage
 Versus:	Miracle Rogue
-Winrate:	53.60%
-Games:	375
+Winrate:	41.15%
+Games:	311
 Twitch VODs available!
-53.60%
-Ping Mage
-Versus:	Thief Rogue
-Winrate:	59.07%
-Games:	391
+41.15%
+Spooky Mage
+Versus:	Tony Druid
+Winrate:	33.14%
+Games:	350
 Twitch VODs available!
-59.07%
-Ping Mage
-Versus:	Quest Druid
-Winrate:	18.27%
-Games:	383
+33.14%
+Spooky Mage
+Versus:	Unholy Death Knight
+Winrate:	52.32%
+Games:	279
 Twitch VODs available!
-18.27%
-Ping Mage
-Versus:	Fel Demon Hunter
-Winrate:	33.56%
-Games:	283
+52.32%
+Spooky Mage
+Versus:	Other Druid
+Winrate:	34.81%
+Games:	158
+34.81%
+Spooky Mage
+Versus:	Outcast Demon Hunter
+Winrate:	48.34%
+Games:	151
 Twitch VODs available!
-33.56%
-Ping Mage
-Versus:	Pure Paladin
-Winrate:	56.31%
-Games:	293
-Twitch VODs available!
-56.31%
-Ping Mage
-Versus:	Frost Aggro Death Knight
-Winrate:	48.46%
-Games:	196
-Twitch VODs available!
-48.46%
-Ping Mage
-Versus:	Aggro Mage
-Winrate:	34.69%
+48.34%
+Spooky Mage
+Versus:	Undead Priest
+Winrate:	43.53%
 Games:	147
 Twitch VODs available!
-34.69%
-Ping Mage
-Versus:	Blood Death Knight
-Winrate:	50.00%
-Games:	148
-Twitch VODs available!
-50.00%
-Ping Mage
-Versus:	Unholy Death Knight
-Winrate:	47.05%
-Games:	119
-Twitch VODs available!
-47.05%
-Ping Mage
-Versus:	Control Priest
-Winrate:	68.05%
-Games:	72
-Twitch VODs available!
-68.05%
-Ping Mage
-Versus:	Big Spell Mage
-Winrate:	54.79%
-Games:	73
-Twitch VODs available!
-54.79%
-Ping Mage
-Versus:	Other Priest
-Winrate:	44.82%
-Games:	87
-44.82%
-Ping Mage
-Versus:	Svalna Priest
+43.53%
+Spooky Mage
+Versus:	Frost Death Knight
 Winrate:	45.45%
-Games:	88
-45.45%
-Ping Mage
-Versus:	Phylactery Warlock
-Winrate:	40.36%
-Games:	109
-40.36%
-Ping Mage
-Versus:	Ramp Druid
-Winrate:	27.69%
-Games:	65
+Games:	121
 Twitch VODs available!
-27.69%
-Ping Mage
+45.45%
+Spooky Mage
+Versus:	Big Demon Hunter
+Winrate:	35.60%
+Games:	191
+Twitch VODs available!
+35.60%
+Spooky Mage
+Versus:	Control Priest
+Winrate:	52.27%
+Games:	132
+Twitch VODs available!
+52.27%
+Spooky Mage
+Versus:	Pure Paladin
+Winrate:	56.81%
+Games:	88
+Twitch VODs available!
+56.81%
+Spooky Mage
 Mirror matchup
 TwitchTwitch VODs available!
-Ping Mage
-Versus:	Deathrattle Rogue
-Winrate:	72.72%
-Games:	55
-72.72%
-Ping Mage
-Versus:	Imp Warlock
+Spooky Mage
+Versus:	Relic Demon Hunter
+Winrate:	40.98%
+Games:	61
+Twitch VODs available!
+40.98%
+Spooky Mage
+Versus:	Face Hunter
 Winrate:	50.00%
-Games:	44
+Games:	64
 Twitch VODs available!
 50.00%
-Ping Mage
+Spooky Mage
+Versus:	Naga Mage
+Winrate:	50.94%
+Games:	53
+50.94%
+Spooky Mage
+Versus:	Totem Shaman
+Winrate:	54.90%
+Games:	51
+Twitch VODs available!
+54.90%
+Spooky Mage
+Versus:	Thief Priest
+Winrate:	65.71%
+Games:	35
+Twitch VODs available!
+65.71%
+Not enough games
+
+⁓
+Spooky Mage
+Versus:	Burn Mage
+Winrate:	47.05%
+Games:	34
+Twitch VODs available!
+47.05%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Spooky Mage
+Versus:	Fatigue Imp Warlock
+Winrate:	54.83%
+Games:	31
+Twitch VODs available!
+54.83%
+Not enough games
+
+⁓
+Spooky Mage
+Versus:	Menagerie Warrior
+Winrate:	36.66%
+Games:	30
+Twitch VODs available!
+36.66%
+Spooky Mage
+Versus:	Mech Paladin
+Winrate:	64.51%
+Games:	31
+Twitch VODs available!
+64.51%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Relic Demon Hunter
+Versus:	Blood Death Knight
+Winrate:	65.24%
+Games:	328
+Twitch VODs available!
+65.24%
+Relic Demon Hunter
 Versus:	Spell Demon Hunter
-Winrate:	40.32%
-Games:	62
+Winrate:	22.05%
+Games:	331
 Twitch VODs available!
-40.32%
-Ping Mage
-Versus:	Aggro Demon Hunter
-Winrate:	43.58%
-Games:	39
-43.58%
-Ping Mage
-Versus:	Thaddius Warlock
-Winrate:	43.58%
-Games:	39
+22.05%
+Relic Demon Hunter
+Versus:	Miracle Rogue
+Winrate:	40.40%
+Games:	250
 Twitch VODs available!
-43.58%
+40.40%
+Relic Demon Hunter
+Versus:	Tony Druid
+Winrate:	36.03%
+Games:	247
+Twitch VODs available!
+36.03%
+Relic Demon Hunter
+Versus:	Unholy Death Knight
+Winrate:	49.71%
+Games:	175
+Twitch VODs available!
+49.71%
+Relic Demon Hunter
+Versus:	Other Druid
+Winrate:	29.74%
+Games:	158
+29.74%
+Relic Demon Hunter
+Versus:	Outcast Demon Hunter
+Winrate:	51.72%
+Games:	145
+Twitch VODs available!
+51.72%
+Relic Demon Hunter
+Versus:	Undead Priest
+Winrate:	51.90%
+Games:	131
+Twitch VODs available!
+51.90%
+Relic Demon Hunter
+Versus:	Frost Death Knight
+Winrate:	50.00%
+Games:	112
+Twitch VODs available!
+50.00%
+Relic Demon Hunter
+Versus:	Big Demon Hunter
+Winrate:	46.22%
+Games:	106
+Twitch VODs available!
+46.22%
+Relic Demon Hunter
+Versus:	Control Priest
+Winrate:	67.85%
+Games:	84
+Twitch VODs available!
+67.85%
+Relic Demon Hunter
+Versus:	Pure Paladin
+Winrate:	57.47%
+Games:	87
+Twitch VODs available!
+57.47%
+Relic Demon Hunter
+Versus:	Spooky Mage
+Winrate:	59.01%
+Games:	61
+Twitch VODs available!
+59.01%
+Relic Demon Hunter
+Mirror matchup
+TwitchTwitch VODs available!
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Ping Mage
-Versus:	Thaddius Rogue
+Relic Demon Hunter
+Versus:	Naga Mage
+Winrate:	53.12%
+Games:	64
+Twitch VODs available!
+53.12%
+Relic Demon Hunter
+Versus:	Totem Shaman
+Winrate:	73.33%
+Games:	30
+Twitch VODs available!
+73.33%
+Relic Demon Hunter
+Versus:	Thief Priest
+Winrate:	69.76%
+Games:	43
+Twitch VODs available!
+69.76%
+Relic Demon Hunter
+Versus:	Big Druid
+Winrate:	43.33%
+Games:	30
+Twitch VODs available!
+43.33%
+Relic Demon Hunter
+Versus:	Burn Mage
+Winrate:	54.28%
+Games:	35
+Twitch VODs available!
+54.28%
+Relic Demon Hunter
+Versus:	Riff 'n' Roll Warrior
 Winrate:	73.33%
 Games:	30
 73.33%
@@ -3701,877 +2522,261 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Deathrattle Rogue
-Versus:	Undead Priest
-Winrate:	47.81%
-Games:	596
-Twitch VODs available!
-47.81%
-Deathrattle Rogue
-Versus:	Miracle Rogue
-Winrate:	60.94%
-Games:	443
-60.94%
-Deathrattle Rogue
-Versus:	Thief Rogue
-Winrate:	50.00%
-Games:	380
-Twitch VODs available!
-50.00%
-Deathrattle Rogue
-Versus:	Quest Druid
-Winrate:	43.94%
-Games:	355
-Twitch VODs available!
-43.94%
-Deathrattle Rogue
-Versus:	Fel Demon Hunter
-Winrate:	60.34%
-Games:	290
-Twitch VODs available!
-60.34%
-Deathrattle Rogue
-Versus:	Pure Paladin
-Winrate:	63.72%
-Games:	215
-Twitch VODs available!
-63.72%
-Deathrattle Rogue
-Versus:	Frost Aggro Death Knight
-Winrate:	52.63%
-Games:	171
-Twitch VODs available!
-52.63%
-Deathrattle Rogue
-Versus:	Aggro Mage
-Winrate:	21.25%
-Games:	160
-Twitch VODs available!
-21.25%
-Deathrattle Rogue
+Face Hunter
 Versus:	Blood Death Knight
-Winrate:	59.09%
-Games:	110
+Winrate:	42.46%
+Games:	332
 Twitch VODs available!
-59.09%
-Deathrattle Rogue
-Versus:	Unholy Death Knight
-Winrate:	49.12%
-Games:	114
-Twitch VODs available!
-49.12%
-Deathrattle Rogue
-Versus:	Control Priest
-Winrate:	46.87%
-Games:	64
-46.87%
-Deathrattle Rogue
-Versus:	Big Spell Mage
-Winrate:	39.39%
-Games:	66
-Twitch VODs available!
-39.39%
-Deathrattle Rogue
-Versus:	Other Priest
-Winrate:	29.34%
-Games:	92
-29.34%
-Deathrattle Rogue
-Versus:	Svalna Priest
-Winrate:	37.50%
-Games:	80
-37.50%
-Deathrattle Rogue
-Versus:	Phylactery Warlock
-Winrate:	45.45%
-Games:	77
-45.45%
-Deathrattle Rogue
-Versus:	Ramp Druid
-Winrate:	61.01%
-Games:	59
-Twitch VODs available!
-61.01%
-Deathrattle Rogue
-Versus:	Ping Mage
-Winrate:	27.27%
-Games:	55
-27.27%
-Deathrattle Rogue
-Mirror matchup
-Deathrattle Rogue
-Versus:	Imp Warlock
-Winrate:	68.18%
-Games:	44
-Twitch VODs available!
-68.18%
-Deathrattle Rogue
+42.46%
+Face Hunter
 Versus:	Spell Demon Hunter
-Winrate:	57.14%
-Games:	42
-57.14%
-Deathrattle Rogue
-Versus:	Aggro Demon Hunter
-Winrate:	34.61%
-Games:	52
-34.61%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Deathrattle Rogue
-Versus:	Shockspitter Hunter
-Winrate:	47.05%
-Games:	34
-47.05%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Imp Warlock
-Versus:	Undead Priest
-Winrate:	39.92%
-Games:	506
+Winrate:	48.42%
+Games:	285
 Twitch VODs available!
-39.92%
-Imp Warlock
+48.42%
+Face Hunter
 Versus:	Miracle Rogue
-Winrate:	49.64%
-Games:	278
+Winrate:	39.59%
+Games:	197
 Twitch VODs available!
-49.64%
-Imp Warlock
-Versus:	Thief Rogue
-Winrate:	55.27%
-Games:	398
-Twitch VODs available!
-55.27%
-Imp Warlock
-Versus:	Quest Druid
-Winrate:	62.08%
-Games:	335
-62.08%
-Imp Warlock
-Versus:	Fel Demon Hunter
-Winrate:	49.59%
-Games:	248
-49.59%
-Imp Warlock
-Versus:	Pure Paladin
-Winrate:	53.57%
-Games:	196
-Twitch VODs available!
-53.57%
-Imp Warlock
-Versus:	Frost Aggro Death Knight
-Winrate:	36.55%
-Games:	238
-Twitch VODs available!
-36.55%
-Imp Warlock
-Versus:	Aggro Mage
-Winrate:	46.51%
-Games:	129
-Twitch VODs available!
-46.51%
-Imp Warlock
-Versus:	Blood Death Knight
-Winrate:	63.00%
-Games:	173
-Twitch VODs available!
-63.00%
-Imp Warlock
-Versus:	Unholy Death Knight
-Winrate:	43.36%
-Games:	113
-Twitch VODs available!
-43.36%
-Imp Warlock
-Versus:	Control Priest
-Winrate:	58.22%
-Games:	79
-Twitch VODs available!
-58.22%
-Imp Warlock
-Versus:	Big Spell Mage
-Winrate:	52.94%
-Games:	68
-52.94%
-Imp Warlock
-Versus:	Other Priest
-Winrate:	47.45%
-Games:	59
-47.45%
-Imp Warlock
-Versus:	Svalna Priest
-Winrate:	63.63%
-Games:	77
-63.63%
-Imp Warlock
-Versus:	Phylactery Warlock
-Winrate:	57.81%
-Games:	64
-57.81%
-Imp Warlock
-Versus:	Ramp Druid
-Winrate:	70.37%
-Games:	54
-Twitch VODs available!
-70.37%
-Imp Warlock
-Versus:	Ping Mage
-Winrate:	50.00%
-Games:	44
-Twitch VODs available!
-50.00%
-Imp Warlock
-Versus:	Deathrattle Rogue
-Winrate:	31.81%
-Games:	44
-31.81%
-Imp Warlock
-Mirror matchup
-TwitchTwitch VODs available!
-Imp Warlock
-Versus:	Spell Demon Hunter
-Winrate:	64.00%
-Games:	50
-64.00%
-Imp Warlock
-Versus:	Aggro Demon Hunter
-Winrate:	57.14%
-Games:	35
-Twitch VODs available!
-57.14%
-Imp Warlock
-Versus:	Thaddius Warlock
-Winrate:	64.86%
-Games:	37
-64.86%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Spell Demon Hunter
-Versus:	Undead Priest
-Winrate:	46.68%
-Games:	452
-Twitch VODs available!
-46.68%
-Spell Demon Hunter
-Versus:	Miracle Rogue
-Winrate:	37.01%
-Games:	281
-Twitch VODs available!
-37.01%
-Spell Demon Hunter
-Versus:	Thief Rogue
-Winrate:	59.15%
-Games:	333
-Twitch VODs available!
-59.15%
-Spell Demon Hunter
-Versus:	Quest Druid
-Winrate:	33.20%
+39.59%
+Face Hunter
+Versus:	Tony Druid
+Winrate:	60.00%
 Games:	250
 Twitch VODs available!
-33.20%
-Spell Demon Hunter
-Versus:	Fel Demon Hunter
-Winrate:	46.69%
-Games:	257
+60.00%
+Face Hunter
+Versus:	Unholy Death Knight
+Winrate:	34.25%
+Games:	216
 Twitch VODs available!
-46.69%
-Spell Demon Hunter
-Versus:	Pure Paladin
-Winrate:	52.29%
-Games:	218
+34.25%
+Face Hunter
+Versus:	Other Druid
+Winrate:	59.37%
+Games:	96
+59.37%
+Face Hunter
+Versus:	Outcast Demon Hunter
+Winrate:	38.46%
+Games:	104
 Twitch VODs available!
-52.29%
-Spell Demon Hunter
-Versus:	Frost Aggro Death Knight
-Winrate:	58.13%
-Games:	172
+38.46%
+Face Hunter
+Versus:	Undead Priest
+Winrate:	50.80%
+Games:	124
 Twitch VODs available!
-58.13%
-Spell Demon Hunter
-Versus:	Aggro Mage
-Winrate:	50.00%
+50.80%
+Face Hunter
+Versus:	Frost Death Knight
+Winrate:	50.48%
+Games:	103
+Twitch VODs available!
+50.48%
+Face Hunter
+Versus:	Big Demon Hunter
+Winrate:	47.69%
+Games:	130
+Twitch VODs available!
+47.69%
+Face Hunter
+Versus:	Control Priest
+Winrate:	46.00%
 Games:	100
 Twitch VODs available!
-50.00%
-Spell Demon Hunter
-Versus:	Blood Death Knight
-Winrate:	63.90%
-Games:	133
+46.00%
+Face Hunter
+Versus:	Pure Paladin
+Winrate:	47.05%
+Games:	68
 Twitch VODs available!
-63.90%
-Spell Demon Hunter
-Versus:	Unholy Death Knight
-Winrate:	51.06%
-Games:	94
-Twitch VODs available!
-51.06%
-Spell Demon Hunter
-Versus:	Control Priest
-Winrate:	62.19%
-Games:	82
-Twitch VODs available!
-62.19%
-Spell Demon Hunter
-Versus:	Big Spell Mage
-Winrate:	43.33%
-Games:	60
-Twitch VODs available!
-43.33%
-Spell Demon Hunter
-Versus:	Other Priest
-Winrate:	40.00%
-Games:	50
-40.00%
-Spell Demon Hunter
-Versus:	Svalna Priest
-Winrate:	47.16%
-Games:	53
-Twitch VODs available!
-47.16%
-Spell Demon Hunter
-Versus:	Phylactery Warlock
+47.05%
+Face Hunter
+Versus:	Spooky Mage
 Winrate:	50.00%
-Games:	52
+Games:	64
 Twitch VODs available!
 50.00%
-Spell Demon Hunter
-Versus:	Ramp Druid
-Winrate:	55.76%
-Games:	52
+Not enough games
+
+⁓
+Face Hunter
+Mirror matchup
+TwitchTwitch VODs available!
+Face Hunter
+Versus:	Naga Mage
+Winrate:	51.61%
+Games:	31
+51.61%
+Face Hunter
+Versus:	Totem Shaman
+Winrate:	44.11%
+Games:	34
 Twitch VODs available!
-55.76%
-Spell Demon Hunter
-Versus:	Ping Mage
-Winrate:	59.67%
-Games:	62
+44.11%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Naga Mage
+Versus:	Blood Death Knight
+Winrate:	45.07%
+Games:	335
 Twitch VODs available!
-59.67%
-Spell Demon Hunter
-Versus:	Deathrattle Rogue
-Winrate:	42.85%
-Games:	42
+45.07%
+Naga Mage
+Versus:	Spell Demon Hunter
+Winrate:	48.16%
+Games:	299
 Twitch VODs available!
-42.85%
-Spell Demon Hunter
-Versus:	Imp Warlock
+48.16%
+Naga Mage
+Versus:	Miracle Rogue
+Winrate:	40.22%
+Games:	266
+Twitch VODs available!
+40.22%
+Naga Mage
+Versus:	Tony Druid
+Winrate:	47.56%
+Games:	185
+Twitch VODs available!
+47.56%
+Naga Mage
+Versus:	Unholy Death Knight
+Winrate:	40.51%
+Games:	116
+Twitch VODs available!
+40.51%
+Naga Mage
+Versus:	Other Druid
+Winrate:	47.53%
+Games:	162
+47.53%
+Naga Mage
+Versus:	Outcast Demon Hunter
+Winrate:	38.73%
+Games:	142
+Twitch VODs available!
+38.73%
+Naga Mage
+Versus:	Undead Priest
+Winrate:	36.19%
+Games:	105
+Twitch VODs available!
+36.19%
+Naga Mage
+Versus:	Frost Death Knight
+Winrate:	45.00%
+Games:	140
+Twitch VODs available!
+45.00%
+Naga Mage
+Versus:	Big Demon Hunter
+Winrate:	50.00%
+Games:	56
+Twitch VODs available!
+50.00%
+Naga Mage
+Versus:	Control Priest
 Winrate:	36.00%
 Games:	50
 Twitch VODs available!
 36.00%
-Spell Demon Hunter
+Naga Mage
+Versus:	Pure Paladin
+Winrate:	50.94%
+Games:	53
+Twitch VODs available!
+50.94%
+Naga Mage
+Versus:	Spooky Mage
+Winrate:	49.05%
+Games:	53
+Twitch VODs available!
+49.05%
+Naga Mage
+Versus:	Relic Demon Hunter
+Winrate:	46.87%
+Games:	64
+Twitch VODs available!
+46.87%
+Naga Mage
+Versus:	Face Hunter
+Winrate:	48.38%
+Games:	31
+Twitch VODs available!
+48.38%
+Naga Mage
 Mirror matchup
 TwitchTwitch VODs available!
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Aggro Demon Hunter
-Versus:	Undead Priest
-Winrate:	46.64%
-Games:	373
+Naga Mage
+Versus:	Thief Priest
+Winrate:	38.23%
+Games:	34
 Twitch VODs available!
-46.64%
-Aggro Demon Hunter
-Versus:	Miracle Rogue
-Winrate:	52.94%
-Games:	221
-Twitch VODs available!
-52.94%
-Aggro Demon Hunter
-Versus:	Thief Rogue
-Winrate:	51.01%
-Games:	296
-Twitch VODs available!
-51.01%
-Aggro Demon Hunter
-Versus:	Quest Druid
-Winrate:	43.15%
-Games:	241
-43.15%
-Aggro Demon Hunter
-Versus:	Fel Demon Hunter
-Winrate:	62.36%
-Games:	186
-Twitch VODs available!
-62.36%
-Aggro Demon Hunter
-Versus:	Pure Paladin
-Winrate:	43.27%
-Games:	171
-43.27%
-Aggro Demon Hunter
-Versus:	Frost Aggro Death Knight
-Winrate:	54.19%
-Games:	155
-Twitch VODs available!
-54.19%
-Aggro Demon Hunter
-Versus:	Aggro Mage
-Winrate:	35.55%
-Games:	90
-Twitch VODs available!
-35.55%
-Aggro Demon Hunter
-Versus:	Blood Death Knight
-Winrate:	45.76%
-Games:	118
-Twitch VODs available!
-45.76%
-Aggro Demon Hunter
-Versus:	Unholy Death Knight
-Winrate:	32.00%
-Games:	75
-Twitch VODs available!
-32.00%
-Aggro Demon Hunter
-Versus:	Control Priest
-Winrate:	24.48%
-Games:	49
-Twitch VODs available!
-24.48%
-Aggro Demon Hunter
-Versus:	Big Spell Mage
-Winrate:	49.09%
-Games:	55
-Twitch VODs available!
-49.09%
-Aggro Demon Hunter
-Versus:	Other Priest
-Winrate:	33.33%
-Games:	63
-33.33%
-Aggro Demon Hunter
-Versus:	Svalna Priest
-Winrate:	37.50%
-Games:	56
-37.50%
-Aggro Demon Hunter
-Versus:	Phylactery Warlock
-Winrate:	58.62%
-Games:	58
-58.62%
-Aggro Demon Hunter
-Versus:	Ramp Druid
-Winrate:	51.28%
-Games:	39
-51.28%
-Aggro Demon Hunter
-Versus:	Ping Mage
-Winrate:	56.41%
-Games:	39
-56.41%
-Aggro Demon Hunter
-Versus:	Deathrattle Rogue
-Winrate:	65.38%
-Games:	52
-65.38%
-Aggro Demon Hunter
-Versus:	Imp Warlock
-Winrate:	42.85%
-Games:	35
-42.85%
-Not enough games
-
-⁓
-Aggro Demon Hunter
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Aggro Demon Hunter
-Versus:	Thaddius Rogue
-Winrate:	68.75%
-Games:	32
-68.75%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Thaddius Warlock
-Versus:	Undead Priest
-Winrate:	35.38%
-Games:	308
-Twitch VODs available!
-35.38%
-Thaddius Warlock
-Versus:	Miracle Rogue
-Winrate:	37.43%
-Games:	179
-Twitch VODs available!
-37.43%
-Thaddius Warlock
-Versus:	Thief Rogue
-Winrate:	44.74%
-Games:	257
-Twitch VODs available!
-44.74%
-Thaddius Warlock
-Versus:	Quest Druid
-Winrate:	40.36%
-Games:	218
-Twitch VODs available!
-40.36%
-Thaddius Warlock
-Versus:	Fel Demon Hunter
-Winrate:	46.20%
-Games:	145
-Twitch VODs available!
-46.20%
-Thaddius Warlock
-Versus:	Pure Paladin
-Winrate:	38.75%
-Games:	160
-Twitch VODs available!
-38.75%
-Thaddius Warlock
-Versus:	Frost Aggro Death Knight
-Winrate:	63.44%
-Games:	145
-Twitch VODs available!
-63.44%
-Thaddius Warlock
-Versus:	Aggro Mage
-Winrate:	60.00%
-Games:	70
-Twitch VODs available!
-60.00%
-Thaddius Warlock
-Versus:	Blood Death Knight
-Winrate:	55.55%
-Games:	117
-Twitch VODs available!
-55.55%
-Thaddius Warlock
-Versus:	Unholy Death Knight
-Winrate:	51.47%
-Games:	68
-Twitch VODs available!
-51.47%
-Thaddius Warlock
-Versus:	Control Priest
-Winrate:	48.83%
-Games:	43
-Twitch VODs available!
-48.83%
-Thaddius Warlock
-Versus:	Big Spell Mage
-Winrate:	45.00%
-Games:	60
-Twitch VODs available!
-45.00%
-Thaddius Warlock
-Versus:	Other Priest
-Winrate:	31.81%
-Games:	44
-31.81%
-Thaddius Warlock
-Versus:	Svalna Priest
-Winrate:	31.42%
-Games:	35
-Twitch VODs available!
-31.42%
-Thaddius Warlock
-Versus:	Phylactery Warlock
-Winrate:	46.80%
-Games:	47
-Twitch VODs available!
-46.80%
-Thaddius Warlock
-Versus:	Ramp Druid
-Winrate:	47.82%
+38.23%
+Naga Mage
+Versus:	Big Druid
+Winrate:	54.34%
 Games:	46
 Twitch VODs available!
-47.82%
-Thaddius Warlock
-Versus:	Ping Mage
-Winrate:	56.41%
-Games:	39
-Twitch VODs available!
-56.41%
-Not enough games
-
-⁓
-Thaddius Warlock
-Versus:	Imp Warlock
-Winrate:	35.13%
-Games:	37
-Twitch VODs available!
-35.13%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Thaddius Warlock
-Mirror matchup
-TwitchTwitch VODs available!
+54.34%
 Not enough games
 
 ⁓
@@ -4620,137 +2825,99 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Priest
-Versus:	Undead Priest
-Winrate:	50.73%
-Games:	272
-Twitch VODs available!
-50.73%
-Quest Priest
-Versus:	Miracle Rogue
-Winrate:	57.53%
-Games:	292
-Twitch VODs available!
-57.53%
-Quest Priest
-Versus:	Thief Rogue
-Winrate:	36.59%
-Games:	194
-Twitch VODs available!
-36.59%
-Quest Priest
-Versus:	Quest Druid
-Winrate:	35.00%
-Games:	220
-Twitch VODs available!
-35.00%
-Quest Priest
-Versus:	Fel Demon Hunter
-Winrate:	20.49%
-Games:	122
-Twitch VODs available!
-20.49%
-Quest Priest
-Versus:	Pure Paladin
-Winrate:	62.87%
-Games:	132
-Twitch VODs available!
-62.87%
-Quest Priest
-Versus:	Frost Aggro Death Knight
-Winrate:	44.85%
-Games:	107
-Twitch VODs available!
-44.85%
-Quest Priest
-Versus:	Aggro Mage
-Winrate:	69.69%
-Games:	66
-Twitch VODs available!
-69.69%
-Quest Priest
+Totem Shaman
 Versus:	Blood Death Knight
-Winrate:	64.36%
-Games:	87
+Winrate:	46.09%
+Games:	256
 Twitch VODs available!
-64.36%
-Quest Priest
+46.09%
+Totem Shaman
+Versus:	Spell Demon Hunter
+Winrate:	47.70%
+Games:	218
+Twitch VODs available!
+47.70%
+Totem Shaman
+Versus:	Miracle Rogue
+Winrate:	40.18%
+Games:	214
+Twitch VODs available!
+40.18%
+Totem Shaman
+Versus:	Tony Druid
+Winrate:	79.27%
+Games:	193
+Twitch VODs available!
+79.27%
+Totem Shaman
 Versus:	Unholy Death Knight
-Winrate:	74.19%
-Games:	62
+Winrate:	40.00%
+Games:	115
 Twitch VODs available!
-74.19%
-Quest Priest
+40.00%
+Totem Shaman
+Versus:	Other Druid
+Winrate:	61.98%
+Games:	121
+61.98%
+Totem Shaman
+Versus:	Outcast Demon Hunter
+Winrate:	29.66%
+Games:	118
+Twitch VODs available!
+29.66%
+Totem Shaman
+Versus:	Undead Priest
+Winrate:	54.83%
+Games:	93
+Twitch VODs available!
+54.83%
+Totem Shaman
+Versus:	Frost Death Knight
+Winrate:	37.50%
+Games:	104
+Twitch VODs available!
+37.50%
+Totem Shaman
+Versus:	Big Demon Hunter
+Winrate:	52.47%
+Games:	101
+Twitch VODs available!
+52.47%
+Totem Shaman
 Versus:	Control Priest
-Winrate:	67.64%
-Games:	34
+Winrate:	36.00%
+Games:	75
 Twitch VODs available!
-67.64%
-Quest Priest
-Versus:	Big Spell Mage
-Winrate:	47.91%
-Games:	48
-Twitch VODs available!
-47.91%
-Quest Priest
-Versus:	Other Priest
-Winrate:	77.50%
-Games:	40
-77.50%
-Quest Priest
-Versus:	Svalna Priest
-Winrate:	45.45%
-Games:	33
-45.45%
-Quest Priest
-Versus:	Phylactery Warlock
-Winrate:	21.05%
+36.00%
+Totem Shaman
+Versus:	Pure Paladin
+Winrate:	50.87%
 Games:	57
 Twitch VODs available!
-21.05%
-Quest Priest
-Versus:	Ramp Druid
-Winrate:	41.17%
+50.87%
+Totem Shaman
+Versus:	Spooky Mage
+Winrate:	45.09%
+Games:	51
+Twitch VODs available!
+45.09%
+Totem Shaman
+Versus:	Relic Demon Hunter
+Winrate:	26.66%
+Games:	30
+Twitch VODs available!
+26.66%
+Totem Shaman
+Versus:	Face Hunter
+Winrate:	55.88%
 Games:	34
 Twitch VODs available!
-41.17%
+55.88%
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Priest
+Totem Shaman
 Mirror matchup
 TwitchTwitch VODs available!
 Not enough games
@@ -4807,440 +2974,521 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Shockspitter Hunter
-Versus:	Undead Priest
-Winrate:	45.42%
-Games:	295
+Thief Priest
+Versus:	Blood Death Knight
+Winrate:	67.47%
+Games:	206
 Twitch VODs available!
-45.42%
-Shockspitter Hunter
+67.47%
+Thief Priest
+Versus:	Spell Demon Hunter
+Winrate:	36.69%
+Games:	218
+Twitch VODs available!
+36.69%
+Thief Priest
 Versus:	Miracle Rogue
-Winrate:	48.10%
-Games:	237
+Winrate:	61.70%
+Games:	188
 Twitch VODs available!
-48.10%
-Shockspitter Hunter
-Versus:	Thief Rogue
-Winrate:	56.35%
-Games:	236
+61.70%
+Thief Priest
+Versus:	Tony Druid
+Winrate:	38.29%
+Games:	188
 Twitch VODs available!
-56.35%
-Shockspitter Hunter
-Versus:	Quest Druid
-Winrate:	43.25%
-Games:	215
+38.29%
+Thief Priest
+Versus:	Unholy Death Knight
+Winrate:	49.57%
+Games:	117
 Twitch VODs available!
-43.25%
-Shockspitter Hunter
-Versus:	Fel Demon Hunter
+49.57%
+Thief Priest
+Versus:	Other Druid
+Winrate:	51.85%
+Games:	81
+51.85%
+Thief Priest
+Versus:	Outcast Demon Hunter
+Winrate:	36.55%
+Games:	93
+Twitch VODs available!
+36.55%
+Thief Priest
+Versus:	Undead Priest
+Winrate:	42.66%
+Games:	75
+Twitch VODs available!
+42.66%
+Thief Priest
+Versus:	Frost Death Knight
+Winrate:	46.34%
+Games:	82
+Twitch VODs available!
+46.34%
+Thief Priest
+Versus:	Big Demon Hunter
+Winrate:	31.34%
+Games:	67
+Twitch VODs available!
+31.34%
+Thief Priest
+Versus:	Control Priest
+Winrate:	40.42%
+Games:	47
+Twitch VODs available!
+40.42%
+Thief Priest
+Versus:	Pure Paladin
 Winrate:	55.00%
-Games:	140
+Games:	40
 Twitch VODs available!
 55.00%
-Shockspitter Hunter
+Thief Priest
+Versus:	Spooky Mage
+Winrate:	34.28%
+Games:	35
+Twitch VODs available!
+34.28%
+Thief Priest
+Versus:	Relic Demon Hunter
+Winrate:	30.23%
+Games:	43
+Twitch VODs available!
+30.23%
+Not enough games
+
+⁓
+Thief Priest
+Versus:	Naga Mage
+Winrate:	61.76%
+Games:	34
+Twitch VODs available!
+61.76%
+Not enough games
+
+⁓
+Thief Priest
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Big Druid
+Versus:	Blood Death Knight
+Winrate:	65.51%
+Games:	203
+Twitch VODs available!
+65.51%
+Big Druid
+Versus:	Spell Demon Hunter
+Winrate:	43.01%
+Games:	186
+Twitch VODs available!
+43.01%
+Big Druid
+Versus:	Miracle Rogue
+Winrate:	53.98%
+Games:	163
+Twitch VODs available!
+53.98%
+Big Druid
+Versus:	Tony Druid
+Winrate:	48.11%
+Games:	106
+Twitch VODs available!
+48.11%
+Big Druid
+Versus:	Unholy Death Knight
+Winrate:	36.04%
+Games:	86
+Twitch VODs available!
+36.04%
+Big Druid
+Versus:	Other Druid
+Winrate:	48.07%
+Games:	104
+48.07%
+Big Druid
+Versus:	Outcast Demon Hunter
+Winrate:	31.25%
+Games:	80
+Twitch VODs available!
+31.25%
+Big Druid
+Versus:	Undead Priest
+Winrate:	31.81%
+Games:	66
+Twitch VODs available!
+31.81%
+Big Druid
+Versus:	Frost Death Knight
+Winrate:	47.31%
+Games:	93
+Twitch VODs available!
+47.31%
+Big Druid
+Versus:	Big Demon Hunter
+Winrate:	58.82%
+Games:	51
+Twitch VODs available!
+58.82%
+Big Druid
+Versus:	Control Priest
+Winrate:	52.63%
+Games:	38
+Twitch VODs available!
+52.63%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Big Druid
+Versus:	Relic Demon Hunter
+Winrate:	56.66%
+Games:	30
+Twitch VODs available!
+56.66%
+Not enough games
+
+⁓
+Big Druid
+Versus:	Naga Mage
+Winrate:	45.65%
+Games:	46
+45.65%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Big Druid
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Burn Mage
+Versus:	Blood Death Knight
+Winrate:	47.09%
+Games:	155
+Twitch VODs available!
+47.09%
+Burn Mage
+Versus:	Spell Demon Hunter
+Winrate:	59.55%
+Games:	136
+Twitch VODs available!
+59.55%
+Burn Mage
+Versus:	Miracle Rogue
+Winrate:	42.18%
+Games:	128
+Twitch VODs available!
+42.18%
+Burn Mage
+Versus:	Tony Druid
+Winrate:	47.86%
+Games:	117
+Twitch VODs available!
+47.86%
+Burn Mage
+Versus:	Unholy Death Knight
+Winrate:	37.00%
+Games:	100
+Twitch VODs available!
+37.00%
+Burn Mage
+Versus:	Other Druid
+Winrate:	41.66%
+Games:	60
+41.66%
+Burn Mage
+Versus:	Outcast Demon Hunter
+Winrate:	54.71%
+Games:	53
+Twitch VODs available!
+54.71%
+Burn Mage
+Versus:	Undead Priest
+Winrate:	27.86%
+Games:	61
+Twitch VODs available!
+27.86%
+Burn Mage
+Versus:	Frost Death Knight
+Winrate:	41.17%
+Games:	51
+Twitch VODs available!
+41.17%
+Burn Mage
+Versus:	Big Demon Hunter
+Winrate:	48.57%
+Games:	70
+Twitch VODs available!
+48.57%
+Burn Mage
+Versus:	Control Priest
+Winrate:	55.31%
+Games:	47
+Twitch VODs available!
+55.31%
+Burn Mage
 Versus:	Pure Paladin
-Winrate:	61.53%
+Winrate:	53.65%
+Games:	41
+Twitch VODs available!
+53.65%
+Burn Mage
+Versus:	Spooky Mage
+Winrate:	52.94%
+Games:	34
+Twitch VODs available!
+52.94%
+Burn Mage
+Versus:	Relic Demon Hunter
+Winrate:	45.71%
+Games:	35
+Twitch VODs available!
+45.71%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Burn Mage
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Riff 'n' Roll Warrior
+Versus:	Blood Death Knight
+Winrate:	52.69%
+Games:	167
+Twitch VODs available!
+52.69%
+Riff 'n' Roll Warrior
+Versus:	Spell Demon Hunter
+Winrate:	53.74%
+Games:	147
+Twitch VODs available!
+53.74%
+Riff 'n' Roll Warrior
+Versus:	Miracle Rogue
+Winrate:	41.07%
+Games:	112
+Twitch VODs available!
+41.07%
+Riff 'n' Roll Warrior
+Versus:	Tony Druid
+Winrate:	31.81%
+Games:	110
+Twitch VODs available!
+31.81%
+Riff 'n' Roll Warrior
+Versus:	Unholy Death Knight
+Winrate:	20.51%
 Games:	78
 Twitch VODs available!
-61.53%
-Shockspitter Hunter
-Versus:	Frost Aggro Death Knight
-Winrate:	44.85%
-Games:	107
+20.51%
+Riff 'n' Roll Warrior
+Versus:	Other Druid
+Winrate:	32.72%
+Games:	55
+32.72%
+Riff 'n' Roll Warrior
+Versus:	Outcast Demon Hunter
+Winrate:	21.31%
+Games:	61
 Twitch VODs available!
-44.85%
-Shockspitter Hunter
-Versus:	Aggro Mage
-Winrate:	35.44%
-Games:	79
+21.31%
+Riff 'n' Roll Warrior
+Versus:	Undead Priest
+Winrate:	32.69%
+Games:	52
 Twitch VODs available!
-35.44%
-Shockspitter Hunter
-Versus:	Blood Death Knight
-Winrate:	53.22%
-Games:	62
+32.69%
+Riff 'n' Roll Warrior
+Versus:	Frost Death Knight
+Winrate:	50.72%
+Games:	69
 Twitch VODs available!
-53.22%
-Shockspitter Hunter
-Versus:	Unholy Death Knight
+50.72%
+Riff 'n' Roll Warrior
+Versus:	Big Demon Hunter
 Winrate:	42.50%
 Games:	40
 Twitch VODs available!
 42.50%
-Shockspitter Hunter
+Riff 'n' Roll Warrior
 Versus:	Control Priest
-Winrate:	42.85%
-Games:	42
+Winrate:	53.48%
+Games:	43
 Twitch VODs available!
-42.85%
-Shockspitter Hunter
-Versus:	Big Spell Mage
-Winrate:	57.14%
-Games:	35
-Twitch VODs available!
-57.14%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Shockspitter Hunter
-Versus:	Phylactery Warlock
+53.48%
+Riff 'n' Roll Warrior
+Versus:	Pure Paladin
 Winrate:	31.25%
 Games:	32
 Twitch VODs available!
 31.25%
-Shockspitter Hunter
-Versus:	Ramp Druid
-Winrate:	37.50%
-Games:	32
-Twitch VODs available!
-37.50%
 Not enough games
 
 ⁓
-Shockspitter Hunter
-Versus:	Deathrattle Rogue
-Winrate:	52.94%
-Games:	34
-52.94%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Shockspitter Hunter
-Mirror matchup
-TwitchTwitch VODs available!
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Curse Imp Warlock
-Versus:	Undead Priest
-Winrate:	33.61%
-Games:	235
-Twitch VODs available!
-33.61%
-Curse Imp Warlock
-Versus:	Miracle Rogue
-Winrate:	36.92%
-Games:	130
-Twitch VODs available!
-36.92%
-Curse Imp Warlock
-Versus:	Thief Rogue
-Winrate:	56.16%
-Games:	219
-Twitch VODs available!
-56.16%
-Curse Imp Warlock
-Versus:	Quest Druid
-Winrate:	57.40%
-Games:	162
-Twitch VODs available!
-57.40%
-Curse Imp Warlock
-Versus:	Fel Demon Hunter
-Winrate:	45.61%
-Games:	114
-Twitch VODs available!
-45.61%
-Curse Imp Warlock
-Versus:	Pure Paladin
-Winrate:	53.21%
-Games:	109
-Twitch VODs available!
-53.21%
-Curse Imp Warlock
-Versus:	Frost Aggro Death Knight
-Winrate:	43.67%
-Games:	87
-Twitch VODs available!
-43.67%
-Curse Imp Warlock
-Versus:	Aggro Mage
-Winrate:	42.85%
-Games:	56
-Twitch VODs available!
-42.85%
-Curse Imp Warlock
-Versus:	Blood Death Knight
-Winrate:	74.35%
-Games:	78
-Twitch VODs available!
-74.35%
-Curse Imp Warlock
-Versus:	Unholy Death Knight
-Winrate:	39.39%
-Games:	66
-Twitch VODs available!
-39.39%
-Curse Imp Warlock
-Versus:	Control Priest
-Winrate:	69.04%
-Games:	42
-Twitch VODs available!
-69.04%
-Curse Imp Warlock
-Versus:	Big Spell Mage
-Winrate:	47.36%
-Games:	38
-Twitch VODs available!
-47.36%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Curse Imp Warlock
-Versus:	Ramp Druid
-Winrate:	38.70%
-Games:	31
-Twitch VODs available!
-38.70%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Curse Imp Warlock
-Mirror matchup
-TwitchTwitch VODs available!
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Thaddius Rogue
-Versus:	Undead Priest
-Winrate:	42.63%
-Games:	258
-Twitch VODs available!
-42.63%
-Thaddius Rogue
-Versus:	Miracle Rogue
-Winrate:	39.83%
-Games:	123
-Twitch VODs available!
-39.83%
-Thaddius Rogue
-Versus:	Thief Rogue
-Winrate:	51.01%
-Games:	247
-51.01%
-Thaddius Rogue
-Versus:	Quest Druid
-Winrate:	54.49%
-Games:	167
-54.49%
-Thaddius Rogue
-Versus:	Fel Demon Hunter
-Winrate:	63.93%
-Games:	122
-63.93%
-Thaddius Rogue
-Versus:	Pure Paladin
-Winrate:	34.88%
-Games:	129
-34.88%
-Thaddius Rogue
-Versus:	Frost Aggro Death Knight
-Winrate:	49.09%
-Games:	110
-49.09%
-Thaddius Rogue
-Versus:	Aggro Mage
-Winrate:	39.50%
-Games:	81
-39.50%
-Thaddius Rogue
-Versus:	Blood Death Knight
-Winrate:	46.06%
-Games:	89
-46.06%
-Thaddius Rogue
-Versus:	Unholy Death Knight
-Winrate:	35.59%
-Games:	59
-35.59%
-Not enough games
-
-⁓
-Thaddius Rogue
-Versus:	Big Spell Mage
-Winrate:	45.23%
-Games:	42
-45.23%
-Not enough games
-
-⁓
-Thaddius Rogue
-Versus:	Svalna Priest
-Winrate:	73.52%
-Games:	34
-73.52%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Thaddius Rogue
-Versus:	Ping Mage
+Riff 'n' Roll Warrior
+Versus:	Relic Demon Hunter
 Winrate:	26.66%
 Games:	30
+Twitch VODs available!
 26.66%
 Not enough games
 
@@ -5251,11 +3499,6 @@ Not enough games
 Not enough games
 
 ⁓
-Thaddius Rogue
-Versus:	Aggro Demon Hunter
-Winrate:	31.25%
-Games:	32
-31.25%
 Not enough games
 
 ⁓
@@ -5265,11 +3508,9 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Thaddius Rogue
+Riff 'n' Roll Warrior
 Mirror matchup
+TwitchTwitch VODs available!
 Not enough games
 
 ⁓
@@ -5312,1594 +3553,217 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Beast Hunter
-Versus:	Undead Priest
-Winrate:	38.70%
-Games:	186
-Twitch VODs available!
-38.70%
-Beast Hunter
-Versus:	Miracle Rogue
-Winrate:	51.85%
-Games:	135
-Twitch VODs available!
-51.85%
-Beast Hunter
-Versus:	Thief Rogue
-Winrate:	50.00%
-Games:	148
-Twitch VODs available!
-50.00%
-Beast Hunter
-Versus:	Quest Druid
-Winrate:	44.02%
-Games:	134
-Twitch VODs available!
-44.02%
-Beast Hunter
-Versus:	Fel Demon Hunter
-Winrate:	46.42%
-Games:	112
-Twitch VODs available!
-46.42%
-Beast Hunter
-Versus:	Pure Paladin
-Winrate:	26.38%
-Games:	72
-Twitch VODs available!
-26.38%
-Beast Hunter
-Versus:	Frost Aggro Death Knight
-Winrate:	57.97%
-Games:	69
-Twitch VODs available!
-57.97%
-Beast Hunter
-Versus:	Aggro Mage
-Winrate:	29.85%
-Games:	67
-Twitch VODs available!
-29.85%
-Beast Hunter
+Secret Rogue
 Versus:	Blood Death Knight
-Winrate:	72.88%
-Games:	59
+Winrate:	60.56%
+Games:	142
 Twitch VODs available!
-72.88%
-Beast Hunter
-Versus:	Unholy Death Knight
-Winrate:	41.02%
-Games:	39
+60.56%
+Secret Rogue
+Versus:	Spell Demon Hunter
+Winrate:	42.37%
+Games:	118
 Twitch VODs available!
-41.02%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Beast Hunter
-Versus:	Phylactery Warlock
-Winrate:	52.77%
-Games:	36
-Twitch VODs available!
-52.77%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Beast Hunter
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Enrage Warrior
-Versus:	Undead Priest
-Winrate:	49.30%
-Games:	215
-Twitch VODs available!
-49.30%
-Enrage Warrior
+42.37%
+Secret Rogue
 Versus:	Miracle Rogue
-Winrate:	32.14%
-Games:	140
-Twitch VODs available!
-32.14%
-Enrage Warrior
-Versus:	Thief Rogue
-Winrate:	50.47%
-Games:	105
-Twitch VODs available!
-50.47%
-Enrage Warrior
-Versus:	Quest Druid
-Winrate:	52.06%
-Games:	121
-Twitch VODs available!
-52.06%
-Enrage Warrior
-Versus:	Fel Demon Hunter
-Winrate:	56.83%
-Games:	139
-Twitch VODs available!
-56.83%
-Enrage Warrior
-Versus:	Pure Paladin
-Winrate:	44.11%
-Games:	68
-Twitch VODs available!
-44.11%
-Enrage Warrior
-Versus:	Frost Aggro Death Knight
-Winrate:	41.25%
-Games:	80
-Twitch VODs available!
-41.25%
-Enrage Warrior
-Versus:	Aggro Mage
-Winrate:	59.25%
-Games:	54
-Twitch VODs available!
-59.25%
-Enrage Warrior
-Versus:	Blood Death Knight
-Winrate:	59.18%
-Games:	49
-Twitch VODs available!
-59.18%
-Enrage Warrior
-Versus:	Unholy Death Knight
-Winrate:	45.09%
-Games:	51
-Twitch VODs available!
-45.09%
-Enrage Warrior
-Versus:	Control Priest
-Winrate:	23.52%
-Games:	34
-Twitch VODs available!
-23.52%
-Enrage Warrior
-Versus:	Big Spell Mage
-Winrate:	61.11%
-Games:	36
-Twitch VODs available!
-61.11%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Enrage Warrior
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Shaman
-Versus:	Undead Priest
-Winrate:	54.45%
-Games:	202
-54.45%
-Other Shaman
-Versus:	Miracle Rogue
-Winrate:	34.67%
-Games:	124
-34.67%
-Other Shaman
-Versus:	Thief Rogue
-Winrate:	40.99%
-Games:	161
-40.99%
-Other Shaman
-Versus:	Quest Druid
-Winrate:	54.54%
-Games:	121
-54.54%
-Other Shaman
-Versus:	Fel Demon Hunter
-Winrate:	38.59%
-Games:	114
-38.59%
-Other Shaman
-Versus:	Pure Paladin
-Winrate:	42.85%
-Games:	91
-42.85%
-Other Shaman
-Versus:	Frost Aggro Death Knight
-Winrate:	28.00%
-Games:	75
-28.00%
-Other Shaman
-Versus:	Aggro Mage
-Winrate:	37.50%
-Games:	48
-37.50%
-Other Shaman
-Versus:	Blood Death Knight
-Winrate:	47.91%
-Games:	48
-47.91%
-Other Shaman
-Versus:	Unholy Death Knight
-Winrate:	46.34%
-Games:	41
-46.34%
-Other Shaman
-Versus:	Control Priest
-Winrate:	40.47%
-Games:	42
-40.47%
-Other Shaman
-Versus:	Big Spell Mage
-Winrate:	56.41%
-Games:	39
-56.41%
-Other Shaman
-Versus:	Other Priest
-Winrate:	53.12%
-Games:	32
-53.12%
-Not enough games
-
-⁓
-Other Shaman
-Versus:	Phylactery Warlock
-Winrate:	42.42%
-Games:	33
-42.42%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Shaman
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Rogue
-Versus:	Undead Priest
-Winrate:	40.00%
-Games:	170
-40.00%
-Other Rogue
-Versus:	Miracle Rogue
-Winrate:	37.93%
-Games:	116
-37.93%
-Other Rogue
-Versus:	Thief Rogue
-Winrate:	50.00%
-Games:	130
-50.00%
-Other Rogue
-Versus:	Quest Druid
-Winrate:	46.55%
-Games:	116
-46.55%
-Other Rogue
-Versus:	Fel Demon Hunter
-Winrate:	51.25%
-Games:	80
-51.25%
-Other Rogue
-Versus:	Pure Paladin
-Winrate:	41.26%
-Games:	63
-41.26%
-Other Rogue
-Versus:	Frost Aggro Death Knight
-Winrate:	33.96%
-Games:	53
-33.96%
-Other Rogue
-Versus:	Aggro Mage
-Winrate:	34.32%
-Games:	67
-34.32%
-Other Rogue
-Versus:	Blood Death Knight
-Winrate:	48.00%
-Games:	50
-48.00%
-Other Rogue
-Versus:	Unholy Death Knight
-Winrate:	38.29%
-Games:	47
-38.29%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Rogue
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Control Warrior
-Versus:	Undead Priest
-Winrate:	49.57%
-Games:	119
-Twitch VODs available!
-49.57%
-Control Warrior
-Versus:	Miracle Rogue
-Winrate:	50.00%
-Games:	120
-Twitch VODs available!
-50.00%
-Control Warrior
-Versus:	Thief Rogue
-Winrate:	39.58%
-Games:	96
-Twitch VODs available!
-39.58%
-Control Warrior
-Versus:	Quest Druid
-Winrate:	30.76%
-Games:	78
-Twitch VODs available!
-30.76%
-Control Warrior
-Versus:	Fel Demon Hunter
-Winrate:	17.64%
-Games:	68
-Twitch VODs available!
-17.64%
-Control Warrior
-Versus:	Pure Paladin
-Winrate:	25.49%
-Games:	51
-25.49%
-Control Warrior
-Versus:	Frost Aggro Death Knight
-Winrate:	44.44%
-Games:	36
-Twitch VODs available!
-44.44%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Control Warrior
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Frost Death Knight
-Versus:	Undead Priest
-Winrate:	54.54%
+Winrate:	45.45%
 Games:	99
 Twitch VODs available!
-54.54%
-Frost Death Knight
-Versus:	Miracle Rogue
-Winrate:	57.35%
-Games:	68
-57.35%
-Frost Death Knight
-Versus:	Thief Rogue
-Winrate:	44.61%
-Games:	65
+45.45%
+Secret Rogue
+Versus:	Tony Druid
+Winrate:	48.35%
+Games:	91
 Twitch VODs available!
-44.61%
-Frost Death Knight
-Versus:	Quest Druid
-Winrate:	26.86%
-Games:	67
-26.86%
-Frost Death Knight
-Versus:	Fel Demon Hunter
-Winrate:	42.10%
-Games:	38
-42.10%
-Frost Death Knight
-Versus:	Pure Paladin
-Winrate:	60.46%
-Games:	43
-60.46%
-Frost Death Knight
-Versus:	Frost Aggro Death Knight
-Winrate:	47.05%
-Games:	51
-47.05%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Frost Death Knight
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Hunter
-Versus:	Undead Priest
-Winrate:	46.23%
-Games:	93
+48.35%
+Secret Rogue
+Versus:	Unholy Death Knight
+Winrate:	39.32%
+Games:	89
 Twitch VODs available!
-46.23%
-Quest Hunter
-Versus:	Miracle Rogue
-Winrate:	37.31%
-Games:	67
-Twitch VODs available!
-37.31%
-Quest Hunter
-Versus:	Thief Rogue
-Winrate:	55.69%
-Games:	79
-Twitch VODs available!
-55.69%
-Quest Hunter
-Versus:	Quest Druid
-Winrate:	19.64%
+39.32%
+Secret Rogue
+Versus:	Other Druid
+Winrate:	53.57%
 Games:	56
+53.57%
+Secret Rogue
+Versus:	Outcast Demon Hunter
+Winrate:	31.42%
+Games:	35
 Twitch VODs available!
-19.64%
-Quest Hunter
-Versus:	Fel Demon Hunter
-Winrate:	47.22%
-Games:	36
+31.42%
+Secret Rogue
+Versus:	Undead Priest
+Winrate:	52.83%
+Games:	53
 Twitch VODs available!
-47.22%
-Quest Hunter
-Versus:	Pure Paladin
+52.83%
+Secret Rogue
+Versus:	Frost Death Knight
+Winrate:	35.00%
+Games:	40
+Twitch VODs available!
+35.00%
+Secret Rogue
+Versus:	Big Demon Hunter
+Winrate:	50.00%
+Games:	44
+Twitch VODs available!
+50.00%
+Secret Rogue
+Versus:	Control Priest
+Winrate:	55.10%
+Games:	49
+Twitch VODs available!
+55.10%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Secret Rogue
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Fatigue Imp Warlock
+Versus:	Blood Death Knight
+Winrate:	50.00%
+Games:	118
+Twitch VODs available!
+50.00%
+Fatigue Imp Warlock
+Versus:	Spell Demon Hunter
+Winrate:	26.47%
+Games:	102
+Twitch VODs available!
+26.47%
+Fatigue Imp Warlock
+Versus:	Miracle Rogue
+Winrate:	34.23%
+Games:	111
+Twitch VODs available!
+34.23%
+Fatigue Imp Warlock
+Versus:	Tony Druid
+Winrate:	67.60%
+Games:	71
+Twitch VODs available!
+67.60%
+Fatigue Imp Warlock
+Versus:	Unholy Death Knight
+Winrate:	26.98%
+Games:	63
+Twitch VODs available!
+26.98%
+Fatigue Imp Warlock
+Versus:	Other Druid
+Winrate:	69.84%
+Games:	63
+69.84%
+Fatigue Imp Warlock
+Versus:	Outcast Demon Hunter
+Winrate:	35.29%
+Games:	51
+Twitch VODs available!
+35.29%
+Fatigue Imp Warlock
+Versus:	Undead Priest
+Winrate:	52.27%
+Games:	44
+Twitch VODs available!
+52.27%
+Fatigue Imp Warlock
+Versus:	Frost Death Knight
+Winrate:	28.26%
+Games:	46
+Twitch VODs available!
+28.26%
+Fatigue Imp Warlock
+Versus:	Big Demon Hunter
 Winrate:	43.58%
 Games:	39
 Twitch VODs available!
 43.58%
-Quest Hunter
-Versus:	Frost Aggro Death Knight
-Winrate:	40.00%
-Games:	40
-Twitch VODs available!
-40.00%
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Hunter
-Mirror matchup
-TwitchTwitch VODs available!
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Evolve Shaman
-Versus:	Undead Priest
-Winrate:	54.11%
-Games:	85
-Twitch VODs available!
-54.11%
-Evolve Shaman
-Versus:	Miracle Rogue
-Winrate:	49.51%
-Games:	103
-Twitch VODs available!
-49.51%
-Evolve Shaman
-Versus:	Thief Rogue
-Winrate:	41.81%
-Games:	55
-Twitch VODs available!
-41.81%
-Evolve Shaman
-Versus:	Quest Druid
-Winrate:	51.21%
-Games:	82
-Twitch VODs available!
-51.21%
-Evolve Shaman
-Versus:	Fel Demon Hunter
-Winrate:	40.00%
-Games:	50
-Twitch VODs available!
-40.00%
-Evolve Shaman
+Fatigue Imp Warlock
 Versus:	Pure Paladin
-Winrate:	35.29%
-Games:	34
+Winrate:	36.66%
+Games:	30
 Twitch VODs available!
-35.29%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Evolve Shaman
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Dragon Paladin
-Versus:	Undead Priest
-Winrate:	52.63%
-Games:	76
-Twitch VODs available!
-52.63%
-Dragon Paladin
-Versus:	Miracle Rogue
-Winrate:	51.72%
-Games:	58
-Twitch VODs available!
-51.72%
-Dragon Paladin
-Versus:	Thief Rogue
-Winrate:	37.73%
-Games:	53
-Twitch VODs available!
-37.73%
-Dragon Paladin
-Versus:	Quest Druid
-Winrate:	33.33%
-Games:	48
-Twitch VODs available!
-33.33%
-Dragon Paladin
-Versus:	Fel Demon Hunter
-Winrate:	37.50%
-Games:	32
-Twitch VODs available!
-37.50%
-Dragon Paladin
-Versus:	Pure Paladin
-Winrate:	50.00%
-Games:	34
-Twitch VODs available!
-50.00%
-Dragon Paladin
-Versus:	Frost Aggro Death Knight
-Winrate:	66.66%
-Games:	33
-Twitch VODs available!
-66.66%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Dragon Paladin
-Mirror matchup
-TwitchTwitch VODs available!
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Aggro Druid
-Versus:	Undead Priest
-Winrate:	30.00%
-Games:	70
-Twitch VODs available!
-30.00%
-Aggro Druid
-Versus:	Miracle Rogue
-Winrate:	48.97%
-Games:	49
-48.97%
-Aggro Druid
-Versus:	Thief Rogue
-Winrate:	45.76%
-Games:	59
-Twitch VODs available!
-45.76%
-Aggro Druid
-Versus:	Quest Druid
-Winrate:	62.00%
-Games:	50
-62.00%
-Aggro Druid
-Versus:	Fel Demon Hunter
-Winrate:	44.11%
-Games:	34
-44.11%
-Not enough games
-
-⁓
-Aggro Druid
-Versus:	Frost Aggro Death Knight
-Winrate:	30.55%
-Games:	36
-Twitch VODs available!
-30.55%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Aggro Druid
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Murloc Shaman
-Versus:	Undead Priest
-Winrate:	45.58%
-Games:	68
-Twitch VODs available!
-45.58%
-Murloc Shaman
-Versus:	Miracle Rogue
-Winrate:	58.06%
+36.66%
+Fatigue Imp Warlock
+Versus:	Spooky Mage
+Winrate:	45.16%
 Games:	31
 Twitch VODs available!
-58.06%
-Murloc Shaman
-Versus:	Thief Rogue
-Winrate:	39.21%
-Games:	51
-Twitch VODs available!
-39.21%
-Murloc Shaman
-Versus:	Quest Druid
-Winrate:	50.00%
-Games:	56
-Twitch VODs available!
-50.00%
-Murloc Shaman
-Versus:	Fel Demon Hunter
-Winrate:	43.90%
-Games:	41
-Twitch VODs available!
-43.90%
-Murloc Shaman
-Versus:	Pure Paladin
-Winrate:	63.63%
-Games:	33
-Twitch VODs available!
-63.63%
+45.16%
 Not enough games
 
 ⁓
@@ -6927,213 +3791,7 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Murloc Shaman
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Casino Mage
-Versus:	Undead Priest
-Winrate:	36.66%
-Games:	60
-Twitch VODs available!
-36.66%
-Not enough games
-
-⁓
-Casino Mage
-Versus:	Thief Rogue
-Winrate:	40.42%
-Games:	47
-Twitch VODs available!
-40.42%
-Casino Mage
-Versus:	Quest Druid
-Winrate:	20.00%
-Games:	50
-Twitch VODs available!
-20.00%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Casino Mage
+Fatigue Imp Warlock
 Mirror matchup
 TwitchTwitch VODs available!
 Not enough games
@@ -7154,305 +3812,91 @@ Not enough games
 Not enough games
 
 ⁓
-Other Warlock
-Versus:	Undead Priest
-Winrate:	39.62%
-Games:	53
-39.62%
-Other Warlock
-Versus:	Miracle Rogue
-Winrate:	18.18%
-Games:	44
-18.18%
-Other Warlock
-Versus:	Thief Rogue
-Winrate:	37.14%
-Games:	35
-37.14%
-Other Warlock
-Versus:	Quest Druid
-Winrate:	9.09%
-Games:	33
-9.09%
 Not enough games
 
 ⁓
-Other Warlock
-Versus:	Pure Paladin
-Winrate:	36.84%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Thaddius Warlock
+Versus:	Blood Death Knight
+Winrate:	52.38%
+Games:	105
+Twitch VODs available!
+52.38%
+Thaddius Warlock
+Versus:	Spell Demon Hunter
+Winrate:	50.00%
+Games:	122
+Twitch VODs available!
+50.00%
+Thaddius Warlock
+Versus:	Miracle Rogue
+Winrate:	41.66%
+Games:	84
+Twitch VODs available!
+41.66%
+Thaddius Warlock
+Versus:	Tony Druid
+Winrate:	43.28%
+Games:	67
+Twitch VODs available!
+43.28%
+Thaddius Warlock
+Versus:	Unholy Death Knight
+Winrate:	41.66%
+Games:	60
+Twitch VODs available!
+41.66%
+Thaddius Warlock
+Versus:	Other Druid
+Winrate:	48.21%
+Games:	56
+48.21%
+Thaddius Warlock
+Versus:	Outcast Demon Hunter
+Winrate:	68.42%
 Games:	38
-36.84%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Warlock
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Warlock
+Twitch VODs available!
+68.42%
+Thaddius Warlock
 Versus:	Undead Priest
-Winrate:	61.70%
+Winrate:	36.17%
 Games:	47
-61.70%
-Quest Warlock
-Versus:	Miracle Rogue
-Winrate:	16.66%
-Games:	30
-16.66%
-Quest Warlock
-Versus:	Thief Rogue
-Winrate:	55.88%
-Games:	34
-55.88%
-Quest Warlock
-Versus:	Quest Druid
-Winrate:	36.66%
-Games:	30
-36.66%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Warlock
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Charge Warrior
-Versus:	Undead Priest
-Winrate:	53.84%
-Games:	65
 Twitch VODs available!
-53.84%
-Charge Warrior
-Versus:	Miracle Rogue
-Winrate:	45.31%
-Games:	64
-Twitch VODs available!
-45.31%
-Charge Warrior
-Versus:	Thief Rogue
-Winrate:	47.61%
+36.17%
+Thaddius Warlock
+Versus:	Frost Death Knight
+Winrate:	64.28%
 Games:	42
-47.61%
-Charge Warrior
-Versus:	Quest Druid
+Twitch VODs available!
+64.28%
+Thaddius Warlock
+Versus:	Big Demon Hunter
+Winrate:	45.45%
+Games:	44
+Twitch VODs available!
+45.45%
+Thaddius Warlock
+Versus:	Control Priest
+Winrate:	37.50%
+Games:	40
+Twitch VODs available!
+37.50%
+Thaddius Warlock
+Versus:	Pure Paladin
 Winrate:	22.58%
 Games:	31
 Twitch VODs available!
@@ -7490,83 +3934,9 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Charge Warrior
+Thaddius Warlock
 Mirror matchup
+TwitchTwitch VODs available!
 Not enough games
 
 ⁓
@@ -7576,11 +3946,6 @@ Not enough games
 Not enough games
 
 ⁓
-Murloc Warlock
-Versus:	Undead Priest
-Winrate:	39.28%
-Games:	56
-39.28%
 Not enough games
 
 ⁓
@@ -7605,252 +3970,1308 @@ Not enough games
 Not enough games
 
 ⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Murloc Warlock
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Paladin
-Versus:	Undead Priest
-Winrate:	29.54%
-Games:	44
-29.54%
-Not enough games
-
-⁓
-Other Paladin
-Versus:	Thief Rogue
-Winrate:	32.35%
-Games:	34
-32.35%
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Other Paladin
-Mirror matchup
-Not enough games
-
-⁓
-Not enough games
-
-⁓
-Quest Warrior
+Menagerie Warrior
+Versus:	Blood Death Knight
+Winrate:	48.51%
+Games:	101
+Twitch VODs available!
+48.51%
+Menagerie Warrior
+Versus:	Spell Demon Hunter
+Winrate:	50.86%
+Games:	116
+Twitch VODs available!
+50.86%
+Menagerie Warrior
 Versus:	Miracle Rogue
-Winrate:	30.00%
-Games:	30
-30.00%
+Winrate:	25.97%
+Games:	77
+Twitch VODs available!
+25.97%
+Menagerie Warrior
+Versus:	Tony Druid
+Winrate:	52.38%
+Games:	84
+Twitch VODs available!
+52.38%
+Menagerie Warrior
+Versus:	Unholy Death Knight
+Winrate:	28.37%
+Games:	74
+Twitch VODs available!
+28.37%
+Menagerie Warrior
+Versus:	Other Druid
+Winrate:	60.00%
+Games:	35
+60.00%
+Menagerie Warrior
+Versus:	Outcast Demon Hunter
+Winrate:	46.66%
+Games:	45
+Twitch VODs available!
+46.66%
+Menagerie Warrior
+Versus:	Undead Priest
+Winrate:	54.54%
+Games:	44
+Twitch VODs available!
+54.54%
+Menagerie Warrior
+Versus:	Frost Death Knight
+Winrate:	60.46%
+Games:	43
+Twitch VODs available!
+60.46%
+Menagerie Warrior
+Versus:	Big Demon Hunter
+Winrate:	66.66%
+Games:	39
+Twitch VODs available!
+66.66%
+Menagerie Warrior
+Versus:	Control Priest
+Winrate:	44.11%
+Games:	34
+Twitch VODs available!
+44.11%
 Not enough games
 
+⁓
+Menagerie Warrior
+Versus:	Spooky Mage
+Winrate:	63.33%
+Games:	30
+Twitch VODs available!
+63.33%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Menagerie Warrior
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Mech Paladin
+Versus:	Blood Death Knight
+Winrate:	51.45%
+Games:	103
+Twitch VODs available!
+51.45%
+Mech Paladin
+Versus:	Spell Demon Hunter
+Winrate:	57.00%
+Games:	100
+Twitch VODs available!
+57.00%
+Mech Paladin
+Versus:	Miracle Rogue
+Winrate:	38.98%
+Games:	59
+Twitch VODs available!
+38.98%
+Mech Paladin
+Versus:	Tony Druid
+Winrate:	66.66%
+Games:	87
+Twitch VODs available!
+66.66%
+Mech Paladin
+Versus:	Unholy Death Knight
+Winrate:	27.17%
+Games:	92
+Twitch VODs available!
+27.17%
+Mech Paladin
+Versus:	Other Druid
+Winrate:	64.70%
+Games:	51
+64.70%
+Not enough games
+
+⁓
+Mech Paladin
+Versus:	Undead Priest
+Winrate:	56.81%
+Games:	44
+Twitch VODs available!
+56.81%
+Not enough games
+
+⁓
+Mech Paladin
+Versus:	Big Demon Hunter
+Winrate:	69.38%
+Games:	49
+Twitch VODs available!
+69.38%
+Mech Paladin
+Versus:	Control Priest
+Winrate:	35.29%
+Games:	34
+Twitch VODs available!
+35.29%
+Not enough games
+
+⁓
+Mech Paladin
+Versus:	Spooky Mage
+Winrate:	35.48%
+Games:	31
+Twitch VODs available!
+35.48%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Mech Paladin
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Drum Druid
+Versus:	Blood Death Knight
+Winrate:	48.59%
+Games:	107
+Twitch VODs available!
+48.59%
+Drum Druid
+Versus:	Spell Demon Hunter
+Winrate:	41.66%
+Games:	108
+Twitch VODs available!
+41.66%
+Drum Druid
+Versus:	Miracle Rogue
+Winrate:	46.66%
+Games:	75
+Twitch VODs available!
+46.66%
+Drum Druid
+Versus:	Tony Druid
+Winrate:	54.16%
+Games:	72
+Twitch VODs available!
+54.16%
+Drum Druid
+Versus:	Unholy Death Knight
+Winrate:	31.48%
+Games:	54
+Twitch VODs available!
+31.48%
+Drum Druid
+Versus:	Other Druid
+Winrate:	60.41%
+Games:	48
+60.41%
+Drum Druid
+Versus:	Outcast Demon Hunter
+Winrate:	46.51%
+Games:	43
+46.51%
+Drum Druid
+Versus:	Undead Priest
+Winrate:	34.09%
+Games:	44
+Twitch VODs available!
+34.09%
+Drum Druid
+Versus:	Frost Death Knight
+Winrate:	58.33%
+Games:	36
+Twitch VODs available!
+58.33%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Drum Druid
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Enrage Warrior
+Versus:	Blood Death Knight
+Winrate:	61.05%
+Games:	95
+Twitch VODs available!
+61.05%
+Enrage Warrior
+Versus:	Spell Demon Hunter
+Winrate:	42.69%
+Games:	89
+Twitch VODs available!
+42.69%
+Enrage Warrior
+Versus:	Miracle Rogue
+Winrate:	40.57%
+Games:	69
+Twitch VODs available!
+40.57%
+Enrage Warrior
+Versus:	Tony Druid
+Winrate:	38.59%
+Games:	57
+Twitch VODs available!
+38.59%
+Enrage Warrior
+Versus:	Unholy Death Knight
+Winrate:	36.73%
+Games:	49
+Twitch VODs available!
+36.73%
+Enrage Warrior
+Versus:	Other Druid
+Winrate:	53.65%
+Games:	41
+53.65%
+Enrage Warrior
+Versus:	Outcast Demon Hunter
+Winrate:	36.84%
+Games:	38
+Twitch VODs available!
+36.84%
+Enrage Warrior
+Versus:	Undead Priest
+Winrate:	35.48%
+Games:	31
+Twitch VODs available!
+35.48%
+Enrage Warrior
+Versus:	Frost Death Knight
+Winrate:	50.00%
+Games:	42
+Twitch VODs available!
+50.00%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Enrage Warrior
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Naga Lightshow Mage
+Versus:	Blood Death Knight
+Winrate:	48.38%
+Games:	62
+Twitch VODs available!
+48.38%
+Naga Lightshow Mage
+Versus:	Spell Demon Hunter
+Winrate:	35.29%
+Games:	68
+35.29%
+Naga Lightshow Mage
+Versus:	Miracle Rogue
+Winrate:	21.27%
+Games:	47
+21.27%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Naga Lightshow Mage
+Versus:	Other Druid
+Winrate:	40.00%
+Games:	30
+40.00%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Naga Lightshow Mage
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Dagger Rogue
+Versus:	Blood Death Knight
+Winrate:	38.46%
+Games:	52
+38.46%
+Dagger Rogue
+Versus:	Spell Demon Hunter
+Winrate:	53.19%
+Games:	47
+53.19%
+Dagger Rogue
+Versus:	Miracle Rogue
+Winrate:	55.88%
+Games:	34
+55.88%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Dagger Rogue
+Versus:	Other Druid
+Winrate:	62.16%
+Games:	37
+62.16%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Dagger Rogue
+Versus:	Frost Death Knight
+Winrate:	40.00%
+Games:	30
+40.00%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Dagger Rogue
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Arcane Hunter
+Versus:	Blood Death Knight
+Winrate:	40.00%
+Games:	55
+Twitch VODs available!
+40.00%
+Arcane Hunter
+Versus:	Spell Demon Hunter
+Winrate:	41.50%
+Games:	53
+Twitch VODs available!
+41.50%
+Not enough games
+
+⁓
+Arcane Hunter
+Versus:	Tony Druid
+Winrate:	56.75%
+Games:	37
+Twitch VODs available!
+56.75%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Arcane Hunter
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Dancing Paladin
+Versus:	Blood Death Knight
+Winrate:	52.77%
+Games:	36
+Twitch VODs available!
+52.77%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Dancing Paladin
+Mirror matchup
+TwitchTwitch VODs available!
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Hybrid Hunter
+Versus:	Blood Death Knight
+Winrate:	46.66%
+Games:	30
+Twitch VODs available!
+46.66%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Hybrid Hunter
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Other Priest
+Versus:	Blood Death Knight
+Winrate:	55.55%
+Games:	54
+55.55%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Other Priest
+Versus:	Tony Druid
+Winrate:	45.45%
+Games:	33
+45.45%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Other Priest
+Mirror matchup
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Combo Rogue
+Versus:	Spell Demon Hunter
+Winrate:	45.16%
+Games:	31
+Twitch VODs available!
+45.16%
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Not enough games
+
+⁓
+Combo Rogue
+Mirror matchup
+TwitchTwitch VODs available!
